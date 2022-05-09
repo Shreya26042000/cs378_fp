@@ -5,6 +5,7 @@ import datasets
 from nltk.corpus import wordnet as wn
 import random
 from antonyms import antonyms_list
+from synonyms import synonyms_list
 import json
 import csv  
 
@@ -23,54 +24,112 @@ import csv
 # max_samples = 10
 # test_dataset = test_dataset.select(range(max_samples))
 
-editor = Editor.Editor()
-print (editor.lexicons.keys())
-# print(test_dataset)
-
-# for i in test_dataset:
-#   print(i)
-
-# ADJ, ADJ_SAT, ADV, NOUN, VERB = "a", "s", "r", "n", "v"
-# count = 0
-
-# for i in wn.all_synsets():
-#     if i.pos() in ['a', 's']: # If synset is adj or satelite-adj.
-#         for j in i.lemmas(): # Iterating through lemmas for each synset.
-#             if j.antonyms(): # If adj has antonym.
-#               if count%2 == 0:
-#                   # Prints the adj-antonym pair.
-#                   with open("checklist_data/antonyms.txt", "a") as f:
-#                     # print(j.name(), j.antonyms()[0].name())
-#                     f.write('(\'' + j.name() + '\'' + ',\'' + j.antonyms()[0].name() + '\')')
-#                     f.write(',\n')
-#               count+=1
-
-editor.lexicons['antonym'] = antonyms_list
-editor.lexicons['name'] = editor.lexicons['first_name']
-out = editor.template('{name1} is {antonym1[0]},{name1} is {antonym1[1]},2')
-
-# editor.template creates a cross product of all choices for placeholders. Let's sample 10 examples from this
-random.shuffle(out.data)
-examples = out.data[:1000]
-# for i in range(len(examples)):
-#     print ('contradiction ' + examples[i])
 
 
-for row in examples:
-  data = row.split(',')
-  with open('checklist_data/antonyms_dataset.json', 'a', encoding='UTF8') as f:
-      # write the data
-      data = {'premise': data[0],
-      'hypothesis': data[1],
-      'label': 2} 
-      # 2 for contradiction
-      s = json.dumps(data)
-      f.write(s + '\n')
+def create_antonyms_lsit():
+  ADJ, ADJ_SAT, ADV, NOUN, VERB = "a", "s", "r", "n", "v"
+  count = 0
 
+  for i in wn.all_synsets():
+      if i.pos() in ['a', 's']: # If synset is adj or satelite-adj.
+          for j in i.lemmas(): # Iterating through lemmas for each synset.
+              if j.antonyms(): # If adj has antonym.
+                if count%2 == 0:
+                    # Prints the adj-antonym pair.
+                    with open("checklist_data/antonyms.txt", "a") as f:
+                      f.write('(\'' + j.name() + '\'' + ',\'' + j.antonyms()[0].name() + '\')')
+                      f.write(',\n')
+                count+=1
 
+def create_antonyms_dataset():
+  editor = Editor.Editor()
+  editor.lexicons['antonym'] = antonyms_list
+  editor.lexicons['name'] = editor.lexicons['first_name']
+  out = editor.template('{name1} is not {antonym1[0]},{name1} is {antonym1[1]}')
 
+  # editor.template creates a cross product of all choices for placeholders. Let's sample 10 examples from this
+  random.shuffle(out.data)
+  examples = out.data[:1000]
 
+  for row in examples:
+    data = row.split(',')
+    with open('checklist_data/antonyms_dataset2.json', 'a', encoding='UTF8') as f:
+        # write the data
+        data = {'premise': data[0],
+        'hypothesis': data[1],
+        'label': 0} 
+        # 0 for entailment
+        # 1 for neutral
+        # 2 for contradiction
+        s = json.dumps(data)
+        f.write(s + '\n')
 
+def create_synonyms_list():
+  ADJ, ADJ_SAT, ADV, NOUN, VERB = "a", "s", "r", "n", "v"
+  count = 0
+
+  for i in wn.all_synsets():
+      if i.pos() in ['a', 's']: # If synset is adj or satelite-adj.
+        word = i.lemmas()[0].name()
+        synonyms = set()
+        for syn in wn.synsets(word, pos=wn.ADJ):
+          for l in syn.lemmas():
+            synonyms.add(l.name())
+        synonyms.remove(word)
+        if synonyms.__len__() > 0:
+          with open("checklist_data/synonyms.txt", "a") as f:
+            f.write('(\'' + word + '\'' + ',\'' + next(iter(synonyms)) + '\')')
+            f.write(',\n')
+
+def create_synonyms_dataset1():
+  editor = Editor.Editor()
+  random.shuffle(synonyms_list)
+  editor.lexicons['synonym'] = synonyms_list[:2000]
+  editor.lexicons['name'] = editor.lexicons['first_name']
+  out = editor.template('{name1} is {synonym1[0]},{name1} is {synonym1[1]}')
+
+  # editor.template creates a cross product of all choices for placeholders. Let's sample 10 examples from this
+  random.shuffle(out.data)
+  examples = out.data[:1000]
+
+  for row in examples:
+    data = row.split(',')
+    with open('checklist_data/synonyms_dataset1.json', 'a', encoding='UTF8') as f:
+        # write the data
+        data = {'premise': data[0],
+        'hypothesis': data[1],
+        'label': 0} 
+        # 0 for entailment
+        # 1 for neutral
+        # 2 for contradiction
+        s = json.dumps(data)
+        f.write(s + '\n')
+
+def create_synonyms_dataset2():
+  editor = Editor.Editor()
+  random.shuffle(synonyms_list)
+  editor.lexicons['synonym'] = synonyms_list[:2000]
+  editor.lexicons['name'] = editor.lexicons['first_name']
+  out = editor.template('{name1} is {synonym1[0]},{name1} is not {synonym1[1]}')
+
+  # editor.template creates a cross product of all choices for placeholders. Let's sample 10 examples from this
+  random.shuffle(out.data)
+  examples = out.data[:1000]
+
+  for row in examples:
+    data = row.split(',')
+    with open('checklist_data/synonyms_dataset2.json', 'a', encoding='UTF8') as f:
+        # write the data
+        data = {'premise': data[0],
+        'hypothesis': data[1],
+        'label': 2} 
+        # 0 for entailment
+        # 1 for neutral
+        # 2 for contradiction
+        s = json.dumps(data)
+        f.write(s + '\n')
+
+create_synonyms_dataset2()
 
 
 
