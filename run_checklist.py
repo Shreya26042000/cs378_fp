@@ -300,7 +300,33 @@ def create_countries_dataset2():
         s = json.dumps(data)
         f.write(s + '\n')
 
-create_countries_dataset2()
+def create_neutral():
+  editor = Editor.Editor()
+  # random.shuffle(synonyms_list)
+  print(editor.lexicons.keys())
+  # editor.lexicons['synonym'] = synonyms_list[:1000]
+  editor.lexicons['name'] = editor.lexicons['first_name']
+  out = editor.template('{name1} is {nationality1}.;{name2} is {nationality1}.')
+
+  # editor.template creates a cross product of all choices for placeholders. Let's sample 10 examples from this
+  random.shuffle(out.data)
+  examples = out.data[:1000]
+
+  for row in examples:
+    data = row.split(';')
+    with open('checklist_data/neutral_dataset1.json', 'a', encoding='UTF8') as f:
+        # write the data
+        data = {'premise': data[0],
+        'hypothesis': data[1],
+        'label': 1} 
+        # 0 for entailment
+        # 1 for neutral
+        # 2 for contradiction
+        s = json.dumps(data)
+        f.write(s + '\n')
+
+# create_countries_dataset2()
+create_neutral()
 # generate_countries()
 # superlatives_comparitives2()
 # generate_years()

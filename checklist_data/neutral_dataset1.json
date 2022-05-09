@@ -1,0 +1,1000 @@
+{"premise": "Charlotte is Dominican.", "hypothesis": "Joe is Dominican.", "label": 1}
+{"premise": "Al is Belgian.", "hypothesis": "Steve is Belgian.", "label": 1}
+{"premise": "Frederick is Danish.", "hypothesis": "Dick is Danish.", "label": 1}
+{"premise": "Harold is Cameroonian.", "hypothesis": "James is Cameroonian.", "label": 1}
+{"premise": "Laura is Jamaican.", "hypothesis": "Anne is Jamaican.", "label": 1}
+{"premise": "Mark is Tongan.", "hypothesis": "Harriet is Tongan.", "label": 1}
+{"premise": "Brian is Gibraltar.", "hypothesis": "Nicole is Gibraltar.", "label": 1}
+{"premise": "Daniel is British Virgin Island.", "hypothesis": "Roger is British Virgin Island.", "label": 1}
+{"premise": "Jay is Ugandan.", "hypothesis": "Kenneth is Ugandan.", "label": 1}
+{"premise": "Jerry is Tongan.", "hypothesis": "Dick is Tongan.", "label": 1}
+{"premise": "Harold is Lao.", "hypothesis": "Bruce is Lao.", "label": 1}
+{"premise": "Dorothy is Tunisian.", "hypothesis": "Carolyn is Tunisian.", "label": 1}
+{"premise": "Louise is Mauritanian.", "hypothesis": "Sophie is Mauritanian.", "label": 1}
+{"premise": "Ron is Iraqi.", "hypothesis": "Emily is Iraqi.", "label": 1}
+{"premise": "Virginia is Timorese.", "hypothesis": "Amanda is Timorese.", "label": 1}
+{"premise": "Johnny is Zambian.", "hypothesis": "Keith is Zambian.", "label": 1}
+{"premise": "Harold is Bhutanese.", "hypothesis": "Michael is Bhutanese.", "label": 1}
+{"premise": "Cynthia is Pakistani.", "hypothesis": "Catherine is Pakistani.", "label": 1}
+{"premise": "Roger is Libyan.", "hypothesis": "Pamela is Libyan.", "label": 1}
+{"premise": "Hugh is Fijian.", "hypothesis": "Emma is Fijian.", "label": 1}
+{"premise": "Caroline is New Caledonian.", "hypothesis": "Carol is New Caledonian.", "label": 1}
+{"premise": "David is Hong Kong.", "hypothesis": "Betty is Hong Kong.", "label": 1}
+{"premise": "Philip is South Korean.", "hypothesis": "Suzanne is South Korean.", "label": 1}
+{"premise": "Amy is Manx.", "hypothesis": "Alice is Manx.", "label": 1}
+{"premise": "Jack is Sri Lankan.", "hypothesis": "Fiona is Sri Lankan.", "label": 1}
+{"premise": "Ralph is Croatian.", "hypothesis": "Roger is Croatian.", "label": 1}
+{"premise": "Virginia is Saint-Martinoise.", "hypothesis": "Jean is Saint-Martinoise.", "label": 1}
+{"premise": "Louise is Chinese.", "hypothesis": "Ellen is Chinese.", "label": 1}
+{"premise": "Christopher is Macanese.", "hypothesis": "Charlie is Macanese.", "label": 1}
+{"premise": "Keith is Syrian.", "hypothesis": "Peter is Syrian.", "label": 1}
+{"premise": "Anthony is Serbian.", "hypothesis": "Jason is Serbian.", "label": 1}
+{"premise": "Melissa is Gibraltar.", "hypothesis": "Catherine is Gibraltar.", "label": 1}
+{"premise": "Nancy is Gabonese.", "hypothesis": "Suzanne is Gabonese.", "label": 1}
+{"premise": "Jack is Bruneian.", "hypothesis": "Andrew is Bruneian.", "label": 1}
+{"premise": "Melissa is Liechtenstein.", "hypothesis": "Caroline is Liechtenstein.", "label": 1}
+{"premise": "Peter is Belgian.", "hypothesis": "Ellen is Belgian.", "label": 1}
+{"premise": "William is Haitian.", "hypothesis": "Jennifer is Haitian.", "label": 1}
+{"premise": "Frederick is Timorese.", "hypothesis": "Frank is Timorese.", "label": 1}
+{"premise": "Harold is Latvian.", "hypothesis": "Ron is Latvian.", "label": 1}
+{"premise": "Andrea is Syrian.", "hypothesis": "James is Syrian.", "label": 1}
+{"premise": "Suzanne is Moldovan.", "hypothesis": "Dick is Moldovan.", "label": 1}
+{"premise": "Howard is Motswana.", "hypothesis": "Suzanne is Motswana.", "label": 1}
+{"premise": "Amanda is Montenegrin.", "hypothesis": "Diana is Montenegrin.", "label": 1}
+{"premise": "Carol is Indian.", "hypothesis": "Billy is Indian.", "label": 1}
+{"premise": "Ann is Moroccan.", "hypothesis": "Scott is Moroccan.", "label": 1}
+{"premise": "Alison is Russian.", "hypothesis": "Carolyn is Russian.", "label": 1}
+{"premise": "Alan is Malawian.", "hypothesis": "Jean is Malawian.", "label": 1}
+{"premise": "Charlie is Bissau-Guinean.", "hypothesis": "James is Bissau-Guinean.", "label": 1}
+{"premise": "Louise is Lebanese.", "hypothesis": "Pamela is Lebanese.", "label": 1}
+{"premise": "Marie is Syrian.", "hypothesis": "Colin is Syrian.", "label": 1}
+{"premise": "Robert is Japanese.", "hypothesis": "Scott is Japanese.", "label": 1}
+{"premise": "Don is Saint Vincentian.", "hypothesis": "Jessica is Saint Vincentian.", "label": 1}
+{"premise": "Billy is Malagasy.", "hypothesis": "Eleanor is Malagasy.", "label": 1}
+{"premise": "Steve is Bulgarian.", "hypothesis": "Fred is Bulgarian.", "label": 1}
+{"premise": "Ray is Dutch.", "hypothesis": "Alexander is Dutch.", "label": 1}
+{"premise": "Jane is Surinamese.", "hypothesis": "Julie is Surinamese.", "label": 1}
+{"premise": "Grace is South Sudanese.", "hypothesis": "Matt is South Sudanese.", "label": 1}
+{"premise": "Bruce is Dominican.", "hypothesis": "Ian is Dominican.", "label": 1}
+{"premise": "Mary is Libyan.", "hypothesis": "Cynthia is Libyan.", "label": 1}
+{"premise": "Ryan is Belarusian.", "hypothesis": "Walter is Belarusian.", "label": 1}
+{"premise": "Daniel is Lao.", "hypothesis": "Daniel is Lao.", "label": 1}
+{"premise": "Suzanne is French.", "hypothesis": "Mike is French.", "label": 1}
+{"premise": "Kate is American.", "hypothesis": "Harriet is American.", "label": 1}
+{"premise": "Louise is Argentine.", "hypothesis": "Bob is Argentine.", "label": 1}
+{"premise": "Francis is French Polynesian.", "hypothesis": "Mark is French Polynesian.", "label": 1}
+{"premise": "Mark is Turkmen.", "hypothesis": "William is Turkmen.", "label": 1}
+{"premise": "Hugh is Bissau-Guinean.", "hypothesis": "Dick is Bissau-Guinean.", "label": 1}
+{"premise": "Sophie is Bahraini.", "hypothesis": "Alex is Bahraini.", "label": 1}
+{"premise": "Sally is Norwegian.", "hypothesis": "Carolyn is Norwegian.", "label": 1}
+{"premise": "Bob is Libyan.", "hypothesis": "Joseph is Libyan.", "label": 1}
+{"premise": "Sally is Mon\u00e9gasque.", "hypothesis": "Walter is Mon\u00e9gasque.", "label": 1}
+{"premise": "Larry is American Samoan.", "hypothesis": "Frederick is American Samoan.", "label": 1}
+{"premise": "Emma is Emirati.", "hypothesis": "Joe is Emirati.", "label": 1}
+{"premise": "Carol is British.", "hypothesis": "Mark is British.", "label": 1}
+{"premise": "Fiona is Chadian.", "hypothesis": "Annie is Chadian.", "label": 1}
+{"premise": "William is Indonesian.", "hypothesis": "Katherine is Indonesian.", "label": 1}
+{"premise": "Harold is Slovenian.", "hypothesis": "Michelle is Slovenian.", "label": 1}
+{"premise": "Sophie is from Channel Islands.", "hypothesis": "Ed is from Channel Islands.", "label": 1}
+{"premise": "Lucy is Japanese.", "hypothesis": "Jason is Japanese.", "label": 1}
+{"premise": "Daniel is Eritrean.", "hypothesis": "Ellen is Eritrean.", "label": 1}
+{"premise": "Sharon is South African.", "hypothesis": "Kathleen is South African.", "label": 1}
+{"premise": "Louis is American Samoan.", "hypothesis": "Dave is American Samoan.", "label": 1}
+{"premise": "Louise is Cambodian.", "hypothesis": "Brian is Cambodian.", "label": 1}
+{"premise": "Bill is Uruguayan.", "hypothesis": "George is Uruguayan.", "label": 1}
+{"premise": "Alice is Manx.", "hypothesis": "Jimmy is Manx.", "label": 1}
+{"premise": "Lawrence is Belizean.", "hypothesis": "Gary is Belizean.", "label": 1}
+{"premise": "Bobby is Namibian.", "hypothesis": "Martha is Namibian.", "label": 1}
+{"premise": "Diane is from Channel Islands.", "hypothesis": "Walter is from Channel Islands.", "label": 1}
+{"premise": "Pamela is Liechtenstein.", "hypothesis": "Charles is Liechtenstein.", "label": 1}
+{"premise": "Tony is Belizean.", "hypothesis": "Edwin is Belizean.", "label": 1}
+{"premise": "Ashley is Samoan.", "hypothesis": "Dan is Samoan.", "label": 1}
+{"premise": "Leslie is South Korean.", "hypothesis": "Mary is South Korean.", "label": 1}
+{"premise": "Nicole is Comoran.", "hypothesis": "Virginia is Comoran.", "label": 1}
+{"premise": "Julia is Lithuanian.", "hypothesis": "Diana is Lithuanian.", "label": 1}
+{"premise": "Steven is Chadian.", "hypothesis": "Mark is Chadian.", "label": 1}
+{"premise": "Frank is Liechtenstein.", "hypothesis": "Roy is Liechtenstein.", "label": 1}
+{"premise": "Lisa is Kittitian or Nevisian.", "hypothesis": "Tim is Kittitian or Nevisian.", "label": 1}
+{"premise": "Patrick is Burmese.", "hypothesis": "Rose is Burmese.", "label": 1}
+{"premise": "Kim is Turkish.", "hypothesis": "Gary is Turkish.", "label": 1}
+{"premise": "Donald is Irish.", "hypothesis": "Arthur is Irish.", "label": 1}
+{"premise": "George is Mauritanian.", "hypothesis": "Jonathan is Mauritanian.", "label": 1}
+{"premise": "Dorothy is Moroccan.", "hypothesis": "Benjamin is Moroccan.", "label": 1}
+{"premise": "Victoria is Uzbekistani.", "hypothesis": "Michael is Uzbekistani.", "label": 1}
+{"premise": "Matthew is German.", "hypothesis": "Billy is German.", "label": 1}
+{"premise": "Frances is Icelandic.", "hypothesis": "Jimmy is Icelandic.", "label": 1}
+{"premise": "Lawrence is Estonian.", "hypothesis": "James is Estonian.", "label": 1}
+{"premise": "Elizabeth is Andorran.", "hypothesis": "Roy is Andorran.", "label": 1}
+{"premise": "Mark is Pakistani.", "hypothesis": "Diane is Pakistani.", "label": 1}
+{"premise": "Mark is Canadian.", "hypothesis": "Bill is Canadian.", "label": 1}
+{"premise": "Jeff is Cypriot.", "hypothesis": "Francis is Cypriot.", "label": 1}
+{"premise": "Jeff is Sudanese.", "hypothesis": "Fred is Sudanese.", "label": 1}
+{"premise": "Julie is Algerian.", "hypothesis": "George is Algerian.", "label": 1}
+{"premise": "Alice is from Kosovo.", "hypothesis": "Caroline is from Kosovo.", "label": 1}
+{"premise": "Robert is French.", "hypothesis": "Barbara is French.", "label": 1}
+{"premise": "Alexander is Aruban.", "hypothesis": "Simon is Aruban.", "label": 1}
+{"premise": "Christine is Costa Rican.", "hypothesis": "Frances is Costa Rican.", "label": 1}
+{"premise": "Alison is Maltese.", "hypothesis": "Julia is Maltese.", "label": 1}
+{"premise": "Bill is American.", "hypothesis": "Angela is American.", "label": 1}
+{"premise": "Frank is Barbadian.", "hypothesis": "Carolyn is Barbadian.", "label": 1}
+{"premise": "Evelyn is from Channel Islands.", "hypothesis": "Carl is from Channel Islands.", "label": 1}
+{"premise": "Elizabeth is Northern Marianan.", "hypothesis": "Amanda is Northern Marianan.", "label": 1}
+{"premise": "Walter is Libyan.", "hypothesis": "George is Libyan.", "label": 1}
+{"premise": "Frank is Iraqi.", "hypothesis": "Steven is Iraqi.", "label": 1}
+{"premise": "Emily is Indian.", "hypothesis": "Lynn is Indian.", "label": 1}
+{"premise": "Eleanor is Bruneian.", "hypothesis": "Jason is Bruneian.", "label": 1}
+{"premise": "Amanda is Zambian.", "hypothesis": "Angela is Zambian.", "label": 1}
+{"premise": "Kathryn is Grenadian.", "hypothesis": "Tim is Grenadian.", "label": 1}
+{"premise": "Andrea is Saint-Martinoise.", "hypothesis": "Caroline is Saint-Martinoise.", "label": 1}
+{"premise": "Robin is South Korean.", "hypothesis": "Elizabeth is South Korean.", "label": 1}
+{"premise": "Sally is Swazi.", "hypothesis": "Tony is Swazi.", "label": 1}
+{"premise": "Kelly is Dominican.", "hypothesis": "Laura is Dominican.", "label": 1}
+{"premise": "Frances is Turkish.", "hypothesis": "William is Turkish.", "label": 1}
+{"premise": "Sophie is Omani.", "hypothesis": "Leslie is Omani.", "label": 1}
+{"premise": "Rebecca is French Polynesian.", "hypothesis": "Lynn is French Polynesian.", "label": 1}
+{"premise": "Jennifer is Greek.", "hypothesis": "Dorothy is Greek.", "label": 1}
+{"premise": "Nicole is Portuguese.", "hypothesis": "Pamela is Portuguese.", "label": 1}
+{"premise": "Janet is Gabonese.", "hypothesis": "Thomas is Gabonese.", "label": 1}
+{"premise": "Kevin is Sudanese.", "hypothesis": "Jim is Sudanese.", "label": 1}
+{"premise": "Harry is Egyptian.", "hypothesis": "Ron is Egyptian.", "label": 1}
+{"premise": "Alexander is Slovak.", "hypothesis": "Stephanie is Slovak.", "label": 1}
+{"premise": "Caroline is Angolan.", "hypothesis": "Jimmy is Angolan.", "label": 1}
+{"premise": "Simon is Yemeni.", "hypothesis": "Hugh is Yemeni.", "label": 1}
+{"premise": "Margaret is Czech.", "hypothesis": "Charles is Czech.", "label": 1}
+{"premise": "Ray is Seychellois.", "hypothesis": "Dan is Seychellois.", "label": 1}
+{"premise": "Joseph is American Samoan.", "hypothesis": "Susan is American Samoan.", "label": 1}
+{"premise": "Ron is Israeli.", "hypothesis": "Thomas is Israeli.", "label": 1}
+{"premise": "Andrew is Croatian.", "hypothesis": "Tim is Croatian.", "label": 1}
+{"premise": "Alexander is Georgian.", "hypothesis": "Patrick is Georgian.", "label": 1}
+{"premise": "Roger is Georgian.", "hypothesis": "Roy is Georgian.", "label": 1}
+{"premise": "Andrew is Lebanese.", "hypothesis": "Simon is Lebanese.", "label": 1}
+{"premise": "Al is Kazakhstani.", "hypothesis": "Samuel is Kazakhstani.", "label": 1}
+{"premise": "Claire is Argentine.", "hypothesis": "Brian is Argentine.", "label": 1}
+{"premise": "Chris is Tanzanian.", "hypothesis": "Alexandra is Tanzanian.", "label": 1}
+{"premise": "Jim is Ugandan.", "hypothesis": "Kim is Ugandan.", "label": 1}
+{"premise": "Anne is Serbian.", "hypothesis": "Heather is Serbian.", "label": 1}
+{"premise": "Amy is Libyan.", "hypothesis": "Ellen is Libyan.", "label": 1}
+{"premise": "Martha is Djiboutian.", "hypothesis": "Matt is Djiboutian.", "label": 1}
+{"premise": "Edward is New Caledonian.", "hypothesis": "Harry is New Caledonian.", "label": 1}
+{"premise": "Ian is Uruguayan.", "hypothesis": "Cynthia is Uruguayan.", "label": 1}
+{"premise": "Jason is Honduran.", "hypothesis": "Carol is Honduran.", "label": 1}
+{"premise": "Jean is Nigerien.", "hypothesis": "David is Nigerien.", "label": 1}
+{"premise": "Diane is South Sudanese.", "hypothesis": "Don is South Sudanese.", "label": 1}
+{"premise": "James is Ivorian.", "hypothesis": "Catherine is Ivorian.", "label": 1}
+{"premise": "Don is Uzbekistani.", "hypothesis": "Steve is Uzbekistani.", "label": 1}
+{"premise": "Roger is French Polynesian.", "hypothesis": "Dorothy is French Polynesian.", "label": 1}
+{"premise": "Lucy is Dutch.", "hypothesis": "Kathy is Dutch.", "label": 1}
+{"premise": "Amanda is Eritrean.", "hypothesis": "Adam is Eritrean.", "label": 1}
+{"premise": "Amy is Liberian.", "hypothesis": "Jason is Liberian.", "label": 1}
+{"premise": "Suzanne is Samoan.", "hypothesis": "Laura is Samoan.", "label": 1}
+{"premise": "Fiona is Algerian.", "hypothesis": "Lawrence is Algerian.", "label": 1}
+{"premise": "Lynn is Swedish.", "hypothesis": "Christopher is Swedish.", "label": 1}
+{"premise": "Joe is Haitian.", "hypothesis": "Harry is Haitian.", "label": 1}
+{"premise": "Bobby is Mon\u00e9gasque.", "hypothesis": "Lawrence is Mon\u00e9gasque.", "label": 1}
+{"premise": "Dorothy is Hungarian.", "hypothesis": "Kathleen is Hungarian.", "label": 1}
+{"premise": "Mike is Venezuelan.", "hypothesis": "Christine is Venezuelan.", "label": 1}
+{"premise": "Larry is Congolese.", "hypothesis": "Kathryn is Congolese.", "label": 1}
+{"premise": "Eleanor is Timorese.", "hypothesis": "Adam is Timorese.", "label": 1}
+{"premise": "Jimmy is Bulgarian.", "hypothesis": "Jennifer is Bulgarian.", "label": 1}
+{"premise": "Michelle is Grenadian.", "hypothesis": "Heather is Grenadian.", "label": 1}
+{"premise": "Jay is Romanian.", "hypothesis": "Louise is Romanian.", "label": 1}
+{"premise": "Walter is Bahraini.", "hypothesis": "Andrea is Bahraini.", "label": 1}
+{"premise": "Lisa is Malawian.", "hypothesis": "Barbara is Malawian.", "label": 1}
+{"premise": "Lauren is Georgian.", "hypothesis": "Don is Georgian.", "label": 1}
+{"premise": "Martin is Greenlandic.", "hypothesis": "Katie is Greenlandic.", "label": 1}
+{"premise": "Sara is Turkmen.", "hypothesis": "Mary is Turkmen.", "label": 1}
+{"premise": "Sandra is Hungarian.", "hypothesis": "Jessica is Hungarian.", "label": 1}
+{"premise": "Al is Kyrgyzstani.", "hypothesis": "Nicole is Kyrgyzstani.", "label": 1}
+{"premise": "Kathleen is Argentine.", "hypothesis": "Frank is Argentine.", "label": 1}
+{"premise": "Frank is Slovak.", "hypothesis": "Jane is Slovak.", "label": 1}
+{"premise": "Barbara is Mongolian.", "hypothesis": "Jean is Mongolian.", "label": 1}
+{"premise": "Jane is Paraguayan.", "hypothesis": "Claire is Paraguayan.", "label": 1}
+{"premise": "Robert is Argentine.", "hypothesis": "Jim is Argentine.", "label": 1}
+{"premise": "Rebecca is Austrian.", "hypothesis": "Helen is Austrian.", "label": 1}
+{"premise": "Walter is Canadian.", "hypothesis": "Jack is Canadian.", "label": 1}
+{"premise": "Joseph is Tuvaluan.", "hypothesis": "Linda is Tuvaluan.", "label": 1}
+{"premise": "Joe is Finnish.", "hypothesis": "Edward is Finnish.", "label": 1}
+{"premise": "Alice is Guinean.", "hypothesis": "Victoria is Guinean.", "label": 1}
+{"premise": "Robin is Kyrgyzstani.", "hypothesis": "Andrea is Kyrgyzstani.", "label": 1}
+{"premise": "Kelly is Belarusian.", "hypothesis": "Mary is Belarusian.", "label": 1}
+{"premise": "Hugh is Palestinian.", "hypothesis": "Ray is Palestinian.", "label": 1}
+{"premise": "Dick is Bulgarian.", "hypothesis": "Judy is Bulgarian.", "label": 1}
+{"premise": "Daniel is Chadian.", "hypothesis": "Matt is Chadian.", "label": 1}
+{"premise": "Philip is Serbian.", "hypothesis": "Sue is Serbian.", "label": 1}
+{"premise": "Anthony is Danish.", "hypothesis": "Ann is Danish.", "label": 1}
+{"premise": "Bill is Nigerian.", "hypothesis": "Albert is Nigerian.", "label": 1}
+{"premise": "Rebecca is Bolivian.", "hypothesis": "Alfred is Bolivian.", "label": 1}
+{"premise": "Sally is Sammarinese.", "hypothesis": "Jimmy is Sammarinese.", "label": 1}
+{"premise": "Billy is New Caledonian.", "hypothesis": "Bill is New Caledonian.", "label": 1}
+{"premise": "Bob is Nauruan.", "hypothesis": "Peter is Nauruan.", "label": 1}
+{"premise": "Judith is Finnish.", "hypothesis": "Ray is Finnish.", "label": 1}
+{"premise": "Fred is Spanish.", "hypothesis": "Judith is Spanish.", "label": 1}
+{"premise": "Ralph is Saint Lucian.", "hypothesis": "Anna is Saint Lucian.", "label": 1}
+{"premise": "Sandra is Caymanian.", "hypothesis": "Susan is Caymanian.", "label": 1}
+{"premise": "Dorothy is Nigerian.", "hypothesis": "Jeff is Nigerian.", "label": 1}
+{"premise": "Angela is Solomon Island.", "hypothesis": "Howard is Solomon Island.", "label": 1}
+{"premise": "Evelyn is Ukrainian.", "hypothesis": "Betty is Ukrainian.", "label": 1}
+{"premise": "Sara is Antiguan or Barbudan.", "hypothesis": "Matthew is Antiguan or Barbudan.", "label": 1}
+{"premise": "Judy is Guamanian.", "hypothesis": "Suzanne is Guamanian.", "label": 1}
+{"premise": "Sam is Swiss.", "hypothesis": "Ann is Swiss.", "label": 1}
+{"premise": "Betty is Bhutanese.", "hypothesis": "Larry is Bhutanese.", "label": 1}
+{"premise": "Howard is Trinidadian or Tobagonian.", "hypothesis": "Deborah is Trinidadian or Tobagonian.", "label": 1}
+{"premise": "Jennifer is Belarusian.", "hypothesis": "Rachel is Belarusian.", "label": 1}
+{"premise": "Andrea is Mon\u00e9gasque.", "hypothesis": "Tony is Mon\u00e9gasque.", "label": 1}
+{"premise": "Caroline is Congolese.", "hypothesis": "Sue is Congolese.", "label": 1}
+{"premise": "Carol is I-Kiribati.", "hypothesis": "Paul is I-Kiribati.", "label": 1}
+{"premise": "Anthony is Turkmen.", "hypothesis": "Mike is Turkmen.", "label": 1}
+{"premise": "Susan is Russian.", "hypothesis": "Grace is Russian.", "label": 1}
+{"premise": "Bobby is Polish.", "hypothesis": "Mary is Polish.", "label": 1}
+{"premise": "Kathryn is Cameroonian.", "hypothesis": "Katie is Cameroonian.", "label": 1}
+{"premise": "Kathleen is Haitian.", "hypothesis": "Kenneth is Haitian.", "label": 1}
+{"premise": "Billy is Romanian.", "hypothesis": "Henry is Romanian.", "label": 1}
+{"premise": "Laura is Finnish.", "hypothesis": "Jonathan is Finnish.", "label": 1}
+{"premise": "Arthur is Beninese.", "hypothesis": "Catherine is Beninese.", "label": 1}
+{"premise": "Ian is Swazi.", "hypothesis": "Caroline is Swazi.", "label": 1}
+{"premise": "Judy is Swedish.", "hypothesis": "Jay is Swedish.", "label": 1}
+{"premise": "Michelle is from Kosovo.", "hypothesis": "Alice is from Kosovo.", "label": 1}
+{"premise": "Judith is Trinidadian or Tobagonian.", "hypothesis": "Kevin is Trinidadian or Tobagonian.", "label": 1}
+{"premise": "Scott is Ghanaian.", "hypothesis": "Rebecca is Ghanaian.", "label": 1}
+{"premise": "Lisa is Liechtenstein.", "hypothesis": "Ashley is Liechtenstein.", "label": 1}
+{"premise": "Kelly is Slovak.", "hypothesis": "Suzanne is Slovak.", "label": 1}
+{"premise": "Christine is Argentine.", "hypothesis": "Ray is Argentine.", "label": 1}
+{"premise": "Donald is Kuwaiti.", "hypothesis": "Marilyn is Kuwaiti.", "label": 1}
+{"premise": "Al is Basotho.", "hypothesis": "Alfred is Basotho.", "label": 1}
+{"premise": "Ryan is Guinean.", "hypothesis": "Thomas is Guinean.", "label": 1}
+{"premise": "Dick is Barbadian.", "hypothesis": "Christine is Barbadian.", "label": 1}
+{"premise": "Ryan is Brazilian.", "hypothesis": "Annie is Brazilian.", "label": 1}
+{"premise": "Susan is Malawian.", "hypothesis": "Michael is Malawian.", "label": 1}
+{"premise": "Larry is Haitian.", "hypothesis": "Amanda is Haitian.", "label": 1}
+{"premise": "Frederick is Mauritanian.", "hypothesis": "Lawrence is Mauritanian.", "label": 1}
+{"premise": "Frederick is Japanese.", "hypothesis": "Julie is Japanese.", "label": 1}
+{"premise": "Gary is Nicaraguan.", "hypothesis": "Sue is Nicaraguan.", "label": 1}
+{"premise": "Kelly is Togolese.", "hypothesis": "Edward is Togolese.", "label": 1}
+{"premise": "Jane is Nicaraguan.", "hypothesis": "Matt is Nicaraguan.", "label": 1}
+{"premise": "Michelle is Turkmen.", "hypothesis": "Christopher is Turkmen.", "label": 1}
+{"premise": "Frank is Samoan.", "hypothesis": "Steven is Samoan.", "label": 1}
+{"premise": "Jack is Marshallese.", "hypothesis": "Virginia is Marshallese.", "label": 1}
+{"premise": "Keith is Montenegrin.", "hypothesis": "William is Montenegrin.", "label": 1}
+{"premise": "Nicole is British.", "hypothesis": "Ed is British.", "label": 1}
+{"premise": "Mary is Palauan.", "hypothesis": "Michael is Palauan.", "label": 1}
+{"premise": "Bobby is Costa Rican.", "hypothesis": "Julie is Costa Rican.", "label": 1}
+{"premise": "Frederick is Jamaican.", "hypothesis": "Ryan is Jamaican.", "label": 1}
+{"premise": "Annie is Macedonian.", "hypothesis": "Kelly is Macedonian.", "label": 1}
+{"premise": "Charles is Panamanian.", "hypothesis": "Michelle is Panamanian.", "label": 1}
+{"premise": "Charles is Beninese.", "hypothesis": "Annie is Beninese.", "label": 1}
+{"premise": "Martin is Cypriot.", "hypothesis": "Emma is Cypriot.", "label": 1}
+{"premise": "Samuel is Panamanian.", "hypothesis": "Jack is Panamanian.", "label": 1}
+{"premise": "Harry is Iraqi.", "hypothesis": "Joseph is Iraqi.", "label": 1}
+{"premise": "Bobby is Mauritian.", "hypothesis": "Samuel is Mauritian.", "label": 1}
+{"premise": "Nancy is Swazi.", "hypothesis": "Kathy is Swazi.", "label": 1}
+{"premise": "Chris is Saint Vincentian.", "hypothesis": "Barbara is Saint Vincentian.", "label": 1}
+{"premise": "Joseph is Northern Marianan.", "hypothesis": "Roger is Northern Marianan.", "label": 1}
+{"premise": "Martha is Hong Kong.", "hypothesis": "Harriet is Hong Kong.", "label": 1}
+{"premise": "Rebecca is Mexican.", "hypothesis": "Rachel is Mexican.", "label": 1}
+{"premise": "Brian is New Zealand.", "hypothesis": "Nicole is New Zealand.", "label": 1}
+{"premise": "James is Burmese.", "hypothesis": "Harry is Burmese.", "label": 1}
+{"premise": "Alexandra is Italian.", "hypothesis": "Ray is Italian.", "label": 1}
+{"premise": "Kenneth is Chilean.", "hypothesis": "Martha is Chilean.", "label": 1}
+{"premise": "Sophie is Central African.", "hypothesis": "Stephen is Central African.", "label": 1}
+{"premise": "Judy is Cura\u00e7aoan.", "hypothesis": "Pamela is Cura\u00e7aoan.", "label": 1}
+{"premise": "Judy is South Korean.", "hypothesis": "Eleanor is South Korean.", "label": 1}
+{"premise": "Jane is Indonesian.", "hypothesis": "Johnny is Indonesian.", "label": 1}
+{"premise": "Robert is Saint Lucian.", "hypothesis": "Larry is Saint Lucian.", "label": 1}
+{"premise": "Ellen is Sierra Leonean.", "hypothesis": "Florence is Sierra Leonean.", "label": 1}
+{"premise": "Jessica is Ukrainian.", "hypothesis": "Heather is Ukrainian.", "label": 1}
+{"premise": "Christopher is Azerbaijani.", "hypothesis": "Lawrence is Azerbaijani.", "label": 1}
+{"premise": "Sam is Mozambican.", "hypothesis": "Deborah is Mozambican.", "label": 1}
+{"premise": "Ron is Bahraini.", "hypothesis": "Joan is Bahraini.", "label": 1}
+{"premise": "Joan is Comoran.", "hypothesis": "Nancy is Comoran.", "label": 1}
+{"premise": "Ray is Central African.", "hypothesis": "Edwin is Central African.", "label": 1}
+{"premise": "Jill is Russian.", "hypothesis": "Ed is Russian.", "label": 1}
+{"premise": "Rachel is Hungarian.", "hypothesis": "Ian is Hungarian.", "label": 1}
+{"premise": "Roy is Norwegian.", "hypothesis": "Dan is Norwegian.", "label": 1}
+{"premise": "Sam is Sammarinese.", "hypothesis": "Ken is Sammarinese.", "label": 1}
+{"premise": "David is Comoran.", "hypothesis": "David is Comoran.", "label": 1}
+{"premise": "Brian is Greenlandic.", "hypothesis": "Jill is Greenlandic.", "label": 1}
+{"premise": "Ryan is Japanese.", "hypothesis": "Amanda is Japanese.", "label": 1}
+{"premise": "Ron is Bahraini.", "hypothesis": "Tom is Bahraini.", "label": 1}
+{"premise": "Robin is Nepali.", "hypothesis": "Joe is Nepali.", "label": 1}
+{"premise": "Eric is Tunisian.", "hypothesis": "Hugh is Tunisian.", "label": 1}
+{"premise": "Ian is Burundian.", "hypothesis": "Judy is Burundian.", "label": 1}
+{"premise": "Ray is Puerto Rican.", "hypothesis": "Julie is Puerto Rican.", "label": 1}
+{"premise": "Frank is Indonesian.", "hypothesis": "Catherine is Indonesian.", "label": 1}
+{"premise": "Fiona is Ghanaian.", "hypothesis": "David is Ghanaian.", "label": 1}
+{"premise": "Jill is Nicaraguan.", "hypothesis": "Jill is Nicaraguan.", "label": 1}
+{"premise": "Ellen is Portuguese.", "hypothesis": "Jack is Portuguese.", "label": 1}
+{"premise": "Jay is Lao.", "hypothesis": "Tim is Lao.", "label": 1}
+{"premise": "Andrew is Jamaican.", "hypothesis": "Diana is Jamaican.", "label": 1}
+{"premise": "Dan is Marshallese.", "hypothesis": "Dick is Marshallese.", "label": 1}
+{"premise": "Ray is Gabonese.", "hypothesis": "Patricia is Gabonese.", "label": 1}
+{"premise": "Dan is from Channel Islands.", "hypothesis": "Fiona is from Channel Islands.", "label": 1}
+{"premise": "Ann is Yemeni.", "hypothesis": "Stephanie is Yemeni.", "label": 1}
+{"premise": "Leslie is Indian.", "hypothesis": "Daniel is Indian.", "label": 1}
+{"premise": "Robert is Liberian.", "hypothesis": "Christopher is Liberian.", "label": 1}
+{"premise": "Kenneth is Tanzanian.", "hypothesis": "Nick is Tanzanian.", "label": 1}
+{"premise": "Harriet is Burmese.", "hypothesis": "Suzanne is Burmese.", "label": 1}
+{"premise": "Steve is Costa Rican.", "hypothesis": "Nicole is Costa Rican.", "label": 1}
+{"premise": "Kathleen is Greenlandic.", "hypothesis": "Fiona is Greenlandic.", "label": 1}
+{"premise": "Anne is Rwandan.", "hypothesis": "Rachel is Rwandan.", "label": 1}
+{"premise": "Frances is New Caledonian.", "hypothesis": "Mary is New Caledonian.", "label": 1}
+{"premise": "Heather is Bruneian.", "hypothesis": "Christopher is Bruneian.", "label": 1}
+{"premise": "Lucy is Tuvaluan.", "hypothesis": "Walter is Tuvaluan.", "label": 1}
+{"premise": "Dick is Kuwaiti.", "hypothesis": "Rebecca is Kuwaiti.", "label": 1}
+{"premise": "William is Kuwaiti.", "hypothesis": "Jay is Kuwaiti.", "label": 1}
+{"premise": "Sandra is Armenian.", "hypothesis": "Elizabeth is Armenian.", "label": 1}
+{"premise": "Leslie is Norwegian.", "hypothesis": "Joe is Norwegian.", "label": 1}
+{"premise": "Nicole is Danish.", "hypothesis": "Ron is Danish.", "label": 1}
+{"premise": "Roger is Timorese.", "hypothesis": "Sally is Timorese.", "label": 1}
+{"premise": "Paul is Solomon Island.", "hypothesis": "Betty is Solomon Island.", "label": 1}
+{"premise": "Patricia is Zambian.", "hypothesis": "Frances is Zambian.", "label": 1}
+{"premise": "Kenneth is Faroese.", "hypothesis": "Jim is Faroese.", "label": 1}
+{"premise": "Robin is Zimbabwean.", "hypothesis": "Jean is Zimbabwean.", "label": 1}
+{"premise": "Alison is South African.", "hypothesis": "Ann is South African.", "label": 1}
+{"premise": "Peter is Iraqi.", "hypothesis": "Howard is Iraqi.", "label": 1}
+{"premise": "Lynn is Irish.", "hypothesis": "Sally is Irish.", "label": 1}
+{"premise": "Benjamin is Yemeni.", "hypothesis": "Michael is Yemeni.", "label": 1}
+{"premise": "Janet is Turkish.", "hypothesis": "Judith is Turkish.", "label": 1}
+{"premise": "Sally is Chinese.", "hypothesis": "Amy is Chinese.", "label": 1}
+{"premise": "Ken is Malawian.", "hypothesis": "Bruce is Malawian.", "label": 1}
+{"premise": "Emma is Slovenian.", "hypothesis": "Benjamin is Slovenian.", "label": 1}
+{"premise": "Ian is Bangladeshi.", "hypothesis": "Linda is Bangladeshi.", "label": 1}
+{"premise": "Charles is Cambodian.", "hypothesis": "Lynn is Cambodian.", "label": 1}
+{"premise": "Jack is Pakistani.", "hypothesis": "Sarah is Pakistani.", "label": 1}
+{"premise": "Johnny is Swazi.", "hypothesis": "Benjamin is Swazi.", "label": 1}
+{"premise": "Francis is Peruvian.", "hypothesis": "Jack is Peruvian.", "label": 1}
+{"premise": "Julia is Serbian.", "hypothesis": "Benjamin is Serbian.", "label": 1}
+{"premise": "Francis is Uruguayan.", "hypothesis": "Albert is Uruguayan.", "label": 1}
+{"premise": "Jeff is Zambian.", "hypothesis": "Patricia is Zambian.", "label": 1}
+{"premise": "Joseph is Romanian.", "hypothesis": "Bobby is Romanian.", "label": 1}
+{"premise": "Robin is Burundian.", "hypothesis": "Francis is Burundian.", "label": 1}
+{"premise": "Carol is Ni-Vanuatu.", "hypothesis": "Judith is Ni-Vanuatu.", "label": 1}
+{"premise": "Christine is Ugandan.", "hypothesis": "Robin is Ugandan.", "label": 1}
+{"premise": "Jack is Moroccan.", "hypothesis": "Robin is Moroccan.", "label": 1}
+{"premise": "Simon is Armenian.", "hypothesis": "Amy is Armenian.", "label": 1}
+{"premise": "Alex is South Korean.", "hypothesis": "Anna is South Korean.", "label": 1}
+{"premise": "Dorothy is Saint Vincentian.", "hypothesis": "Heather is Saint Vincentian.", "label": 1}
+{"premise": "Donna is Honduran.", "hypothesis": "Benjamin is Honduran.", "label": 1}
+{"premise": "Joan is Papua New Guinean.", "hypothesis": "Patricia is Papua New Guinean.", "label": 1}
+{"premise": "Dave is Colombian.", "hypothesis": "Eric is Colombian.", "label": 1}
+{"premise": "Heather is Manx.", "hypothesis": "Louis is Manx.", "label": 1}
+{"premise": "Samuel is Namibian.", "hypothesis": "Elizabeth is Namibian.", "label": 1}
+{"premise": "Chris is Costa Rican.", "hypothesis": "Patrick is Costa Rican.", "label": 1}
+{"premise": "Grace is Cabo Verdean.", "hypothesis": "Virginia is Cabo Verdean.", "label": 1}
+{"premise": "Jason is Bahraini.", "hypothesis": "Julie is Bahraini.", "label": 1}
+{"premise": "Betty is Ukrainian.", "hypothesis": "Donald is Ukrainian.", "label": 1}
+{"premise": "Jeff is Australian.", "hypothesis": "Emma is Australian.", "label": 1}
+{"premise": "Rose is American Samoan.", "hypothesis": "Joseph is American Samoan.", "label": 1}
+{"premise": "Joseph is Chinese.", "hypothesis": "Eric is Chinese.", "label": 1}
+{"premise": "Charles is Danish.", "hypothesis": "Paul is Danish.", "label": 1}
+{"premise": "Edwin is South Sudanese.", "hypothesis": "Amanda is South Sudanese.", "label": 1}
+{"premise": "Thomas is Saint-Martinoise.", "hypothesis": "Roger is Saint-Martinoise.", "label": 1}
+{"premise": "Bruce is Tuvaluan.", "hypothesis": "Scott is Tuvaluan.", "label": 1}
+{"premise": "Sally is Micronesian.", "hypothesis": "Sandra is Micronesian.", "label": 1}
+{"premise": "Emma is Kuwaiti.", "hypothesis": "Kevin is Kuwaiti.", "label": 1}
+{"premise": "Dave is Czech.", "hypothesis": "Bill is Czech.", "label": 1}
+{"premise": "Daniel is Costa Rican.", "hypothesis": "Michael is Costa Rican.", "label": 1}
+{"premise": "Carl is Central African.", "hypothesis": "Ann is Central African.", "label": 1}
+{"premise": "Charlie is Puerto Rican.", "hypothesis": "Tim is Puerto Rican.", "label": 1}
+{"premise": "Henry is Serbian.", "hypothesis": "Ellen is Serbian.", "label": 1}
+{"premise": "Stephen is Malagasy.", "hypothesis": "Adam is Malagasy.", "label": 1}
+{"premise": "Sarah is Irish.", "hypothesis": "Charlie is Irish.", "label": 1}
+{"premise": "Anne is New Zealand.", "hypothesis": "Paul is New Zealand.", "label": 1}
+{"premise": "Frances is Malagasy.", "hypothesis": "Bill is Malagasy.", "label": 1}
+{"premise": "Jonathan is Hong Kong.", "hypothesis": "Martha is Hong Kong.", "label": 1}
+{"premise": "Lisa is Egyptian.", "hypothesis": "Emma is Egyptian.", "label": 1}
+{"premise": "Gary is Turkmen.", "hypothesis": "Ken is Turkmen.", "label": 1}
+{"premise": "Scott is Liberian.", "hypothesis": "Joe is Liberian.", "label": 1}
+{"premise": "Dan is Emirati.", "hypothesis": "Henry is Emirati.", "label": 1}
+{"premise": "Michael is New Zealand.", "hypothesis": "Angela is New Zealand.", "label": 1}
+{"premise": "Richard is Malawian.", "hypothesis": "Alexandra is Malawian.", "label": 1}
+{"premise": "Ian is Timorese.", "hypothesis": "Alex is Timorese.", "label": 1}
+{"premise": "Jim is Moldovan.", "hypothesis": "Sue is Moldovan.", "label": 1}
+{"premise": "Tim is S\u00e3o Tom\u00e9an.", "hypothesis": "Daniel is S\u00e3o Tom\u00e9an.", "label": 1}
+{"premise": "Alice is Bosnian or Herzegovinian.", "hypothesis": "Walter is Bosnian or Herzegovinian.", "label": 1}
+{"premise": "Matthew is Palestinian.", "hypothesis": "John is Palestinian.", "label": 1}
+{"premise": "Chris is Emirati.", "hypothesis": "Tom is Emirati.", "label": 1}
+{"premise": "Gary is Sint Maarten.", "hypothesis": "Heather is Sint Maarten.", "label": 1}
+{"premise": "Charlotte is American.", "hypothesis": "Dave is American.", "label": 1}
+{"premise": "Lauren is Malian.", "hypothesis": "Jay is Malian.", "label": 1}
+{"premise": "Rachel is Mozambican.", "hypothesis": "Amanda is Mozambican.", "label": 1}
+{"premise": "Ron is Papua New Guinean.", "hypothesis": "Charlie is Papua New Guinean.", "label": 1}
+{"premise": "Lauren is New Zealand.", "hypothesis": "Howard is New Zealand.", "label": 1}
+{"premise": "Larry is Bahraini.", "hypothesis": "Jimmy is Bahraini.", "label": 1}
+{"premise": "Edward is Montenegrin.", "hypothesis": "Alan is Montenegrin.", "label": 1}
+{"premise": "Susan is Dutch.", "hypothesis": "James is Dutch.", "label": 1}
+{"premise": "Peter is Surinamese.", "hypothesis": "Louis is Surinamese.", "label": 1}
+{"premise": "Wendy is Norwegian.", "hypothesis": "Martin is Norwegian.", "label": 1}
+{"premise": "Al is Belgian.", "hypothesis": "Catherine is Belgian.", "label": 1}
+{"premise": "Edith is Russian.", "hypothesis": "Kathryn is Russian.", "label": 1}
+{"premise": "David is Colombian.", "hypothesis": "Thomas is Colombian.", "label": 1}
+{"premise": "Mike is Lithuanian.", "hypothesis": "Stephen is Lithuanian.", "label": 1}
+{"premise": "Ashley is Hungarian.", "hypothesis": "Sarah is Hungarian.", "label": 1}
+{"premise": "Kevin is Faroese.", "hypothesis": "Charlie is Faroese.", "label": 1}
+{"premise": "Gary is Chinese.", "hypothesis": "Al is Chinese.", "label": 1}
+{"premise": "Johnny is Malawian.", "hypothesis": "Jerry is Malawian.", "label": 1}
+{"premise": "Jill is Slovak.", "hypothesis": "Rose is Slovak.", "label": 1}
+{"premise": "Janet is Bolivian.", "hypothesis": "Nicole is Bolivian.", "label": 1}
+{"premise": "Charlotte is Panamanian.", "hypothesis": "Janet is Panamanian.", "label": 1}
+{"premise": "Julie is Togolese.", "hypothesis": "Edwin is Togolese.", "label": 1}
+{"premise": "George is Iraqi.", "hypothesis": "Leslie is Iraqi.", "label": 1}
+{"premise": "Kim is French.", "hypothesis": "Eric is French.", "label": 1}
+{"premise": "Colin is French.", "hypothesis": "Ryan is French.", "label": 1}
+{"premise": "Nick is Latvian.", "hypothesis": "Harry is Latvian.", "label": 1}
+{"premise": "Kathleen is Chinese.", "hypothesis": "Helen is Chinese.", "label": 1}
+{"premise": "Grace is Peruvian.", "hypothesis": "Alan is Peruvian.", "label": 1}
+{"premise": "Mike is Costa Rican.", "hypothesis": "Howard is Costa Rican.", "label": 1}
+{"premise": "Howard is Salvadoran.", "hypothesis": "Steven is Salvadoran.", "label": 1}
+{"premise": "Sue is Bangladeshi.", "hypothesis": "Anne is Bangladeshi.", "label": 1}
+{"premise": "Bob is American Samoan.", "hypothesis": "Stephanie is American Samoan.", "label": 1}
+{"premise": "Anthony is Timorese.", "hypothesis": "Lynn is Timorese.", "label": 1}
+{"premise": "Amy is Gibraltar.", "hypothesis": "Ron is Gibraltar.", "label": 1}
+{"premise": "Stephanie is Antiguan or Barbudan.", "hypothesis": "Michelle is Antiguan or Barbudan.", "label": 1}
+{"premise": "George is Ivorian.", "hypothesis": "Anne is Ivorian.", "label": 1}
+{"premise": "Deborah is Romanian.", "hypothesis": "Michelle is Romanian.", "label": 1}
+{"premise": "Jimmy is Surinamese.", "hypothesis": "Emily is Surinamese.", "label": 1}
+{"premise": "Kathleen is Hungarian.", "hypothesis": "Diana is Hungarian.", "label": 1}
+{"premise": "Thomas is Saint Lucian.", "hypothesis": "Lauren is Saint Lucian.", "label": 1}
+{"premise": "Walter is Chilean.", "hypothesis": "Leslie is Chilean.", "label": 1}
+{"premise": "Peter is Lithuanian.", "hypothesis": "Nancy is Lithuanian.", "label": 1}
+{"premise": "Ellen is Grenadian.", "hypothesis": "Alex is Grenadian.", "label": 1}
+{"premise": "Benjamin is Turkish.", "hypothesis": "Dick is Turkish.", "label": 1}
+{"premise": "Louis is Costa Rican.", "hypothesis": "Lynn is Costa Rican.", "label": 1}
+{"premise": "Scott is Tajikistani.", "hypothesis": "Thomas is Tajikistani.", "label": 1}
+{"premise": "Jerry is Ghanaian.", "hypothesis": "Peter is Ghanaian.", "label": 1}
+{"premise": "Jerry is Colombian.", "hypothesis": "Suzanne is Colombian.", "label": 1}
+{"premise": "Leslie is Israeli.", "hypothesis": "Thomas is Israeli.", "label": 1}
+{"premise": "Patrick is Burmese.", "hypothesis": "Paul is Burmese.", "label": 1}
+{"premise": "Jay is Trinidadian or Tobagonian.", "hypothesis": "Barbara is Trinidadian or Tobagonian.", "label": 1}
+{"premise": "Kim is Palestinian.", "hypothesis": "Barbara is Palestinian.", "label": 1}
+{"premise": "Sarah is Azerbaijani.", "hypothesis": "Patricia is Azerbaijani.", "label": 1}
+{"premise": "Leslie is Nigerien.", "hypothesis": "Paul is Nigerien.", "label": 1}
+{"premise": "Greg is Bahraini.", "hypothesis": "John is Bahraini.", "label": 1}
+{"premise": "Tom is Somali.", "hypothesis": "Alan is Somali.", "label": 1}
+{"premise": "Gary is Papua New Guinean.", "hypothesis": "Robert is Papua New Guinean.", "label": 1}
+{"premise": "Michael is Faroese.", "hypothesis": "Mark is Faroese.", "label": 1}
+{"premise": "Larry is Macedonian.", "hypothesis": "Ron is Macedonian.", "label": 1}
+{"premise": "Judy is Ivorian.", "hypothesis": "Jeff is Ivorian.", "label": 1}
+{"premise": "Charlotte is Russian.", "hypothesis": "Henry is Russian.", "label": 1}
+{"premise": "Mike is Moldovan.", "hypothesis": "Amanda is Moldovan.", "label": 1}
+{"premise": "Dan is Papua New Guinean.", "hypothesis": "Alexander is Papua New Guinean.", "label": 1}
+{"premise": "Claire is Papua New Guinean.", "hypothesis": "Joan is Papua New Guinean.", "label": 1}
+{"premise": "Angela is British Virgin Island.", "hypothesis": "Fiona is British Virgin Island.", "label": 1}
+{"premise": "Robin is Colombian.", "hypothesis": "Joan is Colombian.", "label": 1}
+{"premise": "Amy is Serbian.", "hypothesis": "Sally is Serbian.", "label": 1}
+{"premise": "Joe is Senegalese.", "hypothesis": "Fred is Senegalese.", "label": 1}
+{"premise": "Julia is Irish.", "hypothesis": "Frank is Irish.", "label": 1}
+{"premise": "Jill is Senegalese.", "hypothesis": "Stephen is Senegalese.", "label": 1}
+{"premise": "Philip is Grenadian.", "hypothesis": "John is Grenadian.", "label": 1}
+{"premise": "Laura is Tajikistani.", "hypothesis": "Mary is Tajikistani.", "label": 1}
+{"premise": "Carl is Polish.", "hypothesis": "Tom is Polish.", "label": 1}
+{"premise": "Dick is Greenlandic.", "hypothesis": "Lawrence is Greenlandic.", "label": 1}
+{"premise": "Richard is Russian.", "hypothesis": "Virginia is Russian.", "label": 1}
+{"premise": "Harry is Afghan.", "hypothesis": "John is Afghan.", "label": 1}
+{"premise": "Caroline is Swedish.", "hypothesis": "Tony is Swedish.", "label": 1}
+{"premise": "Joe is Mon\u00e9gasque.", "hypothesis": "Matthew is Mon\u00e9gasque.", "label": 1}
+{"premise": "Sam is Danish.", "hypothesis": "Donna is Danish.", "label": 1}
+{"premise": "Nancy is Philippine.", "hypothesis": "Alexandra is Philippine.", "label": 1}
+{"premise": "Amy is Vietnamese.", "hypothesis": "Christopher is Vietnamese.", "label": 1}
+{"premise": "Emily is Ethiopian.", "hypothesis": "Ashley is Ethiopian.", "label": 1}
+{"premise": "Rachel is Comoran.", "hypothesis": "Ryan is Comoran.", "label": 1}
+{"premise": "Walter is Bolivian.", "hypothesis": "Stephanie is Bolivian.", "label": 1}
+{"premise": "Anthony is Bahamian.", "hypothesis": "Greg is Bahamian.", "label": 1}
+{"premise": "Donald is Ecuadorian.", "hypothesis": "Louise is Ecuadorian.", "label": 1}
+{"premise": "Ruth is French Polynesian.", "hypothesis": "Elizabeth is French Polynesian.", "label": 1}
+{"premise": "Ian is Somali.", "hypothesis": "Catherine is Somali.", "label": 1}
+{"premise": "Arthur is Bruneian.", "hypothesis": "Martha is Bruneian.", "label": 1}
+{"premise": "Virginia is Panamanian.", "hypothesis": "Judy is Panamanian.", "label": 1}
+{"premise": "Nicole is Portuguese.", "hypothesis": "Thomas is Portuguese.", "label": 1}
+{"premise": "Amanda is Rwandan.", "hypothesis": "Kathryn is Rwandan.", "label": 1}
+{"premise": "Angela is Australian.", "hypothesis": "Greg is Australian.", "label": 1}
+{"premise": "Marie is Sammarinese.", "hypothesis": "Jonathan is Sammarinese.", "label": 1}
+{"premise": "Cynthia is Algerian.", "hypothesis": "Adam is Algerian.", "label": 1}
+{"premise": "Alfred is Saint Vincentian.", "hypothesis": "Howard is Saint Vincentian.", "label": 1}
+{"premise": "Margaret is Dominican.", "hypothesis": "Emma is Dominican.", "label": 1}
+{"premise": "Suzanne is Eritrean.", "hypothesis": "Amanda is Eritrean.", "label": 1}
+{"premise": "Marilyn is Gabonese.", "hypothesis": "Lucy is Gabonese.", "label": 1}
+{"premise": "Michelle is Lithuanian.", "hypothesis": "Sophie is Lithuanian.", "label": 1}
+{"premise": "Evelyn is Guyanese.", "hypothesis": "Margaret is Guyanese.", "label": 1}
+{"premise": "Lawrence is Honduran.", "hypothesis": "Barbara is Honduran.", "label": 1}
+{"premise": "Barbara is Mauritian.", "hypothesis": "Kevin is Mauritian.", "label": 1}
+{"premise": "Catherine is Ukrainian.", "hypothesis": "Peter is Ukrainian.", "label": 1}
+{"premise": "Ray is Samoan.", "hypothesis": "Patrick is Samoan.", "label": 1}
+{"premise": "Kelly is Georgian.", "hypothesis": "Frederick is Georgian.", "label": 1}
+{"premise": "Benjamin is Qatari.", "hypothesis": "Kathy is Qatari.", "label": 1}
+{"premise": "Thomas is Honduran.", "hypothesis": "Alan is Honduran.", "label": 1}
+{"premise": "Betty is Palestinian.", "hypothesis": "Tom is Palestinian.", "label": 1}
+{"premise": "John is Philippine.", "hypothesis": "Nancy is Philippine.", "label": 1}
+{"premise": "Katherine is Saudi.", "hypothesis": "Adam is Saudi.", "label": 1}
+{"premise": "George is from Kosovo.", "hypothesis": "Edwin is from Kosovo.", "label": 1}
+{"premise": "Deborah is Liechtenstein.", "hypothesis": "Jack is Liechtenstein.", "label": 1}
+{"premise": "Eleanor is Malaysian.", "hypothesis": "Arthur is Malaysian.", "label": 1}
+{"premise": "Jill is Armenian.", "hypothesis": "Edwin is Armenian.", "label": 1}
+{"premise": "Pamela is Timorese.", "hypothesis": "Ann is Timorese.", "label": 1}
+{"premise": "Charlie is Burmese.", "hypothesis": "William is Burmese.", "label": 1}
+{"premise": "Daniel is Guinean.", "hypothesis": "Jack is Guinean.", "label": 1}
+{"premise": "Jerry is Togolese.", "hypothesis": "Matt is Togolese.", "label": 1}
+{"premise": "Cynthia is Czech.", "hypothesis": "Mary is Czech.", "label": 1}
+{"premise": "Sophie is Mauritanian.", "hypothesis": "Leslie is Mauritanian.", "label": 1}
+{"premise": "Eric is Ni-Vanuatu.", "hypothesis": "Linda is Ni-Vanuatu.", "label": 1}
+{"premise": "Annie is S\u00e3o Tom\u00e9an.", "hypothesis": "Susan is S\u00e3o Tom\u00e9an.", "label": 1}
+{"premise": "Richard is Nauruan.", "hypothesis": "Sam is Nauruan.", "label": 1}
+{"premise": "Don is Croatian.", "hypothesis": "Al is Croatian.", "label": 1}
+{"premise": "Ian is Caymanian.", "hypothesis": "Andrew is Caymanian.", "label": 1}
+{"premise": "Anne is Moroccan.", "hypothesis": "Matt is Moroccan.", "label": 1}
+{"premise": "Brian is Irish.", "hypothesis": "Christine is Irish.", "label": 1}
+{"premise": "Charlie is Azerbaijani.", "hypothesis": "Henry is Azerbaijani.", "label": 1}
+{"premise": "Alfred is Pakistani.", "hypothesis": "Heather is Pakistani.", "label": 1}
+{"premise": "Eric is Papua New Guinean.", "hypothesis": "Carol is Papua New Guinean.", "label": 1}
+{"premise": "Keith is British Virgin Island.", "hypothesis": "Thomas is British Virgin Island.", "label": 1}
+{"premise": "Alexander is Cura\u00e7aoan.", "hypothesis": "Tim is Cura\u00e7aoan.", "label": 1}
+{"premise": "Nick is Estonian.", "hypothesis": "Deborah is Estonian.", "label": 1}
+{"premise": "Stephen is Samoan.", "hypothesis": "Katherine is Samoan.", "label": 1}
+{"premise": "Ed is Ecuadorian.", "hypothesis": "Andrew is Ecuadorian.", "label": 1}
+{"premise": "Emily is Sammarinese.", "hypothesis": "Ray is Sammarinese.", "label": 1}
+{"premise": "Donna is Hong Kong.", "hypothesis": "Harold is Hong Kong.", "label": 1}
+{"premise": "Paul is Greek.", "hypothesis": "Alfred is Greek.", "label": 1}
+{"premise": "Adam is Malawian.", "hypothesis": "Thomas is Malawian.", "label": 1}
+{"premise": "Grace is Marshallese.", "hypothesis": "Tom is Marshallese.", "label": 1}
+{"premise": "Stephanie is Turks and Caicos Island.", "hypothesis": "Sara is Turks and Caicos Island.", "label": 1}
+{"premise": "Kate is Congolese.", "hypothesis": "Diana is Congolese.", "label": 1}
+{"premise": "Benjamin is Togolese.", "hypothesis": "Alison is Togolese.", "label": 1}
+{"premise": "Melissa is Rwandan.", "hypothesis": "Henry is Rwandan.", "label": 1}
+{"premise": "Alexander is Paraguayan.", "hypothesis": "Joe is Paraguayan.", "label": 1}
+{"premise": "Louis is Swedish.", "hypothesis": "Peter is Swedish.", "label": 1}
+{"premise": "Howard is Ivorian.", "hypothesis": "Arthur is Ivorian.", "label": 1}
+{"premise": "Jonathan is Luxembourg.", "hypothesis": "Jessica is Luxembourg.", "label": 1}
+{"premise": "Frederick is Bosnian or Herzegovinian.", "hypothesis": "Nancy is Bosnian or Herzegovinian.", "label": 1}
+{"premise": "Betty is Slovak.", "hypothesis": "Ken is Slovak.", "label": 1}
+{"premise": "Diane is Ivorian.", "hypothesis": "Joseph is Ivorian.", "label": 1}
+{"premise": "Joan is Turkmen.", "hypothesis": "Frederick is Turkmen.", "label": 1}
+{"premise": "Martha is I-Kiribati.", "hypothesis": "Henry is I-Kiribati.", "label": 1}
+{"premise": "Sally is Basotho.", "hypothesis": "Adam is Basotho.", "label": 1}
+{"premise": "Dan is Lao.", "hypothesis": "Alfred is Lao.", "label": 1}
+{"premise": "Wendy is Antiguan or Barbudan.", "hypothesis": "Laura is Antiguan or Barbudan.", "label": 1}
+{"premise": "Kenneth is Yemeni.", "hypothesis": "Elaine is Yemeni.", "label": 1}
+{"premise": "Benjamin is Bermudian.", "hypothesis": "Michael is Bermudian.", "label": 1}
+{"premise": "Sarah is New Zealand.", "hypothesis": "Marilyn is New Zealand.", "label": 1}
+{"premise": "Matt is American Samoan.", "hypothesis": "Grace is American Samoan.", "label": 1}
+{"premise": "Martin is Cuban.", "hypothesis": "Jay is Cuban.", "label": 1}
+{"premise": "Ashley is Jamaican.", "hypothesis": "Walter is Jamaican.", "label": 1}
+{"premise": "Sandra is Micronesian.", "hypothesis": "Albert is Micronesian.", "label": 1}
+{"premise": "Kathy is Burundian.", "hypothesis": "Emily is Burundian.", "label": 1}
+{"premise": "Jerry is Indonesian.", "hypothesis": "Eleanor is Indonesian.", "label": 1}
+{"premise": "Kevin is Sri Lankan.", "hypothesis": "Gary is Sri Lankan.", "label": 1}
+{"premise": "Colin is Armenian.", "hypothesis": "Louise is Armenian.", "label": 1}
+{"premise": "Charlotte is Nigerian.", "hypothesis": "Claire is Nigerian.", "label": 1}
+{"premise": "Kim is Brazilian.", "hypothesis": "Kevin is Brazilian.", "label": 1}
+{"premise": "Henry is Georgian.", "hypothesis": "Benjamin is Georgian.", "label": 1}
+{"premise": "Karen is Papua New Guinean.", "hypothesis": "Suzanne is Papua New Guinean.", "label": 1}
+{"premise": "Anne is Honduran.", "hypothesis": "Alice is Honduran.", "label": 1}
+{"premise": "Don is Sammarinese.", "hypothesis": "Ron is Sammarinese.", "label": 1}
+{"premise": "Jason is Antiguan or Barbudan.", "hypothesis": "Bruce is Antiguan or Barbudan.", "label": 1}
+{"premise": "Louise is Palauan.", "hypothesis": "Daniel is Palauan.", "label": 1}
+{"premise": "Tony is Macedonian.", "hypothesis": "Roy is Macedonian.", "label": 1}
+{"premise": "Steven is Peruvian.", "hypothesis": "Sam is Peruvian.", "label": 1}
+{"premise": "Kathy is Maldivian.", "hypothesis": "Helen is Maldivian.", "label": 1}
+{"premise": "Bill is Italian.", "hypothesis": "Bruce is Italian.", "label": 1}
+{"premise": "Wendy is South Korean.", "hypothesis": "Joan is South Korean.", "label": 1}
+{"premise": "Eric is Ukrainian.", "hypothesis": "Deborah is Ukrainian.", "label": 1}
+{"premise": "Albert is Bhutanese.", "hypothesis": "Caroline is Bhutanese.", "label": 1}
+{"premise": "Edwin is Irish.", "hypothesis": "Albert is Irish.", "label": 1}
+{"premise": "Kevin is Austrian.", "hypothesis": "Frances is Austrian.", "label": 1}
+{"premise": "Gary is New Zealand.", "hypothesis": "Kate is New Zealand.", "label": 1}
+{"premise": "Gary is South Sudanese.", "hypothesis": "Robert is South Sudanese.", "label": 1}
+{"premise": "Robin is Lebanese.", "hypothesis": "Fred is Lebanese.", "label": 1}
+{"premise": "Claire is Maltese.", "hypothesis": "Johnny is Maltese.", "label": 1}
+{"premise": "Rose is Kyrgyzstani.", "hypothesis": "Frances is Kyrgyzstani.", "label": 1}
+{"premise": "Ron is Bermudian.", "hypothesis": "Jerry is Bermudian.", "label": 1}
+{"premise": "Sue is Danish.", "hypothesis": "Elizabeth is Danish.", "label": 1}
+{"premise": "Eric is Saudi.", "hypothesis": "Ken is Saudi.", "label": 1}
+{"premise": "Deborah is Indian.", "hypothesis": "Nicole is Indian.", "label": 1}
+{"premise": "Benjamin is Australian.", "hypothesis": "Nancy is Australian.", "label": 1}
+{"premise": "Donna is Mauritian.", "hypothesis": "Scott is Mauritian.", "label": 1}
+{"premise": "Mary is Nepali.", "hypothesis": "Albert is Nepali.", "label": 1}
+{"premise": "Charles is Solomon Island.", "hypothesis": "Marilyn is Solomon Island.", "label": 1}
+{"premise": "Kelly is British.", "hypothesis": "Philip is British.", "label": 1}
+{"premise": "Suzanne is German.", "hypothesis": "Karen is German.", "label": 1}
+{"premise": "Paul is Liechtenstein.", "hypothesis": "Nancy is Liechtenstein.", "label": 1}
+{"premise": "Julia is Cameroonian.", "hypothesis": "Steven is Cameroonian.", "label": 1}
+{"premise": "Harold is Senegalese.", "hypothesis": "Fiona is Senegalese.", "label": 1}
+{"premise": "Nicole is Senegalese.", "hypothesis": "Fiona is Senegalese.", "label": 1}
+{"premise": "Patricia is Puerto Rican.", "hypothesis": "Lawrence is Puerto Rican.", "label": 1}
+{"premise": "Deborah is Basotho.", "hypothesis": "Henry is Basotho.", "label": 1}
+{"premise": "Martha is Cameroonian.", "hypothesis": "Betty is Cameroonian.", "label": 1}
+{"premise": "Ellen is Qatari.", "hypothesis": "Eric is Qatari.", "label": 1}
+{"premise": "Sue is American.", "hypothesis": "Lisa is American.", "label": 1}
+{"premise": "Frances is Indonesian.", "hypothesis": "Pamela is Indonesian.", "label": 1}
+{"premise": "Claire is Zambian.", "hypothesis": "Ed is Zambian.", "label": 1}
+{"premise": "Emily is Lao.", "hypothesis": "Bob is Lao.", "label": 1}
+{"premise": "Alfred is Slovenian.", "hypothesis": "George is Slovenian.", "label": 1}
+{"premise": "Alice is Congolese.", "hypothesis": "Alfred is Congolese.", "label": 1}
+{"premise": "Steven is Malawian.", "hypothesis": "Chris is Malawian.", "label": 1}
+{"premise": "Stephen is Belizean.", "hypothesis": "Angela is Belizean.", "label": 1}
+{"premise": "Jean is Icelandic.", "hypothesis": "Jonathan is Icelandic.", "label": 1}
+{"premise": "Sharon is Colombian.", "hypothesis": "Kevin is Colombian.", "label": 1}
+{"premise": "Tom is Ni-Vanuatu.", "hypothesis": "Diane is Ni-Vanuatu.", "label": 1}
+{"premise": "Al is Emirati.", "hypothesis": "Diane is Emirati.", "label": 1}
+{"premise": "Julie is Rwandan.", "hypothesis": "Nancy is Rwandan.", "label": 1}
+{"premise": "Sandra is South African.", "hypothesis": "Eleanor is South African.", "label": 1}
+{"premise": "Eleanor is Qatari.", "hypothesis": "Bruce is Qatari.", "label": 1}
+{"premise": "Joseph is Haitian.", "hypothesis": "Hugh is Haitian.", "label": 1}
+{"premise": "Alexander is Maldivian.", "hypothesis": "Judith is Maldivian.", "label": 1}
+{"premise": "Roy is Sint Maarten.", "hypothesis": "Joan is Sint Maarten.", "label": 1}
+{"premise": "Patricia is Central African.", "hypothesis": "Jennifer is Central African.", "label": 1}
+{"premise": "Matt is Belizean.", "hypothesis": "Ann is Belizean.", "label": 1}
+{"premise": "Rebecca is Sierra Leonean.", "hypothesis": "Kelly is Sierra Leonean.", "label": 1}
+{"premise": "Dave is Seychellois.", "hypothesis": "Harold is Seychellois.", "label": 1}
+{"premise": "Kate is Albanian.", "hypothesis": "Kim is Albanian.", "label": 1}
+{"premise": "Eric is Uzbekistani.", "hypothesis": "Daniel is Uzbekistani.", "label": 1}
+{"premise": "Steve is Mongolian.", "hypothesis": "Albert is Mongolian.", "label": 1}
+{"premise": "Wendy is Rwandan.", "hypothesis": "Scott is Rwandan.", "label": 1}
+{"premise": "Kenneth is South Korean.", "hypothesis": "Howard is South Korean.", "label": 1}
+{"premise": "Sharon is Saint Lucian.", "hypothesis": "Bob is Saint Lucian.", "label": 1}
+{"premise": "Robert is Gibraltar.", "hypothesis": "Eric is Gibraltar.", "label": 1}
+{"premise": "Elaine is Turks and Caicos Island.", "hypothesis": "Arthur is Turks and Caicos Island.", "label": 1}
+{"premise": "Lauren is Malawian.", "hypothesis": "Angela is Malawian.", "label": 1}
+{"premise": "Wendy is Mauritian.", "hypothesis": "Karen is Mauritian.", "label": 1}
+{"premise": "Sophie is Nicaraguan.", "hypothesis": "Francis is Nicaraguan.", "label": 1}
+{"premise": "Kim is Sammarinese.", "hypothesis": "Sophie is Sammarinese.", "label": 1}
+{"premise": "Jack is Namibian.", "hypothesis": "Jim is Namibian.", "label": 1}
+{"premise": "Ian is Georgian.", "hypothesis": "Louise is Georgian.", "label": 1}
+{"premise": "Evelyn is Nepali.", "hypothesis": "Melissa is Nepali.", "label": 1}
+{"premise": "Jill is Sudanese.", "hypothesis": "Jeff is Sudanese.", "label": 1}
+{"premise": "Steve is Somali.", "hypothesis": "Anthony is Somali.", "label": 1}
+{"premise": "Don is Armenian.", "hypothesis": "Julie is Armenian.", "label": 1}
+{"premise": "Kenneth is Egyptian.", "hypothesis": "Ben is Egyptian.", "label": 1}
+{"premise": "Benjamin is Senegalese.", "hypothesis": "Ken is Senegalese.", "label": 1}
+{"premise": "Ron is Italian.", "hypothesis": "Melissa is Italian.", "label": 1}
+{"premise": "Samuel is Gabonese.", "hypothesis": "Lynn is Gabonese.", "label": 1}
+{"premise": "Robert is Saint Vincentian.", "hypothesis": "Rose is Saint Vincentian.", "label": 1}
+{"premise": "Anthony is Liechtenstein.", "hypothesis": "Marie is Liechtenstein.", "label": 1}
+{"premise": "Jason is Macedonian.", "hypothesis": "Alexandra is Macedonian.", "label": 1}
+{"premise": "Bill is Peruvian.", "hypothesis": "Karen is Peruvian.", "label": 1}
+{"premise": "Rebecca is Samoan.", "hypothesis": "Jill is Samoan.", "label": 1}
+{"premise": "Leslie is Tajikistani.", "hypothesis": "Steve is Tajikistani.", "label": 1}
+{"premise": "Judy is Honduran.", "hypothesis": "Jean is Honduran.", "label": 1}
+{"premise": "Kim is Sri Lankan.", "hypothesis": "Lucy is Sri Lankan.", "label": 1}
+{"premise": "Eleanor is Argentine.", "hypothesis": "Roger is Argentine.", "label": 1}
+{"premise": "Joan is Azerbaijani.", "hypothesis": "Sue is Azerbaijani.", "label": 1}
+{"premise": "Melissa is Salvadoran.", "hypothesis": "Kathy is Salvadoran.", "label": 1}
+{"premise": "Susan is Guamanian.", "hypothesis": "Albert is Guamanian.", "label": 1}
+{"premise": "Helen is Saudi.", "hypothesis": "Marie is Saudi.", "label": 1}
+{"premise": "Frank is Iraqi.", "hypothesis": "Ben is Iraqi.", "label": 1}
+{"premise": "Cynthia is Liberian.", "hypothesis": "Heather is Liberian.", "label": 1}
+{"premise": "Patricia is Gibraltar.", "hypothesis": "Ron is Gibraltar.", "label": 1}
+{"premise": "Nicole is Liberian.", "hypothesis": "Linda is Liberian.", "label": 1}
+{"premise": "Michael is Sint Maarten.", "hypothesis": "Frederick is Sint Maarten.", "label": 1}
+{"premise": "Martin is Jamaican.", "hypothesis": "Dave is Jamaican.", "label": 1}
+{"premise": "James is Swedish.", "hypothesis": "William is Swedish.", "label": 1}
+{"premise": "Howard is Liechtenstein.", "hypothesis": "Philip is Liechtenstein.", "label": 1}
+{"premise": "Rebecca is Serbian.", "hypothesis": "Bill is Serbian.", "label": 1}
+{"premise": "Howard is Samoan.", "hypothesis": "Marilyn is Samoan.", "label": 1}
+{"premise": "Angela is Micronesian.", "hypothesis": "Colin is Micronesian.", "label": 1}
+{"premise": "Al is South African.", "hypothesis": "Diana is South African.", "label": 1}
+{"premise": "Roger is Guinean.", "hypothesis": "Harry is Guinean.", "label": 1}
+{"premise": "Sue is Maltese.", "hypothesis": "Mike is Maltese.", "label": 1}
+{"premise": "Heather is Togolese.", "hypothesis": "Katie is Togolese.", "label": 1}
+{"premise": "Sandra is Slovak.", "hypothesis": "Brian is Slovak.", "label": 1}
+{"premise": "Martin is Sri Lankan.", "hypothesis": "Jack is Sri Lankan.", "label": 1}
+{"premise": "Sophie is Panamanian.", "hypothesis": "Barbara is Panamanian.", "label": 1}
+{"premise": "Kathryn is Motswana.", "hypothesis": "Dorothy is Motswana.", "label": 1}
+{"premise": "James is Bissau-Guinean.", "hypothesis": "Sarah is Bissau-Guinean.", "label": 1}
+{"premise": "Edward is Barbadian.", "hypothesis": "Ian is Barbadian.", "label": 1}
+{"premise": "Ken is Ecuadorian.", "hypothesis": "Frances is Ecuadorian.", "label": 1}
+{"premise": "Eleanor is Puerto Rican.", "hypothesis": "Bruce is Puerto Rican.", "label": 1}
+{"premise": "Dorothy is Iranian.", "hypothesis": "Laura is Iranian.", "label": 1}
+{"premise": "Rachel is Saudi.", "hypothesis": "Florence is Saudi.", "label": 1}
+{"premise": "Scott is Cabo Verdean.", "hypothesis": "Amanda is Cabo Verdean.", "label": 1}
+{"premise": "Brian is Canadian.", "hypothesis": "Sarah is Canadian.", "label": 1}
+{"premise": "Stephen is South Korean.", "hypothesis": "Charles is South Korean.", "label": 1}
+{"premise": "Alex is Vietnamese.", "hypothesis": "Alfred is Vietnamese.", "label": 1}
+{"premise": "Ruth is American.", "hypothesis": "Christopher is American.", "label": 1}
+{"premise": "Kate is Zambian.", "hypothesis": "Grace is Zambian.", "label": 1}
+{"premise": "Matt is Guyanese.", "hypothesis": "Rose is Guyanese.", "label": 1}
+{"premise": "Patrick is Salvadoran.", "hypothesis": "Alexander is Salvadoran.", "label": 1}
+{"premise": "Carolyn is Slovenian.", "hypothesis": "Sharon is Slovenian.", "label": 1}
+{"premise": "Michael is Comoran.", "hypothesis": "Linda is Comoran.", "label": 1}
+{"premise": "Fred is Malagasy.", "hypothesis": "George is Malagasy.", "label": 1}
+{"premise": "Margaret is Brazilian.", "hypothesis": "Michael is Brazilian.", "label": 1}
+{"premise": "Joan is Mozambican.", "hypothesis": "Scott is Mozambican.", "label": 1}
+{"premise": "Elizabeth is Malian.", "hypothesis": "Rachel is Malian.", "label": 1}
+{"premise": "Larry is Gambian.", "hypothesis": "Colin is Gambian.", "label": 1}
+{"premise": "Brian is Aruban.", "hypothesis": "Alice is Aruban.", "label": 1}
+{"premise": "Mark is Malagasy.", "hypothesis": "Evelyn is Malagasy.", "label": 1}
+{"premise": "Greg is Togolese.", "hypothesis": "Sue is Togolese.", "label": 1}
+{"premise": "Harry is Malagasy.", "hypothesis": "Stephanie is Malagasy.", "label": 1}
+{"premise": "Katherine is Mozambican.", "hypothesis": "Joe is Mozambican.", "label": 1}
+{"premise": "Sue is American Samoan.", "hypothesis": "Emma is American Samoan.", "label": 1}
+{"premise": "Betty is Norwegian.", "hypothesis": "Billy is Norwegian.", "label": 1}
+{"premise": "Larry is Puerto Rican.", "hypothesis": "Grace is Puerto Rican.", "label": 1}
+{"premise": "Daniel is Indonesian.", "hypothesis": "Elaine is Indonesian.", "label": 1}
+{"premise": "Jay is Zambian.", "hypothesis": "Thomas is Zambian.", "label": 1}
+{"premise": "Jane is Zambian.", "hypothesis": "Dorothy is Zambian.", "label": 1}
+{"premise": "Amy is Swedish.", "hypothesis": "Lauren is Swedish.", "label": 1}
+{"premise": "Simon is Bahraini.", "hypothesis": "Alan is Bahraini.", "label": 1}
+{"premise": "Lauren is Croatian.", "hypothesis": "Anthony is Croatian.", "label": 1}
+{"premise": "Sam is Brazilian.", "hypothesis": "Amanda is Brazilian.", "label": 1}
+{"premise": "Stephanie is Tongan.", "hypothesis": "Greg is Tongan.", "label": 1}
+{"premise": "Lisa is Nigerian.", "hypothesis": "Brian is Nigerian.", "label": 1}
+{"premise": "David is Nigerien.", "hypothesis": "Emily is Nigerien.", "label": 1}
+{"premise": "Richard is Latvian.", "hypothesis": "Christopher is Latvian.", "label": 1}
+{"premise": "Grace is Beninese.", "hypothesis": "Sarah is Beninese.", "label": 1}
+{"premise": "Kelly is American.", "hypothesis": "Ellen is American.", "label": 1}
+{"premise": "Susan is Guinean.", "hypothesis": "Virginia is Guinean.", "label": 1}
+{"premise": "Karen is Palestinian.", "hypothesis": "Henry is Palestinian.", "label": 1}
+{"premise": "Lynn is Pakistani.", "hypothesis": "Susan is Pakistani.", "label": 1}
+{"premise": "Marie is Hungarian.", "hypothesis": "Ashley is Hungarian.", "label": 1}
+{"premise": "Angela is Nigerian.", "hypothesis": "Claire is Nigerian.", "label": 1}
+{"premise": "Sophie is Burkinab\u00e9.", "hypothesis": "Jay is Burkinab\u00e9.", "label": 1}
+{"premise": "Charlie is Bermudian.", "hypothesis": "Steve is Bermudian.", "label": 1}
+{"premise": "Suzanne is U.S. Virgin Island.", "hypothesis": "Bob is U.S. Virgin Island.", "label": 1}
+{"premise": "Jill is Cabo Verdean.", "hypothesis": "Philip is Cabo Verdean.", "label": 1}
+{"premise": "Edwin is Cura\u00e7aoan.", "hypothesis": "Alison is Cura\u00e7aoan.", "label": 1}
+{"premise": "Kate is Cambodian.", "hypothesis": "James is Cambodian.", "label": 1}
+{"premise": "Catherine is Saudi.", "hypothesis": "Billy is Saudi.", "label": 1}
+{"premise": "Tony is Algerian.", "hypothesis": "Dan is Algerian.", "label": 1}
+{"premise": "Gary is Dutch.", "hypothesis": "Greg is Dutch.", "label": 1}
+{"premise": "Peter is Liberian.", "hypothesis": "Lawrence is Liberian.", "label": 1}
+{"premise": "Martha is Greenlandic.", "hypothesis": "Bruce is Greenlandic.", "label": 1}
+{"premise": "Stephanie is Slovenian.", "hypothesis": "Florence is Slovenian.", "label": 1}
+{"premise": "Virginia is Iraqi.", "hypothesis": "Edward is Iraqi.", "label": 1}
+{"premise": "Fred is Samoan.", "hypothesis": "Simon is Samoan.", "label": 1}
+{"premise": "Scott is Papua New Guinean.", "hypothesis": "Evelyn is Papua New Guinean.", "label": 1}
+{"premise": "Stephen is Austrian.", "hypothesis": "Ann is Austrian.", "label": 1}
+{"premise": "Kelly is I-Kiribati.", "hypothesis": "Dave is I-Kiribati.", "label": 1}
+{"premise": "Maria is Cameroonian.", "hypothesis": "Donald is Cameroonian.", "label": 1}
+{"premise": "Catherine is Costa Rican.", "hypothesis": "Richard is Costa Rican.", "label": 1}
+{"premise": "George is Cypriot.", "hypothesis": "Steven is Cypriot.", "label": 1}
+{"premise": "Emma is Guamanian.", "hypothesis": "George is Guamanian.", "label": 1}
+{"premise": "Cynthia is Bangladeshi.", "hypothesis": "Jessica is Bangladeshi.", "label": 1}
+{"premise": "Nicole is Bolivian.", "hypothesis": "Walter is Bolivian.", "label": 1}
+{"premise": "Karen is Nigerian.", "hypothesis": "Alexander is Nigerian.", "label": 1}
+{"premise": "Paul is Saint-Martinoise.", "hypothesis": "Christine is Saint-Martinoise.", "label": 1}
+{"premise": "Fred is Guinean.", "hypothesis": "Laura is Guinean.", "label": 1}
+{"premise": "Sam is Saint-Martinoise.", "hypothesis": "Jack is Saint-Martinoise.", "label": 1}
+{"premise": "Betty is Nigerien.", "hypothesis": "Mary is Nigerien.", "label": 1}
+{"premise": "Alice is Greenlandic.", "hypothesis": "Sarah is Greenlandic.", "label": 1}
+{"premise": "Dorothy is Albanian.", "hypothesis": "Dorothy is Albanian.", "label": 1}
+{"premise": "Robert is Nicaraguan.", "hypothesis": "Bobby is Nicaraguan.", "label": 1}
+{"premise": "Robin is Sierra Leonean.", "hypothesis": "Grace is Sierra Leonean.", "label": 1}
+{"premise": "Jeff is Bermudian.", "hypothesis": "Jimmy is Bermudian.", "label": 1}
+{"premise": "Judy is Moroccan.", "hypothesis": "Kim is Moroccan.", "label": 1}
+{"premise": "Tom is Zambian.", "hypothesis": "Alice is Zambian.", "label": 1}
+{"premise": "Dave is Singaporean.", "hypothesis": "Charles is Singaporean.", "label": 1}
+{"premise": "Dave is Saint Vincentian.", "hypothesis": "Andrea is Saint Vincentian.", "label": 1}
+{"premise": "Tom is Turkish.", "hypothesis": "Jason is Turkish.", "label": 1}
+{"premise": "Joseph is Iraqi.", "hypothesis": "Carol is Iraqi.", "label": 1}
+{"premise": "Sarah is Sudanese.", "hypothesis": "Rose is Sudanese.", "label": 1}
+{"premise": "Marie is Malagasy.", "hypothesis": "Ben is Malagasy.", "label": 1}
+{"premise": "Colin is Nigerian.", "hypothesis": "Billy is Nigerian.", "label": 1}
+{"premise": "Kelly is Argentine.", "hypothesis": "Brian is Argentine.", "label": 1}
+{"premise": "Anne is French Polynesian.", "hypothesis": "Henry is French Polynesian.", "label": 1}
+{"premise": "Rachel is Saudi.", "hypothesis": "Robert is Saudi.", "label": 1}
+{"premise": "Claire is Bissau-Guinean.", "hypothesis": "Annie is Bissau-Guinean.", "label": 1}
+{"premise": "Philip is South Sudanese.", "hypothesis": "Robert is South Sudanese.", "label": 1}
+{"premise": "Catherine is Sri Lankan.", "hypothesis": "Matt is Sri Lankan.", "label": 1}
+{"premise": "Betty is Bangladeshi.", "hypothesis": "Kevin is Bangladeshi.", "label": 1}
+{"premise": "Johnny is Libyan.", "hypothesis": "Billy is Libyan.", "label": 1}
+{"premise": "Matt is Namibian.", "hypothesis": "Victoria is Namibian.", "label": 1}
+{"premise": "Ralph is Zimbabwean.", "hypothesis": "Carol is Zimbabwean.", "label": 1}
+{"premise": "Martha is Ukrainian.", "hypothesis": "Arthur is Ukrainian.", "label": 1}
+{"premise": "Michael is Chinese.", "hypothesis": "Helen is Chinese.", "label": 1}
+{"premise": "Florence is Cambodian.", "hypothesis": "Michael is Cambodian.", "label": 1}
+{"premise": "Victoria is South African.", "hypothesis": "Janet is South African.", "label": 1}
+{"premise": "Billy is Emirati.", "hypothesis": "Janet is Emirati.", "label": 1}
+{"premise": "Harold is Albanian.", "hypothesis": "Louise is Albanian.", "label": 1}
+{"premise": "Ron is Central African.", "hypothesis": "Annie is Central African.", "label": 1}
+{"premise": "Walter is Kenyan.", "hypothesis": "Hugh is Kenyan.", "label": 1}
+{"premise": "Bob is Paraguayan.", "hypothesis": "Ray is Paraguayan.", "label": 1}
+{"premise": "Sue is Ethiopian.", "hypothesis": "Nicole is Ethiopian.", "label": 1}
+{"premise": "Martin is Singaporean.", "hypothesis": "Benjamin is Singaporean.", "label": 1}
+{"premise": "Laura is Slovenian.", "hypothesis": "Jennifer is Slovenian.", "label": 1}
+{"premise": "Robin is Sammarinese.", "hypothesis": "Sophie is Sammarinese.", "label": 1}
+{"premise": "Nicole is Tunisian.", "hypothesis": "Betty is Tunisian.", "label": 1}
+{"premise": "Barbara is Eritrean.", "hypothesis": "Fiona is Eritrean.", "label": 1}
+{"premise": "Jennifer is Nepali.", "hypothesis": "Amy is Nepali.", "label": 1}
+{"premise": "Edwin is Ukrainian.", "hypothesis": "Jessica is Ukrainian.", "label": 1}
+{"premise": "Adam is Libyan.", "hypothesis": "Frederick is Libyan.", "label": 1}
+{"premise": "Nick is U.S. Virgin Island.", "hypothesis": "Chris is U.S. Virgin Island.", "label": 1}
+{"premise": "Anna is Ni-Vanuatu.", "hypothesis": "Katie is Ni-Vanuatu.", "label": 1}
+{"premise": "Ashley is Bruneian.", "hypothesis": "Harold is Bruneian.", "label": 1}
+{"premise": "Ben is Paraguayan.", "hypothesis": "Jack is Paraguayan.", "label": 1}
+{"premise": "Louise is Dutch.", "hypothesis": "Anthony is Dutch.", "label": 1}
+{"premise": "Jonathan is Dominican.", "hypothesis": "Samuel is Dominican.", "label": 1}
+{"premise": "Samuel is Luxembourg.", "hypothesis": "Suzanne is Luxembourg.", "label": 1}
+{"premise": "Kelly is Malian.", "hypothesis": "Hugh is Malian.", "label": 1}
+{"premise": "Lucy is Uruguayan.", "hypothesis": "Tim is Uruguayan.", "label": 1}
+{"premise": "Jonathan is Surinamese.", "hypothesis": "Louis is Surinamese.", "label": 1}
+{"premise": "Emily is Trinidadian or Tobagonian.", "hypothesis": "Jeff is Trinidadian or Tobagonian.", "label": 1}
+{"premise": "Edith is Turkish.", "hypothesis": "Alexandra is Turkish.", "label": 1}
+{"premise": "Caroline is Libyan.", "hypothesis": "Tony is Libyan.", "label": 1}
+{"premise": "Jason is Brazilian.", "hypothesis": "Kathryn is Brazilian.", "label": 1}
+{"premise": "Steve is Jamaican.", "hypothesis": "Kevin is Jamaican.", "label": 1}
+{"premise": "Judith is Turkmen.", "hypothesis": "Ruth is Turkmen.", "label": 1}
+{"premise": "Sandra is Sudanese.", "hypothesis": "Alexander is Sudanese.", "label": 1}
+{"premise": "Kenneth is Vietnamese.", "hypothesis": "Arthur is Vietnamese.", "label": 1}
+{"premise": "Frances is Panamanian.", "hypothesis": "Charlie is Panamanian.", "label": 1}
+{"premise": "Tim is Kazakhstani.", "hypothesis": "Ray is Kazakhstani.", "label": 1}
+{"premise": "Amanda is Colombian.", "hypothesis": "Matt is Colombian.", "label": 1}
+{"premise": "Elizabeth is Congolese.", "hypothesis": "Christine is Congolese.", "label": 1}
+{"premise": "Michelle is I-Kiribati.", "hypothesis": "Nicole is I-Kiribati.", "label": 1}
+{"premise": "Hugh is Liberian.", "hypothesis": "Benjamin is Liberian.", "label": 1}
+{"premise": "Thomas is Honduran.", "hypothesis": "Jay is Honduran.", "label": 1}
+{"premise": "Eleanor is Grenadian.", "hypothesis": "Christopher is Grenadian.", "label": 1}
+{"premise": "Steve is Sri Lankan.", "hypothesis": "Hugh is Sri Lankan.", "label": 1}
+{"premise": "Christopher is Bahraini.", "hypothesis": "Keith is Bahraini.", "label": 1}
+{"premise": "Martha is Turkish.", "hypothesis": "Kathleen is Turkish.", "label": 1}
+{"premise": "Jill is Chilean.", "hypothesis": "Ellen is Chilean.", "label": 1}
+{"premise": "Edith is Luxembourg.", "hypothesis": "Alexandra is Luxembourg.", "label": 1}
+{"premise": "Edith is Brazilian.", "hypothesis": "Cynthia is Brazilian.", "label": 1}
+{"premise": "Jerry is I-Kiribati.", "hypothesis": "Katherine is I-Kiribati.", "label": 1}
+{"premise": "Sam is Sudanese.", "hypothesis": "Ken is Sudanese.", "label": 1}
+{"premise": "Kenneth is Costa Rican.", "hypothesis": "Tim is Costa Rican.", "label": 1}
+{"premise": "Leslie is American.", "hypothesis": "Steven is American.", "label": 1}
+{"premise": "Johnny is Kenyan.", "hypothesis": "Howard is Kenyan.", "label": 1}
+{"premise": "Wendy is Mon\u00e9gasque.", "hypothesis": "Howard is Mon\u00e9gasque.", "label": 1}
+{"premise": "Christopher is Hungarian.", "hypothesis": "Lynn is Hungarian.", "label": 1}
+{"premise": "Carol is Czech.", "hypothesis": "Alice is Czech.", "label": 1}
+{"premise": "Anna is Somali.", "hypothesis": "Jill is Somali.", "label": 1}
+{"premise": "Eleanor is Czech.", "hypothesis": "Charles is Czech.", "label": 1}
+{"premise": "Deborah is Azerbaijani.", "hypothesis": "Keith is Azerbaijani.", "label": 1}
+{"premise": "Kathleen is Dominican.", "hypothesis": "Samuel is Dominican.", "label": 1}
+{"premise": "Jennifer is Dominican.", "hypothesis": "Michelle is Dominican.", "label": 1}
+{"premise": "Colin is Cuban.", "hypothesis": "Jane is Cuban.", "label": 1}
+{"premise": "William is Liechtenstein.", "hypothesis": "Nancy is Liechtenstein.", "label": 1}
+{"premise": "Johnny is Namibian.", "hypothesis": "Johnny is Namibian.", "label": 1}
+{"premise": "Sam is Finnish.", "hypothesis": "Ashley is Finnish.", "label": 1}
+{"premise": "Samuel is Papua New Guinean.", "hypothesis": "Charlotte is Papua New Guinean.", "label": 1}
+{"premise": "Katherine is Senegalese.", "hypothesis": "Roger is Senegalese.", "label": 1}
+{"premise": "Judy is Slovenian.", "hypothesis": "Fiona is Slovenian.", "label": 1}
+{"premise": "Kathleen is Malian.", "hypothesis": "Alice is Malian.", "label": 1}
+{"premise": "Bobby is Turks and Caicos Island.", "hypothesis": "Wendy is Turks and Caicos Island.", "label": 1}
+{"premise": "Henry is Mauritanian.", "hypothesis": "Nicole is Mauritanian.", "label": 1}
+{"premise": "Ken is Senegalese.", "hypothesis": "Ian is Senegalese.", "label": 1}
+{"premise": "Joan is New Zealand.", "hypothesis": "Stephanie is New Zealand.", "label": 1}
+{"premise": "Alexander is Vietnamese.", "hypothesis": "Steven is Vietnamese.", "label": 1}
+{"premise": "Dorothy is Congolese.", "hypothesis": "Catherine is Congolese.", "label": 1}
+{"premise": "William is Finnish.", "hypothesis": "Grace is Finnish.", "label": 1}
+{"premise": "Elaine is Syrian.", "hypothesis": "Dick is Syrian.", "label": 1}
+{"premise": "Elaine is Slovenian.", "hypothesis": "Simon is Slovenian.", "label": 1}
+{"premise": "Alison is Kenyan.", "hypothesis": "Amanda is Kenyan.", "label": 1}
+{"premise": "Bruce is Dutch.", "hypothesis": "Evelyn is Dutch.", "label": 1}
+{"premise": "Andrew is Moroccan.", "hypothesis": "Edward is Moroccan.", "label": 1}
+{"premise": "Ron is Australian.", "hypothesis": "Jerry is Australian.", "label": 1}
+{"premise": "Donald is Beninese.", "hypothesis": "Brian is Beninese.", "label": 1}
+{"premise": "Alexander is Armenian.", "hypothesis": "Nancy is Armenian.", "label": 1}
+{"premise": "Angela is Kyrgyzstani.", "hypothesis": "Ann is Kyrgyzstani.", "label": 1}
+{"premise": "Bob is Irish.", "hypothesis": "Bobby is Irish.", "label": 1}
+{"premise": "Sandra is Saint-Martinoise.", "hypothesis": "Carolyn is Saint-Martinoise.", "label": 1}
+{"premise": "Mary is Lao.", "hypothesis": "Margaret is Lao.", "label": 1}
+{"premise": "Albert is Timorese.", "hypothesis": "Lawrence is Timorese.", "label": 1}
+{"premise": "Julia is Swiss.", "hypothesis": "Jessica is Swiss.", "label": 1}
+{"premise": "Bruce is Aruban.", "hypothesis": "Donald is Aruban.", "label": 1}
+{"premise": "Henry is Belarusian.", "hypothesis": "Ashley is Belarusian.", "label": 1}
+{"premise": "Ray is Uzbekistani.", "hypothesis": "Karen is Uzbekistani.", "label": 1}
+{"premise": "Maria is Burkinab\u00e9.", "hypothesis": "Hugh is Burkinab\u00e9.", "label": 1}
+{"premise": "Victoria is Bissau-Guinean.", "hypothesis": "Sara is Bissau-Guinean.", "label": 1}
+{"premise": "Louis is I-Kiribati.", "hypothesis": "Matt is I-Kiribati.", "label": 1}
+{"premise": "Lisa is Mexican.", "hypothesis": "Laura is Mexican.", "label": 1}
+{"premise": "Stephanie is Namibian.", "hypothesis": "Joan is Namibian.", "label": 1}
+{"premise": "Samuel is Fijian.", "hypothesis": "James is Fijian.", "label": 1}
+{"premise": "Janet is Australian.", "hypothesis": "Henry is Australian.", "label": 1}
+{"premise": "Daniel is Namibian.", "hypothesis": "Louise is Namibian.", "label": 1}
+{"premise": "Adam is Mon\u00e9gasque.", "hypothesis": "Eleanor is Mon\u00e9gasque.", "label": 1}
+{"premise": "Roy is Sudanese.", "hypothesis": "Brian is Sudanese.", "label": 1}
+{"premise": "Simon is Andorran.", "hypothesis": "Dorothy is Andorran.", "label": 1}
+{"premise": "Kathryn is Bolivian.", "hypothesis": "Katie is Bolivian.", "label": 1}
+{"premise": "Ralph is Nepali.", "hypothesis": "Eleanor is Nepali.", "label": 1}
+{"premise": "Scott is Vietnamese.", "hypothesis": "Joe is Vietnamese.", "label": 1}
+{"premise": "Eleanor is Latvian.", "hypothesis": "Katie is Latvian.", "label": 1}
+{"premise": "Richard is Belarusian.", "hypothesis": "Richard is Belarusian.", "label": 1}
+{"premise": "Charlie is American.", "hypothesis": "Louise is American.", "label": 1}
+{"premise": "Daniel is British Virgin Island.", "hypothesis": "Nicole is British Virgin Island.", "label": 1}
+{"premise": "Hugh is Yemeni.", "hypothesis": "Katie is Yemeni.", "label": 1}
+{"premise": "Patrick is Kuwaiti.", "hypothesis": "John is Kuwaiti.", "label": 1}
+{"premise": "Andrea is Mongolian.", "hypothesis": "Roger is Mongolian.", "label": 1}
+{"premise": "Ryan is Guyanese.", "hypothesis": "Tom is Guyanese.", "label": 1}
+{"premise": "Matthew is Mongolian.", "hypothesis": "Robin is Mongolian.", "label": 1}
+{"premise": "Alan is Turks and Caicos Island.", "hypothesis": "Arthur is Turks and Caicos Island.", "label": 1}
+{"premise": "Ron is Guinean.", "hypothesis": "Julie is Guinean.", "label": 1}
+{"premise": "Sue is Bolivian.", "hypothesis": "Andrew is Bolivian.", "label": 1}
+{"premise": "Tom is Malagasy.", "hypothesis": "Sharon is Malagasy.", "label": 1}
+{"premise": "Nick is Equatorial Guinean.", "hypothesis": "Dave is Equatorial Guinean.", "label": 1}
+{"premise": "Ian is Australian.", "hypothesis": "Emily is Australian.", "label": 1}
+{"premise": "Ann is New Zealand.", "hypothesis": "Daniel is New Zealand.", "label": 1}
+{"premise": "Bob is Yemeni.", "hypothesis": "Ron is Yemeni.", "label": 1}
+{"premise": "Ellen is Saint-Martinoise.", "hypothesis": "Tony is Saint-Martinoise.", "label": 1}
+{"premise": "Colin is Bhutanese.", "hypothesis": "Ian is Bhutanese.", "label": 1}
+{"premise": "Eleanor is Slovenian.", "hypothesis": "Betty is Slovenian.", "label": 1}
+{"premise": "Louise is Cabo Verdean.", "hypothesis": "Kim is Cabo Verdean.", "label": 1}
+{"premise": "Jill is Solomon Island.", "hypothesis": "Ray is Solomon Island.", "label": 1}
+{"premise": "Kathleen is Zimbabwean.", "hypothesis": "Patrick is Zimbabwean.", "label": 1}
+{"premise": "Fred is Nauruan.", "hypothesis": "Stephen is Nauruan.", "label": 1}
+{"premise": "Ellen is Panamanian.", "hypothesis": "Charles is Panamanian.", "label": 1}
+{"premise": "Cynthia is Belarusian.", "hypothesis": "Carl is Belarusian.", "label": 1}
+{"premise": "Kenneth is Samoan.", "hypothesis": "Jeff is Samoan.", "label": 1}
+{"premise": "Edwin is Kenyan.", "hypothesis": "Judy is Kenyan.", "label": 1}
+{"premise": "Christopher is Canadian.", "hypothesis": "Jill is Canadian.", "label": 1}
+{"premise": "Matthew is Yemeni.", "hypothesis": "Steven is Yemeni.", "label": 1}
+{"premise": "Linda is British Virgin Island.", "hypothesis": "Ruth is British Virgin Island.", "label": 1}
+{"premise": "Robin is Equatorial Guinean.", "hypothesis": "Ben is Equatorial Guinean.", "label": 1}
+{"premise": "Leslie is Malaysian.", "hypothesis": "Albert is Malaysian.", "label": 1}
+{"premise": "Grace is Comoran.", "hypothesis": "Suzanne is Comoran.", "label": 1}
+{"premise": "Eleanor is Finnish.", "hypothesis": "Lawrence is Finnish.", "label": 1}
+{"premise": "Lucy is Somali.", "hypothesis": "Jane is Somali.", "label": 1}
+{"premise": "Jason is Thai.", "hypothesis": "Greg is Thai.", "label": 1}
+{"premise": "Caroline is Liberian.", "hypothesis": "William is Liberian.", "label": 1}
+{"premise": "Amanda is Emirati.", "hypothesis": "John is Emirati.", "label": 1}
+{"premise": "Ashley is Dominican.", "hypothesis": "Diana is Dominican.", "label": 1}
+{"premise": "Philip is Lao.", "hypothesis": "Johnny is Lao.", "label": 1}
+{"premise": "Louise is Bosnian or Herzegovinian.", "hypothesis": "James is Bosnian or Herzegovinian.", "label": 1}
+{"premise": "Bruce is Tuvaluan.", "hypothesis": "Marie is Tuvaluan.", "label": 1}
+{"premise": "Frank is Ethiopian.", "hypothesis": "Susan is Ethiopian.", "label": 1}
+{"premise": "Alan is Turks and Caicos Island.", "hypothesis": "Kathryn is Turks and Caicos Island.", "label": 1}
+{"premise": "Elaine is Palestinian.", "hypothesis": "Tony is Palestinian.", "label": 1}
+{"premise": "Melissa is Burmese.", "hypothesis": "Mike is Burmese.", "label": 1}
+{"premise": "Roger is Bulgarian.", "hypothesis": "Carolyn is Bulgarian.", "label": 1}
+{"premise": "Mike is Caymanian.", "hypothesis": "Amanda is Caymanian.", "label": 1}
+{"premise": "Donna is Eritrean.", "hypothesis": "Judy is Eritrean.", "label": 1}
+{"premise": "Hugh is Eritrean.", "hypothesis": "Mary is Eritrean.", "label": 1}
+{"premise": "Nicole is Cura\u00e7aoan.", "hypothesis": "Rachel is Cura\u00e7aoan.", "label": 1}
+{"premise": "Anna is Japanese.", "hypothesis": "Robin is Japanese.", "label": 1}
+{"premise": "Mike is Hungarian.", "hypothesis": "Patrick is Hungarian.", "label": 1}
+{"premise": "Caroline is Macanese.", "hypothesis": "Tom is Macanese.", "label": 1}
+{"premise": "Matthew is Uruguayan.", "hypothesis": "Jane is Uruguayan.", "label": 1}
+{"premise": "Ian is Togolese.", "hypothesis": "Christine is Togolese.", "label": 1}
+{"premise": "Lisa is Belarusian.", "hypothesis": "Steven is Belarusian.", "label": 1}
+{"premise": "Harriet is Dominican.", "hypothesis": "Paul is Dominican.", "label": 1}
+{"premise": "Alexander is Comoran.", "hypothesis": "Ken is Comoran.", "label": 1}
+{"premise": "Keith is Bruneian.", "hypothesis": "Frederick is Bruneian.", "label": 1}
+{"premise": "Alice is Gabonese.", "hypothesis": "Philip is Gabonese.", "label": 1}
+{"premise": "Stephen is Egyptian.", "hypothesis": "Joe is Egyptian.", "label": 1}
+{"premise": "Heather is Timorese.", "hypothesis": "Barbara is Timorese.", "label": 1}
+{"premise": "Keith is Burmese.", "hypothesis": "Carol is Burmese.", "label": 1}
+{"premise": "Sophie is Cameroonian.", "hypothesis": "Lisa is Cameroonian.", "label": 1}
+{"premise": "Rachel is Basotho.", "hypothesis": "Evelyn is Basotho.", "label": 1}
+{"premise": "Ruth is Omani.", "hypothesis": "Barbara is Omani.", "label": 1}
+{"premise": "Deborah is Maltese.", "hypothesis": "Louis is Maltese.", "label": 1}
+{"premise": "Amanda is Sint Maarten.", "hypothesis": "Claire is Sint Maarten.", "label": 1}
+{"premise": "Dick is Zimbabwean.", "hypothesis": "Kim is Zimbabwean.", "label": 1}
+{"premise": "Alice is Ni-Vanuatu.", "hypothesis": "Linda is Ni-Vanuatu.", "label": 1}
+{"premise": "Dick is Icelandic.", "hypothesis": "Steven is Icelandic.", "label": 1}
+{"premise": "Lisa is Belgian.", "hypothesis": "Susan is Belgian.", "label": 1}
+{"premise": "Kevin is Thai.", "hypothesis": "Christopher is Thai.", "label": 1}
+{"premise": "Martin is from Channel Islands.", "hypothesis": "Sally is from Channel Islands.", "label": 1}
+{"premise": "Ron is Liechtenstein.", "hypothesis": "Hugh is Liechtenstein.", "label": 1}
+{"premise": "Bob is Timorese.", "hypothesis": "Ruth is Timorese.", "label": 1}
+{"premise": "Sally is Saint-Martinoise.", "hypothesis": "Matt is Saint-Martinoise.", "label": 1}
+{"premise": "Christopher is Burkinab\u00e9.", "hypothesis": "Nancy is Burkinab\u00e9.", "label": 1}
+{"premise": "Alex is Malaysian.", "hypothesis": "Richard is Malaysian.", "label": 1}
+{"premise": "Linda is Moldovan.", "hypothesis": "Harry is Moldovan.", "label": 1}
+{"premise": "Claire is Moroccan.", "hypothesis": "David is Moroccan.", "label": 1}
+{"premise": "Alex is Maltese.", "hypothesis": "Hugh is Maltese.", "label": 1}
+{"premise": "Henry is Kyrgyzstani.", "hypothesis": "Julie is Kyrgyzstani.", "label": 1}
+{"premise": "Samuel is Basotho.", "hypothesis": "Kathryn is Basotho.", "label": 1}
+{"premise": "Elizabeth is Cabo Verdean.", "hypothesis": "Barbara is Cabo Verdean.", "label": 1}
+{"premise": "Anne is Armenian.", "hypothesis": "Keith is Armenian.", "label": 1}
+{"premise": "Charlie is Ukrainian.", "hypothesis": "Patricia is Ukrainian.", "label": 1}
+{"premise": "Joan is Motswana.", "hypothesis": "Dan is Motswana.", "label": 1}
+{"premise": "Thomas is British Virgin Island.", "hypothesis": "Philip is British Virgin Island.", "label": 1}
+{"premise": "Michelle is Brazilian.", "hypothesis": "Harry is Brazilian.", "label": 1}
+{"premise": "Mark is Saint Lucian.", "hypothesis": "Emma is Saint Lucian.", "label": 1}
+{"premise": "Charlotte is Ivorian.", "hypothesis": "Simon is Ivorian.", "label": 1}
+{"premise": "Marilyn is Somali.", "hypothesis": "Christopher is Somali.", "label": 1}
+{"premise": "Roger is Saudi.", "hypothesis": "Keith is Saudi.", "label": 1}
+{"premise": "Arthur is Mauritian.", "hypothesis": "Don is Mauritian.", "label": 1}
+{"premise": "Ryan is Jamaican.", "hypothesis": "Amy is Jamaican.", "label": 1}
+{"premise": "Fiona is Ghanaian.", "hypothesis": "Donna is Ghanaian.", "label": 1}
+{"premise": "Billy is Basotho.", "hypothesis": "Tim is Basotho.", "label": 1}
+{"premise": "Kim is Philippine.", "hypothesis": "Martin is Philippine.", "label": 1}
+{"premise": "Joseph is Solomon Island.", "hypothesis": "Elaine is Solomon Island.", "label": 1}
+{"premise": "Sophie is Nepali.", "hypothesis": "Alex is Nepali.", "label": 1}
+{"premise": "Bobby is Equatorial Guinean.", "hypothesis": "Helen is Equatorial Guinean.", "label": 1}
+{"premise": "Grace is Georgian.", "hypothesis": "Bobby is Georgian.", "label": 1}
+{"premise": "Tom is Bahraini.", "hypothesis": "Joan is Bahraini.", "label": 1}
+{"premise": "Michelle is Ethiopian.", "hypothesis": "Joe is Ethiopian.", "label": 1}
+{"premise": "Donna is Aruban.", "hypothesis": "Ashley is Aruban.", "label": 1}
+{"premise": "Joseph is Ni-Vanuatu.", "hypothesis": "Howard is Ni-Vanuatu.", "label": 1}
+{"premise": "Lawrence is Mozambican.", "hypothesis": "Caroline is Mozambican.", "label": 1}
+{"premise": "Patricia is Nauruan.", "hypothesis": "Anthony is Nauruan.", "label": 1}
+{"premise": "Jason is Israeli.", "hypothesis": "Sam is Israeli.", "label": 1}
