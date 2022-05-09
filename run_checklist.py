@@ -8,6 +8,7 @@ from antonyms import antonyms_list
 from synonyms import synonyms_list
 import json
 import csv  
+from pattern.en import comparative, superlative
 
 # default_datasets = {'qa': ('squad',), 'nli': ('snli',)}
 #         # dataset_id = tuple(args.dataset.split(':')) if args.dataset is not None else \
@@ -129,8 +130,36 @@ def create_synonyms_dataset2():
         s = json.dumps(data)
         f.write(s + '\n')
 
-create_synonyms_dataset2()
+# create_synonyms_dataset2()
+def superlatives_comparitives():
+  with open("checklist_data/adjectives.txt", "r") as f:
+      arr = f.readlines()
+      adjectives = list(map(str.strip, arr))
+      adjectives = list(map(lambda x: (comparative(x), superlative(x)), adjectives))
 
+  editor = Editor.Editor()
+  editor.lexicons['adjective'] = adjectives[:500]
+  editor.lexicons['name'] = editor.lexicons['first_name'][:100]
+  print("0")
+  out = editor.template('Among {name1}, {name2} and {name3}, the {adjective1[1]} is {name1};{name1} is {adjective1[0]} than {name2}')
+  print("1")
+  random.shuffle(out.data)
+  print("2")
+  examples = out.data[:1000]
+  print("3")
+  for row in examples:
+    data = row.split(';')
+    with open('checklist_data/superlatives_dataset.json', 'a', encoding='UTF8') as f:
+        # write the data
+        data = {'premise': data[0],
+        'hypothesis': data[1],
+        'label': 0} 
+        # 0 for entailment
+        # 1 for neutral
+        # 2 for contradiction
+        s = json.dumps(data)
+        f.write(s + '\n')
 
+superlatives_comparitives()
 
 
