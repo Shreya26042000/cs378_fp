@@ -5,7 +5,7 @@ import datasets
 from nltk.corpus import wordnet as wn
 import random
 from antonyms import antonyms_list
-
+import json
 import csv  
 
 # default_datasets = {'qa': ('squad',), 'nli': ('snli',)}
@@ -47,7 +47,7 @@ print (editor.lexicons.keys())
 
 editor.lexicons['antonym'] = antonyms_list[:10]
 editor.lexicons['name'] = editor.lexicons['first_name'][:10]
-out = editor.template('P: {name1} is {antonym1[0]} H: {name1} is {antonym1[1]}')
+out = editor.template('{name1} is {antonym1[0]},{name1} is {antonym1[1]},2')
 
 # # editor.template creates a cross product of all choices for placeholders. Let's sample 10 examples from this
 random.shuffle(out.data)
@@ -56,17 +56,17 @@ for i in range(len(examples)):
     print ('contradiction ' + examples[i])
 
 
-# header = ['name', 'area', 'country_code2', 'country_code3']
-# data = ['Afghanistan', 652090, 'AF', 'AFG']
+header = ['premise', 'hypothesis', 'label']
 
-# with open('countries.csv', 'w', encoding='UTF8') as f:
-#     writer = csv.writer(f)
-
-#     # write the header
-#     writer.writerow(header)
-
-#     # write the data
-#     writer.writerow(data)
+for row in examples:
+  data = row.split(',')
+  with open('checklist_data/antonyms_dataset.json', 'a', encoding='UTF8') as f:
+      # write the data
+      data = {'premise': data[0],
+      'hypothesis': data[1],
+      'label': data[2]}
+      s = json.dumps(data)
+      f.write(s + '\n')
 
 
 

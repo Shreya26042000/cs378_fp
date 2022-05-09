@@ -1,0 +1,10 @@
+{"premise": "William is absorbent", "hypothesis": "William is nonabsorbent", "label": "2"}
+{"premise": "Elizabeth is absolute", "hypothesis": "Elizabeth is relative", "label": "2"}
+{"premise": "Robert is nascent", "hypothesis": "Robert is dying", "label": "2"}
+{"premise": "John is able", "hypothesis": "John is unable", "label": "2"}
+{"premise": "Mary is acroscopic", "hypothesis": "Mary is basiscopic", "label": "2"}
+{"premise": "Robert is able", "hypothesis": "Robert is unable", "label": "2"}
+{"premise": "David is adsorbent", "hypothesis": "David is nonadsorbent", "label": "2"}
+{"premise": "Elizabeth is abaxial", "hypothesis": "Elizabeth is adaxial", "label": "2"}
+{"premise": "Robert is abaxial", "hypothesis": "Robert is adaxial", "label": "2"}
+{"premise": "John is abducent", "hypothesis": "John is adducent", "label": "2"}
