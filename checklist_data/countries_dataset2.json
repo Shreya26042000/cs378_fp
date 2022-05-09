@@ -1,0 +1,1000 @@
+{"premise": "Roger lives in Ulan Bator.", "hypothesis": "Roger lives in Singapore", "label": 2}
+{"premise": "Emily lives in Funafuti.", "hypothesis": "Emily lives in France", "label": 2}
+{"premise": "Kathy lives in Dhaka.", "hypothesis": "Kathy lives in Bangladesh", "label": 2}
+{"premise": "Louis lives in Warsaw.", "hypothesis": "Louis lives in Kuwait", "label": 2}
+{"premise": "Frank lives in Basseterre.", "hypothesis": "Frank lives in Croatia", "label": 2}
+{"premise": "Edward lives in Honiara.", "hypothesis": "Edward lives in Suriname", "label": 2}
+{"premise": "Alice lives in Kampala.", "hypothesis": "Alice lives in Libya", "label": 2}
+{"premise": "Ken lives in Rome.", "hypothesis": "Ken lives in East Timor", "label": 2}
+{"premise": "Victoria lives in Banjul.", "hypothesis": "Victoria lives in Jordan", "label": 2}
+{"premise": "Christine lives in Castries.", "hypothesis": "Christine lives in Argentina", "label": 2}
+{"premise": "Michelle lives in Singapore.", "hypothesis": "Michelle lives in Tajikistan", "label": 2}
+{"premise": "Julie lives in Oslo.", "hypothesis": "Julie lives in Czech Republic", "label": 2}
+{"premise": "Daniel lives in Chi\u0219in\u0103u.", "hypothesis": "Daniel lives in Malawi", "label": 2}
+{"premise": "Carol lives in South Tarawa.", "hypothesis": "Carol lives in Morocco", "label": 2}
+{"premise": "Adam lives in Harare.", "hypothesis": "Adam lives in China", "label": 2}
+{"premise": "Steve lives in Ljubljana.", "hypothesis": "Steve lives in Qatar", "label": 2}
+{"premise": "Kevin lives in Seoul.", "hypothesis": "Kevin lives in Philippines", "label": 2}
+{"premise": "Rachel lives in Ottawa.", "hypothesis": "Rachel lives in Seychelles", "label": 2}
+{"premise": "Charlotte lives in Freetown.", "hypothesis": "Charlotte lives in Mozambique", "label": 2}
+{"premise": "Victoria lives in Conakry.", "hypothesis": "Victoria lives in Ecuador", "label": 2}
+{"premise": "Bob lives in Buenos Aires.", "hypothesis": "Bob lives in Mozambique", "label": 2}
+{"premise": "Rebecca lives in Bissau.", "hypothesis": "Rebecca lives in Kyrgyzstan", "label": 2}
+{"premise": "Harold lives in Port-au-Prince.", "hypothesis": "Harold lives in Bosnia and Herzegovina", "label": 2}
+{"premise": "Eleanor lives in Mexico City.", "hypothesis": "Eleanor lives in Burkina Faso", "label": 2}
+{"premise": "Lawrence lives in Muscat.", "hypothesis": "Lawrence lives in South Korea", "label": 2}
+{"premise": "Tom lives in Kuwait City.", "hypothesis": "Tom lives in Bolivia", "label": 2}
+{"premise": "Sally lives in Libreville.", "hypothesis": "Sally lives in Uganda", "label": 2}
+{"premise": "Roy lives in Lom\u00e9.", "hypothesis": "Roy lives in Mali", "label": 2}
+{"premise": "Frederick lives in Yaound\u00e9.", "hypothesis": "Frederick lives in Senegal", "label": 2}
+{"premise": "Jonathan lives in Stockholm.", "hypothesis": "Jonathan lives in Papua New Guinea", "label": 2}
+{"premise": "Thomas lives in Saint John's.", "hypothesis": "Thomas lives in Uzbekistan", "label": 2}
+{"premise": "Joe lives in Tegucigalpa.", "hypothesis": "Joe lives in Kazakhstan", "label": 2}
+{"premise": "Leslie lives in Port Vila.", "hypothesis": "Leslie lives in Vietnam", "label": 2}
+{"premise": "Steve lives in Bratislava.", "hypothesis": "Steve lives in Botswana", "label": 2}
+{"premise": "Kathy lives in Georgetown.", "hypothesis": "Kathy lives in Cyprus", "label": 2}
+{"premise": "Marilyn lives in Kuwait City.", "hypothesis": "Marilyn lives in Belize", "label": 2}
+{"premise": "Alexander lives in New Delhi.", "hypothesis": "Alexander lives in Indonesia", "label": 2}
+{"premise": "Fred lives in Amman.", "hypothesis": "Fred lives in Denmark", "label": 2}
+{"premise": "Julie lives in Santo Domingo.", "hypothesis": "Julie lives in Ecuador", "label": 2}
+{"premise": "Frances lives in Georgetown.", "hypothesis": "Frances lives in Burkina Faso", "label": 2}
+{"premise": "Jerry lives in New Delhi.", "hypothesis": "Jerry lives in Cyprus", "label": 2}
+{"premise": "Alice lives in Bratislava.", "hypothesis": "Alice lives in Togo", "label": 2}
+{"premise": "Philip lives in San Jos\u00e9.", "hypothesis": "Philip lives in Equatorial Guinea", "label": 2}
+{"premise": "Carl lives in Baku.", "hypothesis": "Carl lives in Greece", "label": 2}
+{"premise": "Billy lives in City of San Marino.", "hypothesis": "Billy lives in Saint Vincent and the Grenadines", "label": 2}
+{"premise": "Nick lives in Tunis.", "hypothesis": "Nick lives in Kuwait", "label": 2}
+{"premise": "Frederick lives in Bishkek.", "hypothesis": "Frederick lives in Comoros", "label": 2}
+{"premise": "Jim lives in Yaound\u00e9.", "hypothesis": "Jim lives in Iraq", "label": 2}
+{"premise": "Lynn lives in Singapore.", "hypothesis": "Lynn lives in Algeria", "label": 2}
+{"premise": "Judy lives in Lisbon.", "hypothesis": "Judy lives in Morocco", "label": 2}
+{"premise": "Ian lives in Jakarta.", "hypothesis": "Ian lives in Monaco", "label": 2}
+{"premise": "Chris lives in Copenhagen.", "hypothesis": "Chris lives in Botswana", "label": 2}
+{"premise": "Virginia lives in Abuja.", "hypothesis": "Virginia lives in Botswana", "label": 2}
+{"premise": "Claire lives in Amman.", "hypothesis": "Claire lives in Monaco", "label": 2}
+{"premise": "James lives in Monrovia.", "hypothesis": "James lives in Serbia", "label": 2}
+{"premise": "Jason lives in Bern.", "hypothesis": "Jason lives in Poland", "label": 2}
+{"premise": "Alfred lives in Tunis.", "hypothesis": "Alfred lives in Solomon Islands", "label": 2}
+{"premise": "Kathleen lives in Beirut.", "hypothesis": "Kathleen lives in North Korea", "label": 2}
+{"premise": "Kathy lives in Manila.", "hypothesis": "Kathy lives in Saint Lucia", "label": 2}
+{"premise": "Elaine lives in Santo Domingo.", "hypothesis": "Elaine lives in Ukraine", "label": 2}
+{"premise": "Alison lives in Kabul.", "hypothesis": "Alison lives in Ivory Coast", "label": 2}
+{"premise": "Sue lives in Niamey.", "hypothesis": "Sue lives in Albania", "label": 2}
+{"premise": "Tom lives in Freetown.", "hypothesis": "Tom lives in Burkina Faso", "label": 2}
+{"premise": "Ralph lives in Guatemala City.", "hypothesis": "Ralph lives in Papua New Guinea", "label": 2}
+{"premise": "Louis lives in Algiers.", "hypothesis": "Louis lives in Czech Republic", "label": 2}
+{"premise": "Leslie lives in Port Louis.", "hypothesis": "Leslie lives in Saint Kitts and Nevis", "label": 2}
+{"premise": "Scott lives in Niamey.", "hypothesis": "Scott lives in Ecuador", "label": 2}
+{"premise": "Sam lives in Victoria.", "hypothesis": "Sam lives in Papua New Guinea", "label": 2}
+{"premise": "Marilyn lives in Zagreb.", "hypothesis": "Marilyn lives in El Salvador", "label": 2}
+{"premise": "Alan lives in Ngerulmud.", "hypothesis": "Alan lives in Saint Vincent and the Grenadines", "label": 2}
+{"premise": "Jean lives in Jakarta.", "hypothesis": "Jean lives in Haiti", "label": 2}
+{"premise": "Jay lives in City of San Marino.", "hypothesis": "Jay lives in Trinidad and Tobago", "label": 2}
+{"premise": "Nicole lives in Windhoek.", "hypothesis": "Nicole lives in Angola", "label": 2}
+{"premise": "Christopher lives in Vienna.", "hypothesis": "Christopher lives in Kyrgyzstan", "label": 2}
+{"premise": "Nicole lives in Bangui.", "hypothesis": "Nicole lives in South Africa", "label": 2}
+{"premise": "Sue lives in Yamoussoukro.", "hypothesis": "Sue lives in Comoros", "label": 2}
+{"premise": "Ryan lives in Oslo.", "hypothesis": "Ryan lives in Croatia", "label": 2}
+{"premise": "Emma lives in Montevideo.", "hypothesis": "Emma lives in Yemen", "label": 2}
+{"premise": "Julia lives in Dushanbe.", "hypothesis": "Julia lives in Rwanda", "label": 2}
+{"premise": "Jerry lives in Wellington.", "hypothesis": "Jerry lives in Georgia", "label": 2}
+{"premise": "Al lives in Rabat.", "hypothesis": "Al lives in Malta", "label": 2}
+{"premise": "Anthony lives in Riga.", "hypothesis": "Anthony lives in Vanuatu", "label": 2}
+{"premise": "Sarah lives in Islamabad.", "hypothesis": "Sarah lives in Ireland", "label": 2}
+{"premise": "Keith lives in Banjul.", "hypothesis": "Keith lives in Cameroon", "label": 2}
+{"premise": "Wendy lives in Moscow.", "hypothesis": "Wendy lives in Iraq", "label": 2}
+{"premise": "Alexandra lives in San Jos\u00e9.", "hypothesis": "Alexandra lives in Bolivia", "label": 2}
+{"premise": "Jill lives in Minsk.", "hypothesis": "Jill lives in Angola", "label": 2}
+{"premise": "Steven lives in Sucre.", "hypothesis": "Steven lives in Lithuania", "label": 2}
+{"premise": "Daniel lives in Dublin.", "hypothesis": "Daniel lives in Morocco", "label": 2}
+{"premise": "Jay lives in Santiago.", "hypothesis": "Jay lives in Russia", "label": 2}
+{"premise": "Stephen lives in Antananarivo.", "hypothesis": "Stephen lives in India", "label": 2}
+{"premise": "Eleanor lives in Tehran.", "hypothesis": "Eleanor lives in Benin", "label": 2}
+{"premise": "Christine lives in City of San Marino.", "hypothesis": "Christine lives in Yemen", "label": 2}
+{"premise": "Rose lives in Tirana.", "hypothesis": "Rose lives in Japan", "label": 2}
+{"premise": "Elaine lives in Managua.", "hypothesis": "Elaine lives in Mozambique", "label": 2}
+{"premise": "Dan lives in London.", "hypothesis": "Dan lives in The Gambia", "label": 2}
+{"premise": "Kathy lives in Kigali.", "hypothesis": "Kathy lives in Monaco", "label": 2}
+{"premise": "Sara lives in Santo Domingo.", "hypothesis": "Sara lives in Afghanistan", "label": 2}
+{"premise": "Jean lives in Dushanbe.", "hypothesis": "Jean lives in Oman", "label": 2}
+{"premise": "Don lives in Cairo.", "hypothesis": "Don lives in United Kingdom", "label": 2}
+{"premise": "Caroline lives in Berlin.", "hypothesis": "Caroline lives in Fiji", "label": 2}
+{"premise": "Heather lives in Vienna.", "hypothesis": "Heather lives in Benin", "label": 2}
+{"premise": "Stephen lives in Yamoussoukro.", "hypothesis": "Stephen lives in Azerbaijan", "label": 2}
+{"premise": "Donald lives in Basseterre.", "hypothesis": "Donald lives in Equatorial Guinea", "label": 2}
+{"premise": "Thomas lives in Port of Spain.", "hypothesis": "Thomas lives in Saint Kitts and Nevis", "label": 2}
+{"premise": "Edwin lives in Valletta.", "hypothesis": "Edwin lives in Marshall Islands", "label": 2}
+{"premise": "Jimmy lives in Athens.", "hypothesis": "Jimmy lives in Brazil", "label": 2}
+{"premise": "Steven lives in San Salvador.", "hypothesis": "Steven lives in Suriname", "label": 2}
+{"premise": "Ashley lives in San Jos\u00e9.", "hypothesis": "Ashley lives in Belgium", "label": 2}
+{"premise": "Francis lives in Lom\u00e9.", "hypothesis": "Francis lives in Bolivia", "label": 2}
+{"premise": "Judy lives in Buenos Aires.", "hypothesis": "Judy lives in Belarus", "label": 2}
+{"premise": "Joe lives in Dakar.", "hypothesis": "Joe lives in Latvia", "label": 2}
+{"premise": "Elizabeth lives in Libreville.", "hypothesis": "Elizabeth lives in Malaysia", "label": 2}
+{"premise": "Charlotte lives in Thimphu.", "hypothesis": "Charlotte lives in Austria", "label": 2}
+{"premise": "Lisa lives in Nairobi.", "hypothesis": "Lisa lives in Egypt", "label": 2}
+{"premise": "Fiona lives in Luxembourg.", "hypothesis": "Fiona lives in Iran", "label": 2}
+{"premise": "Katie lives in Berlin.", "hypothesis": "Katie lives in Iceland", "label": 2}
+{"premise": "Suzanne lives in Nouakchott.", "hypothesis": "Suzanne lives in Dominica", "label": 2}
+{"premise": "Colin lives in Palikir.", "hypothesis": "Colin lives in Spain", "label": 2}
+{"premise": "Chris lives in Copenhagen.", "hypothesis": "Chris lives in Antigua and Barbuda", "label": 2}
+{"premise": "Alex lives in Kuwait City.", "hypothesis": "Alex lives in Bangladesh", "label": 2}
+{"premise": "Simon lives in Suva.", "hypothesis": "Simon lives in Thailand", "label": 2}
+{"premise": "Rose lives in Bissau.", "hypothesis": "Rose lives in Singapore", "label": 2}
+{"premise": "Katherine lives in Honiara.", "hypothesis": "Katherine lives in China", "label": 2}
+{"premise": "Ryan lives in Amman.", "hypothesis": "Ryan lives in Laos", "label": 2}
+{"premise": "Maria lives in Warsaw.", "hypothesis": "Maria lives in Vietnam", "label": 2}
+{"premise": "Patrick lives in Djibouti.", "hypothesis": "Patrick lives in Brazil", "label": 2}
+{"premise": "Wendy lives in Copenhagen.", "hypothesis": "Wendy lives in Czech Republic", "label": 2}
+{"premise": "Jill lives in Addis Ababa.", "hypothesis": "Jill lives in Pakistan", "label": 2}
+{"premise": "Jean lives in Caracas.", "hypothesis": "Jean lives in Angola", "label": 2}
+{"premise": "Carolyn lives in Castries.", "hypothesis": "Carolyn lives in Fiji", "label": 2}
+{"premise": "Donna lives in Tbilisi.", "hypothesis": "Donna lives in Croatia", "label": 2}
+{"premise": "Rebecca lives in Rabat.", "hypothesis": "Rebecca lives in Sierra Leone", "label": 2}
+{"premise": "Alexander lives in Mogadishu.", "hypothesis": "Alexander lives in Argentina", "label": 2}
+{"premise": "Ruth lives in Belgrade.", "hypothesis": "Ruth lives in Monaco", "label": 2}
+{"premise": "Jennifer lives in Kiev.", "hypothesis": "Jennifer lives in Azerbaijan", "label": 2}
+{"premise": "Greg lives in Kathmandu.", "hypothesis": "Greg lives in Somalia", "label": 2}
+{"premise": "Virginia lives in Bucharest.", "hypothesis": "Virginia lives in Sri Lanka", "label": 2}
+{"premise": "Jay lives in Castries.", "hypothesis": "Jay lives in Philippines", "label": 2}
+{"premise": "Arthur lives in Asunci\u00f3n.", "hypothesis": "Arthur lives in Peru", "label": 2}
+{"premise": "Ray lives in Kigali.", "hypothesis": "Ray lives in Croatia", "label": 2}
+{"premise": "Kim lives in Damascus.", "hypothesis": "Kim lives in Romania", "label": 2}
+{"premise": "Lisa lives in Guatemala City.", "hypothesis": "Lisa lives in Dominican Republic", "label": 2}
+{"premise": "Angela lives in Lisbon.", "hypothesis": "Angela lives in S\u00e3o Tom\u00e9 and Pr\u00edncipe", "label": 2}
+{"premise": "Amanda lives in Riga.", "hypothesis": "Amanda lives in Sierra Leone", "label": 2}
+{"premise": "Sandra lives in Bratislava.", "hypothesis": "Sandra lives in Ukraine", "label": 2}
+{"premise": "Ian lives in Maseru.", "hypothesis": "Ian lives in Samoa", "label": 2}
+{"premise": "Tim lives in Bucharest.", "hypothesis": "Tim lives in Czech Republic", "label": 2}
+{"premise": "Katherine lives in Monaco.", "hypothesis": "Katherine lives in Qatar", "label": 2}
+{"premise": "Jimmy lives in Castries.", "hypothesis": "Jimmy lives in Vietnam", "label": 2}
+{"premise": "Nicole lives in Mexico City.", "hypothesis": "Nicole lives in Malaysia", "label": 2}
+{"premise": "Jay lives in Abuja.", "hypothesis": "Jay lives in Azerbaijan", "label": 2}
+{"premise": "Bob lives in Ljubljana.", "hypothesis": "Bob lives in Benin", "label": 2}
+{"premise": "Benjamin lives in Tunis.", "hypothesis": "Benjamin lives in Bosnia and Herzegovina", "label": 2}
+{"premise": "William lives in Port Vila.", "hypothesis": "William lives in Croatia", "label": 2}
+{"premise": "Roger lives in Tokyo.", "hypothesis": "Roger lives in Bhutan", "label": 2}
+{"premise": "Frances lives in Kuala Lumpur.", "hypothesis": "Frances lives in Bosnia and Herzegovina", "label": 2}
+{"premise": "Pamela lives in Antananarivo.", "hypothesis": "Pamela lives in Egypt", "label": 2}
+{"premise": "Alexandra lives in Port Vila.", "hypothesis": "Alexandra lives in Kyrgyzstan", "label": 2}
+{"premise": "Jonathan lives in Pretoria.", "hypothesis": "Jonathan lives in Slovenia", "label": 2}
+{"premise": "Don lives in Canberra.", "hypothesis": "Don lives in Sudan", "label": 2}
+{"premise": "Scott lives in Jerusalem.", "hypothesis": "Scott lives in Togo", "label": 2}
+{"premise": "Rebecca lives in Yaren.", "hypothesis": "Rebecca lives in Brunei", "label": 2}
+{"premise": "Jennifer lives in Oslo.", "hypothesis": "Jennifer lives in Malawi", "label": 2}
+{"premise": "Edwin lives in Lisbon.", "hypothesis": "Edwin lives in Grenada", "label": 2}
+{"premise": "Jill lives in Monrovia.", "hypothesis": "Jill lives in Sweden", "label": 2}
+{"premise": "John lives in Dhaka.", "hypothesis": "John lives in Bhutan", "label": 2}
+{"premise": "Kelly lives in Majuro.", "hypothesis": "Kelly lives in Mauritania", "label": 2}
+{"premise": "Tom lives in Brussels.", "hypothesis": "Tom lives in Thailand", "label": 2}
+{"premise": "Stephanie lives in Montevideo.", "hypothesis": "Stephanie lives in Mozambique", "label": 2}
+{"premise": "Stephanie lives in Doha.", "hypothesis": "Stephanie lives in Panama", "label": 2}
+{"premise": "Bobby lives in Kampala.", "hypothesis": "Bobby lives in Equatorial Guinea", "label": 2}
+{"premise": "Steve lives in Minsk.", "hypothesis": "Steve lives in Vanuatu", "label": 2}
+{"premise": "Carl lives in Pretoria.", "hypothesis": "Carl lives in Portugal", "label": 2}
+{"premise": "Bob lives in Lisbon.", "hypothesis": "Bob lives in Afghanistan", "label": 2}
+{"premise": "Robin lives in Pretoria.", "hypothesis": "Robin lives in Canada", "label": 2}
+{"premise": "Suzanne lives in Tirana.", "hypothesis": "Suzanne lives in Australia", "label": 2}
+{"premise": "David lives in Quito.", "hypothesis": "David lives in Oman", "label": 2}
+{"premise": "Jeff lives in Banjul.", "hypothesis": "Jeff lives in Austria", "label": 2}
+{"premise": "Christopher lives in Mexico City.", "hypothesis": "Christopher lives in France", "label": 2}
+{"premise": "Susan lives in Thimphu.", "hypothesis": "Susan lives in Venezuela", "label": 2}
+{"premise": "Kim lives in Yerevan.", "hypothesis": "Kim lives in Barbados", "label": 2}
+{"premise": "Robert lives in Bridgetown.", "hypothesis": "Robert lives in Cyprus", "label": 2}
+{"premise": "Jill lives in Port Moresby.", "hypothesis": "Jill lives in Brazil", "label": 2}
+{"premise": "Janet lives in S\u00e3o Tom\u00e9.", "hypothesis": "Janet lives in Haiti", "label": 2}
+{"premise": "Daniel lives in San Jos\u00e9.", "hypothesis": "Daniel lives in Nigeria", "label": 2}
+{"premise": "Carol lives in Port Vila.", "hypothesis": "Carol lives in Kiribati", "label": 2}
+{"premise": "Annie lives in Djibouti.", "hypothesis": "Annie lives in Costa Rica", "label": 2}
+{"premise": "Donald lives in Brussels.", "hypothesis": "Donald lives in Peru", "label": 2}
+{"premise": "Jane lives in Bern.", "hypothesis": "Jane lives in Slovenia", "label": 2}
+{"premise": "Kathleen lives in Beirut.", "hypothesis": "Kathleen lives in Thailand", "label": 2}
+{"premise": "Diana lives in Yerevan.", "hypothesis": "Diana lives in Nicaragua", "label": 2}
+{"premise": "James lives in Astana.", "hypothesis": "James lives in Cameroon", "label": 2}
+{"premise": "Robert lives in Sofia.", "hypothesis": "Robert lives in Venezuela", "label": 2}
+{"premise": "Ian lives in Sofia.", "hypothesis": "Ian lives in Iraq", "label": 2}
+{"premise": "Kathryn lives in Sucre.", "hypothesis": "Kathryn lives in Cameroon", "label": 2}
+{"premise": "Greg lives in Ottawa.", "hypothesis": "Greg lives in Seychelles", "label": 2}
+{"premise": "Lynn lives in Bangui.", "hypothesis": "Lynn lives in Guinea", "label": 2}
+{"premise": "Charles lives in Sana'a.", "hypothesis": "Charles lives in San Marino", "label": 2}
+{"premise": "Kenneth lives in Ljubljana.", "hypothesis": "Kenneth lives in Dominican Republic", "label": 2}
+{"premise": "Jay lives in Yamoussoukro.", "hypothesis": "Jay lives in Bhutan", "label": 2}
+{"premise": "Pamela lives in Kuwait City.", "hypothesis": "Pamela lives in Tunisia", "label": 2}
+{"premise": "Hugh lives in Guatemala City.", "hypothesis": "Hugh lives in Philippines", "label": 2}
+{"premise": "Mark lives in Lusaka.", "hypothesis": "Mark lives in Ghana", "label": 2}
+{"premise": "Henry lives in City of San Marino.", "hypothesis": "Henry lives in Grenada", "label": 2}
+{"premise": "Bobby lives in Tirana.", "hypothesis": "Bobby lives in Mali", "label": 2}
+{"premise": "Alexander lives in Rome.", "hypothesis": "Alexander lives in Nepal", "label": 2}
+{"premise": "Harry lives in Niamey.", "hypothesis": "Harry lives in Cyprus", "label": 2}
+{"premise": "Eric lives in Tehran.", "hypothesis": "Eric lives in Sudan", "label": 2}
+{"premise": "Roy lives in City of San Marino.", "hypothesis": "Roy lives in Moldova", "label": 2}
+{"premise": "Kate lives in Nassau.", "hypothesis": "Kate lives in Russia", "label": 2}
+{"premise": "Kathryn lives in Dili.", "hypothesis": "Kathryn lives in Nauru", "label": 2}
+{"premise": "Simon lives in Basseterre.", "hypothesis": "Simon lives in Estonia", "label": 2}
+{"premise": "Billy lives in Buenos Aires.", "hypothesis": "Billy lives in Austria", "label": 2}
+{"premise": "Marilyn lives in Abuja.", "hypothesis": "Marilyn lives in Slovakia", "label": 2}
+{"premise": "Simon lives in Niamey.", "hypothesis": "Simon lives in Hungary", "label": 2}
+{"premise": "Nicole lives in Belmopan.", "hypothesis": "Nicole lives in The Bahamas", "label": 2}
+{"premise": "Wendy lives in Paramaribo.", "hypothesis": "Wendy lives in Luxembourg", "label": 2}
+{"premise": "Alan lives in Sofia.", "hypothesis": "Alan lives in Mauritania", "label": 2}
+{"premise": "Dan lives in Copenhagen.", "hypothesis": "Dan lives in Rwanda", "label": 2}
+{"premise": "Marie lives in Palikir.", "hypothesis": "Marie lives in Romania", "label": 2}
+{"premise": "Rachel lives in Sana'a.", "hypothesis": "Rachel lives in Sierra Leone", "label": 2}
+{"premise": "Lauren lives in Brussels.", "hypothesis": "Lauren lives in Somalia", "label": 2}
+{"premise": "Henry lives in Manila.", "hypothesis": "Henry lives in Iceland", "label": 2}
+{"premise": "Jane lives in Thimphu.", "hypothesis": "Jane lives in Qatar", "label": 2}
+{"premise": "Diane lives in Asmara.", "hypothesis": "Diane lives in Mauritius", "label": 2}
+{"premise": "Johnny lives in Tirana.", "hypothesis": "Johnny lives in Peru", "label": 2}
+{"premise": "Jessica lives in Bratislava.", "hypothesis": "Jessica lives in Saudi Arabia", "label": 2}
+{"premise": "Suzanne lives in Santiago.", "hypothesis": "Suzanne lives in Honduras", "label": 2}
+{"premise": "Sam lives in New Delhi.", "hypothesis": "Sam lives in San Marino", "label": 2}
+{"premise": "Ian lives in Tokyo.", "hypothesis": "Ian lives in Guinea", "label": 2}
+{"premise": "David lives in Mal\u00e9.", "hypothesis": "David lives in Slovenia", "label": 2}
+{"premise": "Gary lives in Bangui.", "hypothesis": "Gary lives in Niger", "label": 2}
+{"premise": "Christopher lives in Copenhagen.", "hypothesis": "Christopher lives in Saudi Arabia", "label": 2}
+{"premise": "Henry lives in Freetown.", "hypothesis": "Henry lives in Paraguay", "label": 2}
+{"premise": "Sue lives in Lima.", "hypothesis": "Sue lives in Yemen", "label": 2}
+{"premise": "James lives in Tunis.", "hypothesis": "James lives in Brunei", "label": 2}
+{"premise": "Karen lives in Freetown.", "hypothesis": "Karen lives in Central African Republic", "label": 2}
+{"premise": "Peter lives in Lima.", "hypothesis": "Peter lives in Armenia", "label": 2}
+{"premise": "Mary lives in Nouakchott.", "hypothesis": "Mary lives in Tunisia", "label": 2}
+{"premise": "Ian lives in Nouakchott.", "hypothesis": "Ian lives in Central African Republic", "label": 2}
+{"premise": "Katie lives in Gaborone.", "hypothesis": "Katie lives in Ethiopia", "label": 2}
+{"premise": "Thomas lives in Valletta.", "hypothesis": "Thomas lives in New Zealand", "label": 2}
+{"premise": "Dick lives in Basseterre.", "hypothesis": "Dick lives in Benin", "label": 2}
+{"premise": "Janet lives in Ljubljana.", "hypothesis": "Janet lives in Guinea", "label": 2}
+{"premise": "Alison lives in Kathmandu.", "hypothesis": "Alison lives in Belarus", "label": 2}
+{"premise": "Charlotte lives in Baku.", "hypothesis": "Charlotte lives in Suriname", "label": 2}
+{"premise": "Louise lives in Tehran.", "hypothesis": "Louise lives in Azerbaijan", "label": 2}
+{"premise": "Sam lives in Yamoussoukro.", "hypothesis": "Sam lives in Australia", "label": 2}
+{"premise": "Dan lives in Madrid.", "hypothesis": "Dan lives in Iceland", "label": 2}
+{"premise": "Joseph lives in Beijing.", "hypothesis": "Joseph lives in Jamaica", "label": 2}
+{"premise": "Grace lives in Nouakchott.", "hypothesis": "Grace lives in Palau", "label": 2}
+{"premise": "Edward lives in Prague.", "hypothesis": "Edward lives in Spain", "label": 2}
+{"premise": "Matt lives in Rabat.", "hypothesis": "Matt lives in Guyana", "label": 2}
+{"premise": "Andrew lives in Yaren.", "hypothesis": "Andrew lives in Lesotho", "label": 2}
+{"premise": "Sarah lives in Palikir.", "hypothesis": "Sarah lives in Turkey", "label": 2}
+{"premise": "Diana lives in Kuwait City.", "hypothesis": "Diana lives in Mongolia", "label": 2}
+{"premise": "Julia lives in Tokyo.", "hypothesis": "Julia lives in Lithuania", "label": 2}
+{"premise": "Fiona lives in Rome.", "hypothesis": "Fiona lives in Nauru", "label": 2}
+{"premise": "Laura lives in Jerusalem.", "hypothesis": "Laura lives in Israel", "label": 2}
+{"premise": "Dan lives in Majuro.", "hypothesis": "Dan lives in Austria", "label": 2}
+{"premise": "John lives in Copenhagen.", "hypothesis": "John lives in Seychelles", "label": 2}
+{"premise": "Francis lives in Honiara.", "hypothesis": "Francis lives in Haiti", "label": 2}
+{"premise": "Melissa lives in Beirut.", "hypothesis": "Melissa lives in Italy", "label": 2}
+{"premise": "Jim lives in Niamey.", "hypothesis": "Jim lives in Tanzania", "label": 2}
+{"premise": "Matt lives in Mal\u00e9.", "hypothesis": "Matt lives in Saint Kitts and Nevis", "label": 2}
+{"premise": "Anthony lives in Baku.", "hypothesis": "Anthony lives in Ghana", "label": 2}
+{"premise": "Susan lives in Bangui.", "hypothesis": "Susan lives in Pakistan", "label": 2}
+{"premise": "Sue lives in Santiago.", "hypothesis": "Sue lives in The Bahamas", "label": 2}
+{"premise": "Louise lives in Caracas.", "hypothesis": "Louise lives in Somalia", "label": 2}
+{"premise": "Charlotte lives in Yamoussoukro.", "hypothesis": "Charlotte lives in Dominican Republic", "label": 2}
+{"premise": "Roy lives in Minsk.", "hypothesis": "Roy lives in United Kingdom", "label": 2}
+{"premise": "Alice lives in Asunci\u00f3n.", "hypothesis": "Alice lives in The Bahamas", "label": 2}
+{"premise": "Ian lives in Bucharest.", "hypothesis": "Ian lives in Denmark", "label": 2}
+{"premise": "Helen lives in Sofia.", "hypothesis": "Helen lives in Sweden", "label": 2}
+{"premise": "Walter lives in Pretoria.", "hypothesis": "Walter lives in Philippines", "label": 2}
+{"premise": "Walter lives in Yamoussoukro.", "hypothesis": "Walter lives in Serbia", "label": 2}
+{"premise": "Melissa lives in Tegucigalpa.", "hypothesis": "Melissa lives in Malta", "label": 2}
+{"premise": "Kenneth lives in Bamako.", "hypothesis": "Kenneth lives in Madagascar", "label": 2}
+{"premise": "Joseph lives in Lom\u00e9.", "hypothesis": "Joseph lives in Singapore", "label": 2}
+{"premise": "Lucy lives in Port Louis.", "hypothesis": "Lucy lives in Equatorial Guinea", "label": 2}
+{"premise": "Bruce lives in Asunci\u00f3n.", "hypothesis": "Bruce lives in Antigua and Barbuda", "label": 2}
+{"premise": "Kate lives in Thimphu.", "hypothesis": "Kate lives in Indonesia", "label": 2}
+{"premise": "Jeff lives in Ashgabat.", "hypothesis": "Jeff lives in Ghana", "label": 2}
+{"premise": "Kevin lives in Monaco.", "hypothesis": "Kevin lives in Saint Vincent and the Grenadines", "label": 2}
+{"premise": "Bob lives in Tbilisi.", "hypothesis": "Bob lives in Marshall Islands", "label": 2}
+{"premise": "Carol lives in Castries.", "hypothesis": "Carol lives in Cape Verde", "label": 2}
+{"premise": "Susan lives in Port Louis.", "hypothesis": "Susan lives in Central African Republic", "label": 2}
+{"premise": "Alexandra lives in Seoul.", "hypothesis": "Alexandra lives in Czech Republic", "label": 2}
+{"premise": "Fiona lives in Manama.", "hypothesis": "Fiona lives in Djibouti", "label": 2}
+{"premise": "Margaret lives in Mogadishu.", "hypothesis": "Margaret lives in Grenada", "label": 2}
+{"premise": "Roy lives in South Tarawa.", "hypothesis": "Roy lives in Azerbaijan", "label": 2}
+{"premise": "Annie lives in Bandar Seri Begawan.", "hypothesis": "Annie lives in Brunei", "label": 2}
+{"premise": "Katie lives in Quito.", "hypothesis": "Katie lives in Afghanistan", "label": 2}
+{"premise": "Tony lives in Tbilisi.", "hypothesis": "Tony lives in Zambia", "label": 2}
+{"premise": "Robert lives in Nuku'alofa.", "hypothesis": "Robert lives in United Kingdom", "label": 2}
+{"premise": "Rose lives in Abu Dhabi.", "hypothesis": "Rose lives in Singapore", "label": 2}
+{"premise": "Lisa lives in Rome.", "hypothesis": "Lisa lives in Antigua and Barbuda", "label": 2}
+{"premise": "Emily lives in Bujumbura.", "hypothesis": "Emily lives in Rwanda", "label": 2}
+{"premise": "Frances lives in Yerevan.", "hypothesis": "Frances lives in Mozambique", "label": 2}
+{"premise": "Sally lives in Dili.", "hypothesis": "Sally lives in Federated States of Micronesia", "label": 2}
+{"premise": "Christopher lives in Port-au-Prince.", "hypothesis": "Christopher lives in Finland", "label": 2}
+{"premise": "Steven lives in Ottawa.", "hypothesis": "Steven lives in Burundi", "label": 2}
+{"premise": "Christopher lives in Stockholm.", "hypothesis": "Christopher lives in Cape Verde", "label": 2}
+{"premise": "Angela lives in Beirut.", "hypothesis": "Angela lives in S\u00e3o Tom\u00e9 and Pr\u00edncipe", "label": 2}
+{"premise": "Edith lives in Paramaribo.", "hypothesis": "Edith lives in Papua New Guinea", "label": 2}
+{"premise": "Diane lives in Accra.", "hypothesis": "Diane lives in Algeria", "label": 2}
+{"premise": "Roy lives in Prague.", "hypothesis": "Roy lives in Serbia", "label": 2}
+{"premise": "Don lives in Ottawa.", "hypothesis": "Don lives in Serbia", "label": 2}
+{"premise": "Kevin lives in Luxembourg.", "hypothesis": "Kevin lives in Moldova", "label": 2}
+{"premise": "Harriet lives in Beijing.", "hypothesis": "Harriet lives in United Kingdom", "label": 2}
+{"premise": "Christine lives in Paramaribo.", "hypothesis": "Christine lives in Romania", "label": 2}
+{"premise": "Nick lives in Majuro.", "hypothesis": "Nick lives in Panama", "label": 2}
+{"premise": "William lives in Beijing.", "hypothesis": "William lives in Saint Lucia", "label": 2}
+{"premise": "Gary lives in San Jos\u00e9.", "hypothesis": "Gary lives in Brunei", "label": 2}
+{"premise": "Joan lives in Sofia.", "hypothesis": "Joan lives in Angola", "label": 2}
+{"premise": "Caroline lives in Copenhagen.", "hypothesis": "Caroline lives in Eritrea", "label": 2}
+{"premise": "Lawrence lives in Dodoma.", "hypothesis": "Lawrence lives in Chad", "label": 2}
+{"premise": "Betty lives in Baghdad.", "hypothesis": "Betty lives in Laos", "label": 2}
+{"premise": "Philip lives in Port Moresby.", "hypothesis": "Philip lives in Nepal", "label": 2}
+{"premise": "Anthony lives in Bangkok.", "hypothesis": "Anthony lives in Equatorial Guinea", "label": 2}
+{"premise": "Howard lives in Tripoli.", "hypothesis": "Howard lives in Russia", "label": 2}
+{"premise": "Victoria lives in Kiev.", "hypothesis": "Victoria lives in Togo", "label": 2}
+{"premise": "Donald lives in Yaren.", "hypothesis": "Donald lives in Kazakhstan", "label": 2}
+{"premise": "Claire lives in Bridgetown.", "hypothesis": "Claire lives in Malaysia", "label": 2}
+{"premise": "Michael lives in Berlin.", "hypothesis": "Michael lives in Cambodia", "label": 2}
+{"premise": "Carl lives in Castries.", "hypothesis": "Carl lives in Georgia", "label": 2}
+{"premise": "Jean lives in Maseru.", "hypothesis": "Jean lives in Slovenia", "label": 2}
+{"premise": "Eleanor lives in Castries.", "hypothesis": "Eleanor lives in Guinea", "label": 2}
+{"premise": "Helen lives in Asunci\u00f3n.", "hypothesis": "Helen lives in China", "label": 2}
+{"premise": "Richard lives in Budapest.", "hypothesis": "Richard lives in Belarus", "label": 2}
+{"premise": "Evelyn lives in Lima.", "hypothesis": "Evelyn lives in Norway", "label": 2}
+{"premise": "Ben lives in Vaduz.", "hypothesis": "Ben lives in Paraguay", "label": 2}
+{"premise": "Amanda lives in Luxembourg.", "hypothesis": "Amanda lives in Denmark", "label": 2}
+{"premise": "Bobby lives in Roseau.", "hypothesis": "Bobby lives in Sri Lanka", "label": 2}
+{"premise": "Amy lives in Copenhagen.", "hypothesis": "Amy lives in New Zealand", "label": 2}
+{"premise": "Kathleen lives in Berlin.", "hypothesis": "Kathleen lives in Eritrea", "label": 2}
+{"premise": "Lisa lives in Lilongwe.", "hypothesis": "Lisa lives in Brazil", "label": 2}
+{"premise": "Keith lives in City of San Marino.", "hypothesis": "Keith lives in Bangladesh", "label": 2}
+{"premise": "Sam lives in Luxembourg.", "hypothesis": "Sam lives in Cape Verde", "label": 2}
+{"premise": "Henry lives in Thimphu.", "hypothesis": "Henry lives in The Bahamas", "label": 2}
+{"premise": "Albert lives in Jerusalem.", "hypothesis": "Albert lives in Colombia", "label": 2}
+{"premise": "Lynn lives in Washington D.C..", "hypothesis": "Lynn lives in Angola", "label": 2}
+{"premise": "Ron lives in Berlin.", "hypothesis": "Ron lives in Jamaica", "label": 2}
+{"premise": "Michael lives in Belgrade.", "hypothesis": "Michael lives in South Sudan", "label": 2}
+{"premise": "Alexander lives in Bangui.", "hypothesis": "Alexander lives in Sierra Leone", "label": 2}
+{"premise": "Frank lives in Sucre.", "hypothesis": "Frank lives in South Sudan", "label": 2}
+{"premise": "David lives in Ngerulmud.", "hypothesis": "David lives in Palau", "label": 2}
+{"premise": "John lives in Dublin.", "hypothesis": "John lives in Pakistan", "label": 2}
+{"premise": "Paul lives in Pretoria.", "hypothesis": "Paul lives in Central African Republic", "label": 2}
+{"premise": "Judith lives in Abuja.", "hypothesis": "Judith lives in Paraguay", "label": 2}
+{"premise": "Angela lives in Ankara.", "hypothesis": "Angela lives in Cyprus", "label": 2}
+{"premise": "Grace lives in N'Djamena.", "hypothesis": "Grace lives in Jordan", "label": 2}
+{"premise": "Matt lives in Basseterre.", "hypothesis": "Matt lives in Uganda", "label": 2}
+{"premise": "Alexandra lives in Kuwait City.", "hypothesis": "Alexandra lives in Suriname", "label": 2}
+{"premise": "Daniel lives in Singapore.", "hypothesis": "Daniel lives in China", "label": 2}
+{"premise": "Dan lives in Nairobi.", "hypothesis": "Dan lives in Slovenia", "label": 2}
+{"premise": "Diane lives in Gaborone.", "hypothesis": "Diane lives in Cyprus", "label": 2}
+{"premise": "Ray lives in Rabat.", "hypothesis": "Ray lives in Singapore", "label": 2}
+{"premise": "Julie lives in Tokyo.", "hypothesis": "Julie lives in China", "label": 2}
+{"premise": "Annie lives in Tehran.", "hypothesis": "Annie lives in The Bahamas", "label": 2}
+{"premise": "Jason lives in Hanoi.", "hypothesis": "Jason lives in Latvia", "label": 2}
+{"premise": "Kenneth lives in Doha.", "hypothesis": "Kenneth lives in Philippines", "label": 2}
+{"premise": "Janet lives in City of San Marino.", "hypothesis": "Janet lives in Argentina", "label": 2}
+{"premise": "Florence lives in Mal\u00e9.", "hypothesis": "Florence lives in Tonga", "label": 2}
+{"premise": "Harry lives in Bamako.", "hypothesis": "Harry lives in Canada", "label": 2}
+{"premise": "Lisa lives in Belgrade.", "hypothesis": "Lisa lives in Nauru", "label": 2}
+{"premise": "Jill lives in Jerusalem.", "hypothesis": "Jill lives in Cuba", "label": 2}
+{"premise": "Rebecca lives in Port Moresby.", "hypothesis": "Rebecca lives in Indonesia", "label": 2}
+{"premise": "Frank lives in Windhoek.", "hypothesis": "Frank lives in Eritrea", "label": 2}
+{"premise": "Alan lives in Tripoli.", "hypothesis": "Alan lives in S\u00e3o Tom\u00e9 and Pr\u00edncipe", "label": 2}
+{"premise": "Kathleen lives in Ulan Bator.", "hypothesis": "Kathleen lives in New Zealand", "label": 2}
+{"premise": "Eric lives in Panama City.", "hypothesis": "Eric lives in Haiti", "label": 2}
+{"premise": "Elizabeth lives in Suva.", "hypothesis": "Elizabeth lives in Peru", "label": 2}
+{"premise": "Kathy lives in Nicosia.", "hypothesis": "Kathy lives in Oman", "label": 2}
+{"premise": "Deborah lives in Thimphu.", "hypothesis": "Deborah lives in Mauritius", "label": 2}
+{"premise": "Eleanor lives in Stockholm.", "hypothesis": "Eleanor lives in Lesotho", "label": 2}
+{"premise": "Joe lives in Maseru.", "hypothesis": "Joe lives in Mongolia", "label": 2}
+{"premise": "Anthony lives in Nuku'alofa.", "hypothesis": "Anthony lives in Bulgaria", "label": 2}
+{"premise": "Katherine lives in Yaren.", "hypothesis": "Katherine lives in Mongolia", "label": 2}
+{"premise": "Marie lives in Accra.", "hypothesis": "Marie lives in Portugal", "label": 2}
+{"premise": "Lucy lives in Dodoma.", "hypothesis": "Lucy lives in Luxembourg", "label": 2}
+{"premise": "Jeff lives in Doha.", "hypothesis": "Jeff lives in Algeria", "label": 2}
+{"premise": "Alexander lives in Yamoussoukro.", "hypothesis": "Alexander lives in Bulgaria", "label": 2}
+{"premise": "Alfred lives in Yaound\u00e9.", "hypothesis": "Alfred lives in Japan", "label": 2}
+{"premise": "Frances lives in Thimphu.", "hypothesis": "Frances lives in Bhutan", "label": 2}
+{"premise": "Carl lives in Ljubljana.", "hypothesis": "Carl lives in Jordan", "label": 2}
+{"premise": "Howard lives in Antananarivo.", "hypothesis": "Howard lives in Mauritius", "label": 2}
+{"premise": "Carl lives in Singapore.", "hypothesis": "Carl lives in Angola", "label": 2}
+{"premise": "Amanda lives in Sana'a.", "hypothesis": "Amanda lives in Mozambique", "label": 2}
+{"premise": "Gary lives in Pyongyang.", "hypothesis": "Gary lives in Finland", "label": 2}
+{"premise": "Ann lives in Budapest.", "hypothesis": "Ann lives in Singapore", "label": 2}
+{"premise": "Frank lives in Kigali.", "hypothesis": "Frank lives in Zimbabwe", "label": 2}
+{"premise": "Heather lives in Port Moresby.", "hypothesis": "Heather lives in Marshall Islands", "label": 2}
+{"premise": "Sally lives in Windhoek.", "hypothesis": "Sally lives in Panama", "label": 2}
+{"premise": "Virginia lives in Santo Domingo.", "hypothesis": "Virginia lives in Grenada", "label": 2}
+{"premise": "Cynthia lives in Yaren.", "hypothesis": "Cynthia lives in Djibouti", "label": 2}
+{"premise": "Ian lives in Dublin.", "hypothesis": "Ian lives in Uruguay", "label": 2}
+{"premise": "Frederick lives in Port Vila.", "hypothesis": "Frederick lives in Madagascar", "label": 2}
+{"premise": "Leslie lives in Tallinn.", "hypothesis": "Leslie lives in Bangladesh", "label": 2}
+{"premise": "Christopher lives in Sucre.", "hypothesis": "Christopher lives in Israel", "label": 2}
+{"premise": "Joan lives in Havana.", "hypothesis": "Joan lives in Israel", "label": 2}
+{"premise": "Ryan lives in Pyongyang.", "hypothesis": "Ryan lives in Yemen", "label": 2}
+{"premise": "Ralph lives in Dushanbe.", "hypothesis": "Ralph lives in Slovenia", "label": 2}
+{"premise": "Mary lives in Caracas.", "hypothesis": "Mary lives in S\u00e3o Tom\u00e9 and Pr\u00edncipe", "label": 2}
+{"premise": "Barbara lives in Sana'a.", "hypothesis": "Barbara lives in S\u00e3o Tom\u00e9 and Pr\u00edncipe", "label": 2}
+{"premise": "Sara lives in Antananarivo.", "hypothesis": "Sara lives in Poland", "label": 2}
+{"premise": "John lives in Belmopan.", "hypothesis": "John lives in Armenia", "label": 2}
+{"premise": "Jerry lives in Chi\u0219in\u0103u.", "hypothesis": "Jerry lives in South Africa", "label": 2}
+{"premise": "Roger lives in Jakarta.", "hypothesis": "Roger lives in Indonesia", "label": 2}
+{"premise": "Ken lives in Zagreb.", "hypothesis": "Ken lives in Lebanon", "label": 2}
+{"premise": "Harriet lives in Antananarivo.", "hypothesis": "Harriet lives in Marshall Islands", "label": 2}
+{"premise": "Ryan lives in Funafuti.", "hypothesis": "Ryan lives in Djibouti", "label": 2}
+{"premise": "Keith lives in Maseru.", "hypothesis": "Keith lives in Yemen", "label": 2}
+{"premise": "Deborah lives in Kingston.", "hypothesis": "Deborah lives in Hungary", "label": 2}
+{"premise": "Stephen lives in Havana.", "hypothesis": "Stephen lives in Germany", "label": 2}
+{"premise": "Carolyn lives in Harare.", "hypothesis": "Carolyn lives in Bulgaria", "label": 2}
+{"premise": "Steven lives in Rome.", "hypothesis": "Steven lives in Nigeria", "label": 2}
+{"premise": "Jessica lives in Moroni.", "hypothesis": "Jessica lives in Brunei", "label": 2}
+{"premise": "Jason lives in Vienna.", "hypothesis": "Jason lives in Namibia", "label": 2}
+{"premise": "Albert lives in Antananarivo.", "hypothesis": "Albert lives in Bosnia and Herzegovina", "label": 2}
+{"premise": "Alfred lives in Apia.", "hypothesis": "Alfred lives in Togo", "label": 2}
+{"premise": "Tom lives in Antananarivo.", "hypothesis": "Tom lives in Iceland", "label": 2}
+{"premise": "Jessica lives in Banjul.", "hypothesis": "Jessica lives in Bolivia", "label": 2}
+{"premise": "Harry lives in Sofia.", "hypothesis": "Harry lives in Kenya", "label": 2}
+{"premise": "James lives in Kiev.", "hypothesis": "James lives in The Gambia", "label": 2}
+{"premise": "Julia lives in Accra.", "hypothesis": "Julia lives in Seychelles", "label": 2}
+{"premise": "Helen lives in Singapore.", "hypothesis": "Helen lives in South Korea", "label": 2}
+{"premise": "Jane lives in Kabul.", "hypothesis": "Jane lives in Malawi", "label": 2}
+{"premise": "Roger lives in Funafuti.", "hypothesis": "Roger lives in Equatorial Guinea", "label": 2}
+{"premise": "Julia lives in Jakarta.", "hypothesis": "Julia lives in Brazil", "label": 2}
+{"premise": "Roy lives in Accra.", "hypothesis": "Roy lives in Laos", "label": 2}
+{"premise": "Ellen lives in Windhoek.", "hypothesis": "Ellen lives in Tanzania", "label": 2}
+{"premise": "Sophie lives in Funafuti.", "hypothesis": "Sophie lives in Mexico", "label": 2}
+{"premise": "Brian lives in Budapest.", "hypothesis": "Brian lives in Rwanda", "label": 2}
+{"premise": "Kenneth lives in Singapore.", "hypothesis": "Kenneth lives in Armenia", "label": 2}
+{"premise": "Bruce lives in Ottawa.", "hypothesis": "Bruce lives in Dominica", "label": 2}
+{"premise": "Amanda lives in Abu Dhabi.", "hypothesis": "Amanda lives in Israel", "label": 2}
+{"premise": "Elaine lives in Libreville.", "hypothesis": "Elaine lives in Equatorial Guinea", "label": 2}
+{"premise": "Eleanor lives in Rome.", "hypothesis": "Eleanor lives in Tuvalu", "label": 2}
+{"premise": "Caroline lives in Maputo.", "hypothesis": "Caroline lives in Qatar", "label": 2}
+{"premise": "Louis lives in Nuku'alofa.", "hypothesis": "Louis lives in Guinea-Bissau", "label": 2}
+{"premise": "Betty lives in Bogot\u00e1.", "hypothesis": "Betty lives in Burundi", "label": 2}
+{"premise": "Colin lives in Praia.", "hypothesis": "Colin lives in Estonia", "label": 2}
+{"premise": "Sam lives in City of San Marino.", "hypothesis": "Sam lives in Mozambique", "label": 2}
+{"premise": "Susan lives in Saint John's.", "hypothesis": "Susan lives in Malta", "label": 2}
+{"premise": "Daniel lives in Bangui.", "hypothesis": "Daniel lives in Dominica", "label": 2}
+{"premise": "Stephen lives in Abu Dhabi.", "hypothesis": "Stephen lives in Turkmenistan", "label": 2}
+{"premise": "Harriet lives in Quito.", "hypothesis": "Harriet lives in Tajikistan", "label": 2}
+{"premise": "Albert lives in Abuja.", "hypothesis": "Albert lives in Bangladesh", "label": 2}
+{"premise": "Kathy lives in Abuja.", "hypothesis": "Kathy lives in Bosnia and Herzegovina", "label": 2}
+{"premise": "Lynn lives in Dodoma.", "hypothesis": "Lynn lives in Ivory Coast", "label": 2}
+{"premise": "Francis lives in Tehran.", "hypothesis": "Francis lives in Uganda", "label": 2}
+{"premise": "Keith lives in City of San Marino.", "hypothesis": "Keith lives in Tajikistan", "label": 2}
+{"premise": "Jim lives in Colombo.", "hypothesis": "Jim lives in Iraq", "label": 2}
+{"premise": "Jonathan lives in St. George's.", "hypothesis": "Jonathan lives in Burkina Faso", "label": 2}
+{"premise": "Robert lives in Moscow.", "hypothesis": "Robert lives in Greece", "label": 2}
+{"premise": "Barbara lives in Kuwait City.", "hypothesis": "Barbara lives in Cambodia", "label": 2}
+{"premise": "Arthur lives in Victoria.", "hypothesis": "Arthur lives in Bahrain", "label": 2}
+{"premise": "Roy lives in Tokyo.", "hypothesis": "Roy lives in Moldova", "label": 2}
+{"premise": "Roger lives in Port-au-Prince.", "hypothesis": "Roger lives in Antigua and Barbuda", "label": 2}
+{"premise": "Eric lives in Victoria.", "hypothesis": "Eric lives in Morocco", "label": 2}
+{"premise": "Mary lives in Rabat.", "hypothesis": "Mary lives in Dominica", "label": 2}
+{"premise": "Daniel lives in Harare.", "hypothesis": "Daniel lives in Chad", "label": 2}
+{"premise": "Patrick lives in Nuku'alofa.", "hypothesis": "Patrick lives in Pakistan", "label": 2}
+{"premise": "Robert lives in Porto-Novo.", "hypothesis": "Robert lives in Eritrea", "label": 2}
+{"premise": "Jason lives in Kuwait City.", "hypothesis": "Jason lives in Papua New Guinea", "label": 2}
+{"premise": "Jessica lives in Roseau.", "hypothesis": "Jessica lives in Mongolia", "label": 2}
+{"premise": "Heather lives in Malabo.", "hypothesis": "Heather lives in Saint Kitts and Nevis", "label": 2}
+{"premise": "Sandra lives in Yaren.", "hypothesis": "Sandra lives in Austria", "label": 2}
+{"premise": "Ed lives in Addis Ababa.", "hypothesis": "Ed lives in Rwanda", "label": 2}
+{"premise": "James lives in Belmopan.", "hypothesis": "James lives in Venezuela", "label": 2}
+{"premise": "Leslie lives in Santiago.", "hypothesis": "Leslie lives in Botswana", "label": 2}
+{"premise": "Stephanie lives in Ngerulmud.", "hypothesis": "Stephanie lives in Vietnam", "label": 2}
+{"premise": "Arthur lives in Caracas.", "hypothesis": "Arthur lives in Samoa", "label": 2}
+{"premise": "Ralph lives in Tripoli.", "hypothesis": "Ralph lives in Djibouti", "label": 2}
+{"premise": "Daniel lives in Santiago.", "hypothesis": "Daniel lives in Sudan", "label": 2}
+{"premise": "Patrick lives in Lusaka.", "hypothesis": "Patrick lives in Belarus", "label": 2}
+{"premise": "Tony lives in Kingston.", "hypothesis": "Tony lives in Egypt", "label": 2}
+{"premise": "Patricia lives in Port of Spain.", "hypothesis": "Patricia lives in Niger", "label": 2}
+{"premise": "Louise lives in Muscat.", "hypothesis": "Louise lives in Egypt", "label": 2}
+{"premise": "Charlotte lives in Kigali.", "hypothesis": "Charlotte lives in East Timor", "label": 2}
+{"premise": "Frances lives in Kathmandu.", "hypothesis": "Frances lives in Chad", "label": 2}
+{"premise": "Sarah lives in Niamey.", "hypothesis": "Sarah lives in Laos", "label": 2}
+{"premise": "Lisa lives in Addis Ababa.", "hypothesis": "Lisa lives in Turkey", "label": 2}
+{"premise": "Steven lives in Hanoi.", "hypothesis": "Steven lives in Guinea", "label": 2}
+{"premise": "Deborah lives in Amman.", "hypothesis": "Deborah lives in Cyprus", "label": 2}
+{"premise": "Katie lives in Roseau.", "hypothesis": "Katie lives in Thailand", "label": 2}
+{"premise": "Martha lives in Santo Domingo.", "hypothesis": "Martha lives in The Gambia", "label": 2}
+{"premise": "Louise lives in Kuala Lumpur.", "hypothesis": "Louise lives in Cameroon", "label": 2}
+{"premise": "Kevin lives in Chi\u0219in\u0103u.", "hypothesis": "Kevin lives in Mauritania", "label": 2}
+{"premise": "Matthew lives in Dodoma.", "hypothesis": "Matthew lives in Senegal", "label": 2}
+{"premise": "Jennifer lives in Sarajevo.", "hypothesis": "Jennifer lives in Canada", "label": 2}
+{"premise": "Albert lives in Beijing.", "hypothesis": "Albert lives in Denmark", "label": 2}
+{"premise": "Don lives in Mal\u00e9.", "hypothesis": "Don lives in Azerbaijan", "label": 2}
+{"premise": "Daniel lives in Sucre.", "hypothesis": "Daniel lives in Nauru", "label": 2}
+{"premise": "Heather lives in Bangui.", "hypothesis": "Heather lives in Rwanda", "label": 2}
+{"premise": "Frank lives in Phnom Penh.", "hypothesis": "Frank lives in Seychelles", "label": 2}
+{"premise": "Arthur lives in Lom\u00e9.", "hypothesis": "Arthur lives in Eritrea", "label": 2}
+{"premise": "Donald lives in Antananarivo.", "hypothesis": "Donald lives in Guinea-Bissau", "label": 2}
+{"premise": "Tom lives in South Tarawa.", "hypothesis": "Tom lives in Botswana", "label": 2}
+{"premise": "Eleanor lives in Lom\u00e9.", "hypothesis": "Eleanor lives in Liberia", "label": 2}
+{"premise": "Florence lives in Seoul.", "hypothesis": "Florence lives in Rwanda", "label": 2}
+{"premise": "Marilyn lives in Rome.", "hypothesis": "Marilyn lives in Nepal", "label": 2}
+{"premise": "Lawrence lives in Dhaka.", "hypothesis": "Lawrence lives in Tanzania", "label": 2}
+{"premise": "Jessica lives in Kingston.", "hypothesis": "Jessica lives in Benin", "label": 2}
+{"premise": "Jimmy lives in Bratislava.", "hypothesis": "Jimmy lives in Barbados", "label": 2}
+{"premise": "Kelly lives in Rome.", "hypothesis": "Kelly lives in Burundi", "label": 2}
+{"premise": "George lives in Thimphu.", "hypothesis": "George lives in Laos", "label": 2}
+{"premise": "Wendy lives in Dodoma.", "hypothesis": "Wendy lives in Namibia", "label": 2}
+{"premise": "Stephanie lives in Kingstown.", "hypothesis": "Stephanie lives in Armenia", "label": 2}
+{"premise": "Francis lives in Porto-Novo.", "hypothesis": "Francis lives in Niger", "label": 2}
+{"premise": "Martin lives in Kiev.", "hypothesis": "Martin lives in Sierra Leone", "label": 2}
+{"premise": "Peter lives in Gaborone.", "hypothesis": "Peter lives in Iraq", "label": 2}
+{"premise": "Charles lives in Riyadh.", "hypothesis": "Charles lives in Nigeria", "label": 2}
+{"premise": "Martha lives in Bucharest.", "hypothesis": "Martha lives in Guinea", "label": 2}
+{"premise": "Hugh lives in Jakarta.", "hypothesis": "Hugh lives in Cameroon", "label": 2}
+{"premise": "Charlotte lives in Honiara.", "hypothesis": "Charlotte lives in Germany", "label": 2}
+{"premise": "Victoria lives in Oslo.", "hypothesis": "Victoria lives in Palau", "label": 2}
+{"premise": "Albert lives in Phnom Penh.", "hypothesis": "Albert lives in Samoa", "label": 2}
+{"premise": "Carol lives in Warsaw.", "hypothesis": "Carol lives in San Marino", "label": 2}
+{"premise": "Sara lives in Yamoussoukro.", "hypothesis": "Sara lives in Philippines", "label": 2}
+{"premise": "Judith lives in Freetown.", "hypothesis": "Judith lives in China", "label": 2}
+{"premise": "Charlotte lives in Maseru.", "hypothesis": "Charlotte lives in Papua New Guinea", "label": 2}
+{"premise": "Jimmy lives in Monrovia.", "hypothesis": "Jimmy lives in Lithuania", "label": 2}
+{"premise": "Margaret lives in Port Vila.", "hypothesis": "Margaret lives in Denmark", "label": 2}
+{"premise": "Ed lives in Libreville.", "hypothesis": "Ed lives in Marshall Islands", "label": 2}
+{"premise": "Robert lives in S\u00e3o Tom\u00e9.", "hypothesis": "Robert lives in Ethiopia", "label": 2}
+{"premise": "Samuel lives in Port of Spain.", "hypothesis": "Samuel lives in Greece", "label": 2}
+{"premise": "Scott lives in Mogadishu.", "hypothesis": "Scott lives in Egypt", "label": 2}
+{"premise": "Patricia lives in Riyadh.", "hypothesis": "Patricia lives in Suriname", "label": 2}
+{"premise": "Bobby lives in Yaound\u00e9.", "hypothesis": "Bobby lives in Central African Republic", "label": 2}
+{"premise": "William lives in Lusaka.", "hypothesis": "William lives in Seychelles", "label": 2}
+{"premise": "Anthony lives in Bishkek.", "hypothesis": "Anthony lives in Moldova", "label": 2}
+{"premise": "Andrew lives in Budapest.", "hypothesis": "Andrew lives in Singapore", "label": 2}
+{"premise": "Larry lives in Kingstown.", "hypothesis": "Larry lives in Finland", "label": 2}
+{"premise": "Katie lives in Bucharest.", "hypothesis": "Katie lives in Hungary", "label": 2}
+{"premise": "Pamela lives in Vilnius.", "hypothesis": "Pamela lives in San Marino", "label": 2}
+{"premise": "Bobby lives in Port Vila.", "hypothesis": "Bobby lives in Saint Kitts and Nevis", "label": 2}
+{"premise": "George lives in Tehran.", "hypothesis": "George lives in Italy", "label": 2}
+{"premise": "Hugh lives in Warsaw.", "hypothesis": "Hugh lives in Yemen", "label": 2}
+{"premise": "Sally lives in Tallinn.", "hypothesis": "Sally lives in Oman", "label": 2}
+{"premise": "Edith lives in Abuja.", "hypothesis": "Edith lives in Qatar", "label": 2}
+{"premise": "Robert lives in Port of Spain.", "hypothesis": "Robert lives in Hungary", "label": 2}
+{"premise": "Joan lives in Malabo.", "hypothesis": "Joan lives in Lebanon", "label": 2}
+{"premise": "Lynn lives in Montevideo.", "hypothesis": "Lynn lives in Benin", "label": 2}
+{"premise": "Edwin lives in Oslo.", "hypothesis": "Edwin lives in Syria", "label": 2}
+{"premise": "Heather lives in Vilnius.", "hypothesis": "Heather lives in Ukraine", "label": 2}
+{"premise": "Florence lives in Kuwait City.", "hypothesis": "Florence lives in Mali", "label": 2}
+{"premise": "Eric lives in Malabo.", "hypothesis": "Eric lives in Eritrea", "label": 2}
+{"premise": "Sarah lives in Tehran.", "hypothesis": "Sarah lives in Nigeria", "label": 2}
+{"premise": "Judith lives in Kiev.", "hypothesis": "Judith lives in Mali", "label": 2}
+{"premise": "Greg lives in Suva.", "hypothesis": "Greg lives in Zambia", "label": 2}
+{"premise": "Ed lives in Roseau.", "hypothesis": "Ed lives in Belarus", "label": 2}
+{"premise": "Kim lives in Beijing.", "hypothesis": "Kim lives in Somalia", "label": 2}
+{"premise": "Edwin lives in Bangui.", "hypothesis": "Edwin lives in Latvia", "label": 2}
+{"premise": "Bobby lives in Windhoek.", "hypothesis": "Bobby lives in Cuba", "label": 2}
+{"premise": "Keith lives in Manila.", "hypothesis": "Keith lives in Monaco", "label": 2}
+{"premise": "Robin lives in Porto-Novo.", "hypothesis": "Robin lives in Ethiopia", "label": 2}
+{"premise": "Gary lives in Porto-Novo.", "hypothesis": "Gary lives in Liberia", "label": 2}
+{"premise": "Margaret lives in Cairo.", "hypothesis": "Margaret lives in Greece", "label": 2}
+{"premise": "Jean lives in City of San Marino.", "hypothesis": "Jean lives in Uzbekistan", "label": 2}
+{"premise": "Peter lives in Cairo.", "hypothesis": "Peter lives in Paraguay", "label": 2}
+{"premise": "Ian lives in Port of Spain.", "hypothesis": "Ian lives in Kiribati", "label": 2}
+{"premise": "Helen lives in Belgrade.", "hypothesis": "Helen lives in Oman", "label": 2}
+{"premise": "Henry lives in Kuala Lumpur.", "hypothesis": "Henry lives in Albania", "label": 2}
+{"premise": "John lives in Prague.", "hypothesis": "John lives in Czech Republic", "label": 2}
+{"premise": "Lauren lives in Lilongwe.", "hypothesis": "Lauren lives in Senegal", "label": 2}
+{"premise": "Annie lives in Kabul.", "hypothesis": "Annie lives in The Bahamas", "label": 2}
+{"premise": "Claire lives in Tashkent.", "hypothesis": "Claire lives in Tonga", "label": 2}
+{"premise": "Peter lives in Tashkent.", "hypothesis": "Peter lives in Yemen", "label": 2}
+{"premise": "Kelly lives in Moscow.", "hypothesis": "Kelly lives in Turkmenistan", "label": 2}
+{"premise": "Johnny lives in Amman.", "hypothesis": "Johnny lives in Malaysia", "label": 2}
+{"premise": "Kathy lives in Yaound\u00e9.", "hypothesis": "Kathy lives in Mongolia", "label": 2}
+{"premise": "Sam lives in Bridgetown.", "hypothesis": "Sam lives in Mexico", "label": 2}
+{"premise": "Thomas lives in Harare.", "hypothesis": "Thomas lives in Belgium", "label": 2}
+{"premise": "Marie lives in Porto-Novo.", "hypothesis": "Marie lives in Suriname", "label": 2}
+{"premise": "Dick lives in Apia.", "hypothesis": "Dick lives in Djibouti", "label": 2}
+{"premise": "Laura lives in Bucharest.", "hypothesis": "Laura lives in France", "label": 2}
+{"premise": "Edward lives in Berlin.", "hypothesis": "Edward lives in Uganda", "label": 2}
+{"premise": "Margaret lives in Belmopan.", "hypothesis": "Margaret lives in Iran", "label": 2}
+{"premise": "Lisa lives in Sana'a.", "hypothesis": "Lisa lives in India", "label": 2}
+{"premise": "Alice lives in Managua.", "hypothesis": "Alice lives in Ivory Coast", "label": 2}
+{"premise": "Heather lives in Kabul.", "hypothesis": "Heather lives in Comoros", "label": 2}
+{"premise": "Betty lives in Tallinn.", "hypothesis": "Betty lives in Burkina Faso", "label": 2}
+{"premise": "Melissa lives in Saint John's.", "hypothesis": "Melissa lives in Latvia", "label": 2}
+{"premise": "Rose lives in Majuro.", "hypothesis": "Rose lives in Bhutan", "label": 2}
+{"premise": "Martha lives in Athens.", "hypothesis": "Martha lives in Iraq", "label": 2}
+{"premise": "Jill lives in Valletta.", "hypothesis": "Jill lives in Tonga", "label": 2}
+{"premise": "Leslie lives in Doha.", "hypothesis": "Leslie lives in United Kingdom", "label": 2}
+{"premise": "Diana lives in Rabat.", "hypothesis": "Diana lives in Haiti", "label": 2}
+{"premise": "Annie lives in Vientiane.", "hypothesis": "Annie lives in Chile", "label": 2}
+{"premise": "Jonathan lives in Djibouti.", "hypothesis": "Jonathan lives in Venezuela", "label": 2}
+{"premise": "Susan lives in Tallinn.", "hypothesis": "Susan lives in Ireland", "label": 2}
+{"premise": "Julie lives in Lima.", "hypothesis": "Julie lives in Saudi Arabia", "label": 2}
+{"premise": "Christine lives in Brussels.", "hypothesis": "Christine lives in Grenada", "label": 2}
+{"premise": "Jennifer lives in Ottawa.", "hypothesis": "Jennifer lives in Philippines", "label": 2}
+{"premise": "Martin lives in Doha.", "hypothesis": "Martin lives in Malaysia", "label": 2}
+{"premise": "Frederick lives in Ngerulmud.", "hypothesis": "Frederick lives in Tajikistan", "label": 2}
+{"premise": "Martin lives in Reykjavik.", "hypothesis": "Martin lives in Madagascar", "label": 2}
+{"premise": "Jean lives in Copenhagen.", "hypothesis": "Jean lives in United Kingdom", "label": 2}
+{"premise": "Betty lives in Baghdad.", "hypothesis": "Betty lives in Togo", "label": 2}
+{"premise": "Gary lives in Muscat.", "hypothesis": "Gary lives in Zambia", "label": 2}
+{"premise": "Andrew lives in Tripoli.", "hypothesis": "Andrew lives in Tunisia", "label": 2}
+{"premise": "Daniel lives in Freetown.", "hypothesis": "Daniel lives in Tanzania", "label": 2}
+{"premise": "Jennifer lives in Ulan Bator.", "hypothesis": "Jennifer lives in Chile", "label": 2}
+{"premise": "Ian lives in Wellington.", "hypothesis": "Ian lives in Saudi Arabia", "label": 2}
+{"premise": "Hugh lives in Georgetown.", "hypothesis": "Hugh lives in Morocco", "label": 2}
+{"premise": "Adam lives in Lusaka.", "hypothesis": "Adam lives in Kenya", "label": 2}
+{"premise": "Albert lives in Manama.", "hypothesis": "Albert lives in Maldives", "label": 2}
+{"premise": "Kathleen lives in Wellington.", "hypothesis": "Kathleen lives in Latvia", "label": 2}
+{"premise": "Ken lives in Sofia.", "hypothesis": "Ken lives in Malaysia", "label": 2}
+{"premise": "Joan lives in Bujumbura.", "hypothesis": "Joan lives in Bahrain", "label": 2}
+{"premise": "Frances lives in Porto-Novo.", "hypothesis": "Frances lives in Slovakia", "label": 2}
+{"premise": "Elizabeth lives in Dublin.", "hypothesis": "Elizabeth lives in Malaysia", "label": 2}
+{"premise": "Don lives in Port Vila.", "hypothesis": "Don lives in Jamaica", "label": 2}
+{"premise": "Emily lives in Athens.", "hypothesis": "Emily lives in Mauritania", "label": 2}
+{"premise": "Maria lives in Lusaka.", "hypothesis": "Maria lives in Yemen", "label": 2}
+{"premise": "Nancy lives in Buenos Aires.", "hypothesis": "Nancy lives in Paraguay", "label": 2}
+{"premise": "Virginia lives in Asmara.", "hypothesis": "Virginia lives in Uganda", "label": 2}
+{"premise": "Harry lives in Buenos Aires.", "hypothesis": "Harry lives in Papua New Guinea", "label": 2}
+{"premise": "Edith lives in Caracas.", "hypothesis": "Edith lives in Indonesia", "label": 2}
+{"premise": "Jessica lives in Astana.", "hypothesis": "Jessica lives in Malawi", "label": 2}
+{"premise": "Rose lives in Asunci\u00f3n.", "hypothesis": "Rose lives in Turkey", "label": 2}
+{"premise": "Sharon lives in Suva.", "hypothesis": "Sharon lives in Japan", "label": 2}
+{"premise": "Anna lives in Port-au-Prince.", "hypothesis": "Anna lives in Denmark", "label": 2}
+{"premise": "Bill lives in Bras\u00edlia.", "hypothesis": "Bill lives in Gabon", "label": 2}
+{"premise": "Mike lives in Cairo.", "hypothesis": "Mike lives in Syria", "label": 2}
+{"premise": "Kate lives in Mogadishu.", "hypothesis": "Kate lives in United Arab Emirates", "label": 2}
+{"premise": "Ed lives in Kuala Lumpur.", "hypothesis": "Ed lives in Kyrgyzstan", "label": 2}
+{"premise": "Steven lives in Moroni.", "hypothesis": "Steven lives in Spain", "label": 2}
+{"premise": "Charlotte lives in Valletta.", "hypothesis": "Charlotte lives in Estonia", "label": 2}
+{"premise": "Marie lives in Yaren.", "hypothesis": "Marie lives in Barbados", "label": 2}
+{"premise": "Michelle lives in Lima.", "hypothesis": "Michelle lives in Turkmenistan", "label": 2}
+{"premise": "Deborah lives in San Salvador.", "hypothesis": "Deborah lives in Kenya", "label": 2}
+{"premise": "Louise lives in Kampala.", "hypothesis": "Louise lives in Dominica", "label": 2}
+{"premise": "Carl lives in Bras\u00edlia.", "hypothesis": "Carl lives in Panama", "label": 2}
+{"premise": "Lauren lives in Nicosia.", "hypothesis": "Lauren lives in Singapore", "label": 2}
+{"premise": "Alex lives in Abuja.", "hypothesis": "Alex lives in Jordan", "label": 2}
+{"premise": "Evelyn lives in Oslo.", "hypothesis": "Evelyn lives in New Zealand", "label": 2}
+{"premise": "Cynthia lives in Kiev.", "hypothesis": "Cynthia lives in United Arab Emirates", "label": 2}
+{"premise": "Ann lives in Warsaw.", "hypothesis": "Ann lives in Ghana", "label": 2}
+{"premise": "Edwin lives in Kuwait City.", "hypothesis": "Edwin lives in Sierra Leone", "label": 2}
+{"premise": "Rose lives in Baghdad.", "hypothesis": "Rose lives in Grenada", "label": 2}
+{"premise": "Kathryn lives in Ouagadougou.", "hypothesis": "Kathryn lives in Denmark", "label": 2}
+{"premise": "Alfred lives in Port Moresby.", "hypothesis": "Alfred lives in Malta", "label": 2}
+{"premise": "Michael lives in N'Djamena.", "hypothesis": "Michael lives in Zambia", "label": 2}
+{"premise": "Angela lives in Bras\u00edlia.", "hypothesis": "Angela lives in Dominican Republic", "label": 2}
+{"premise": "Annie lives in Mal\u00e9.", "hypothesis": "Annie lives in Trinidad and Tobago", "label": 2}
+{"premise": "Jennifer lives in Athens.", "hypothesis": "Jennifer lives in Armenia", "label": 2}
+{"premise": "Frances lives in Bangui.", "hypothesis": "Frances lives in Marshall Islands", "label": 2}
+{"premise": "Donna lives in Kingstown.", "hypothesis": "Donna lives in Estonia", "label": 2}
+{"premise": "Ben lives in Asunci\u00f3n.", "hypothesis": "Ben lives in Japan", "label": 2}
+{"premise": "Roy lives in Pyongyang.", "hypothesis": "Roy lives in Guatemala", "label": 2}
+{"premise": "Robin lives in Tegucigalpa.", "hypothesis": "Robin lives in Bulgaria", "label": 2}
+{"premise": "James lives in Montevideo.", "hypothesis": "James lives in Rwanda", "label": 2}
+{"premise": "Sara lives in Palikir.", "hypothesis": "Sara lives in Lithuania", "label": 2}
+{"premise": "Charles lives in Asunci\u00f3n.", "hypothesis": "Charles lives in Venezuela", "label": 2}
+{"premise": "Henry lives in Copenhagen.", "hypothesis": "Henry lives in Comoros", "label": 2}
+{"premise": "Kathryn lives in Prague.", "hypothesis": "Kathryn lives in The Gambia", "label": 2}
+{"premise": "Joe lives in Paramaribo.", "hypothesis": "Joe lives in United Arab Emirates", "label": 2}
+{"premise": "Lynn lives in Saint John's.", "hypothesis": "Lynn lives in Maldives", "label": 2}
+{"premise": "Emily lives in Vaduz.", "hypothesis": "Emily lives in Bolivia", "label": 2}
+{"premise": "Alice lives in Kampala.", "hypothesis": "Alice lives in Kazakhstan", "label": 2}
+{"premise": "Frances lives in Mal\u00e9.", "hypothesis": "Frances lives in Oman", "label": 2}
+{"premise": "Kenneth lives in Basseterre.", "hypothesis": "Kenneth lives in Tanzania", "label": 2}
+{"premise": "Walter lives in Port of Spain.", "hypothesis": "Walter lives in East Timor", "label": 2}
+{"premise": "Charlotte lives in Berlin.", "hypothesis": "Charlotte lives in Romania", "label": 2}
+{"premise": "Leslie lives in Lusaka.", "hypothesis": "Leslie lives in Iraq", "label": 2}
+{"premise": "Victoria lives in Paris.", "hypothesis": "Victoria lives in United States", "label": 2}
+{"premise": "Dan lives in Lima.", "hypothesis": "Dan lives in Turkey", "label": 2}
+{"premise": "Victoria lives in New Delhi.", "hypothesis": "Victoria lives in Iran", "label": 2}
+{"premise": "Alan lives in Moscow.", "hypothesis": "Alan lives in Togo", "label": 2}
+{"premise": "Joseph lives in Sana'a.", "hypothesis": "Joseph lives in Venezuela", "label": 2}
+{"premise": "James lives in Phnom Penh.", "hypothesis": "James lives in Bosnia and Herzegovina", "label": 2}
+{"premise": "Edward lives in Guatemala City.", "hypothesis": "Edward lives in Mali", "label": 2}
+{"premise": "Rose lives in Athens.", "hypothesis": "Rose lives in Maldives", "label": 2}
+{"premise": "Melissa lives in Bangui.", "hypothesis": "Melissa lives in Mexico", "label": 2}
+{"premise": "Michelle lives in Islamabad.", "hypothesis": "Michelle lives in Guinea-Bissau", "label": 2}
+{"premise": "Linda lives in Dakar.", "hypothesis": "Linda lives in Tanzania", "label": 2}
+{"premise": "Diana lives in Riga.", "hypothesis": "Diana lives in Botswana", "label": 2}
+{"premise": "Ray lives in Tripoli.", "hypothesis": "Ray lives in Lebanon", "label": 2}
+{"premise": "Amanda lives in Tallinn.", "hypothesis": "Amanda lives in Zimbabwe", "label": 2}
+{"premise": "Deborah lives in S\u00e3o Tom\u00e9.", "hypothesis": "Deborah lives in East Timor", "label": 2}
+{"premise": "Fred lives in Rome.", "hypothesis": "Fred lives in Saint Kitts and Nevis", "label": 2}
+{"premise": "Kenneth lives in Vilnius.", "hypothesis": "Kenneth lives in Norway", "label": 2}
+{"premise": "Maria lives in Tokyo.", "hypothesis": "Maria lives in Japan", "label": 2}
+{"premise": "Scott lives in Port Vila.", "hypothesis": "Scott lives in Bulgaria", "label": 2}
+{"premise": "Johnny lives in Rabat.", "hypothesis": "Johnny lives in Estonia", "label": 2}
+{"premise": "Joseph lives in Sarajevo.", "hypothesis": "Joseph lives in Jamaica", "label": 2}
+{"premise": "Ian lives in Nouakchott.", "hypothesis": "Ian lives in Togo", "label": 2}
+{"premise": "Kenneth lives in Athens.", "hypothesis": "Kenneth lives in Tonga", "label": 2}
+{"premise": "Ann lives in Conakry.", "hypothesis": "Ann lives in Tonga", "label": 2}
+{"premise": "Stephen lives in Malabo.", "hypothesis": "Stephen lives in Grenada", "label": 2}
+{"premise": "Joe lives in Ljubljana.", "hypothesis": "Joe lives in Belgium", "label": 2}
+{"premise": "Heather lives in Montevideo.", "hypothesis": "Heather lives in Palau", "label": 2}
+{"premise": "Alex lives in Prague.", "hypothesis": "Alex lives in Honduras", "label": 2}
+{"premise": "Gary lives in Zagreb.", "hypothesis": "Gary lives in Trinidad and Tobago", "label": 2}
+{"premise": "Amanda lives in Windhoek.", "hypothesis": "Amanda lives in Uruguay", "label": 2}
+{"premise": "Annie lives in Dublin.", "hypothesis": "Annie lives in Burkina Faso", "label": 2}
+{"premise": "Amanda lives in Banjul.", "hypothesis": "Amanda lives in Chile", "label": 2}
+{"premise": "Anne lives in Palikir.", "hypothesis": "Anne lives in Namibia", "label": 2}
+{"premise": "Janet lives in Asmara.", "hypothesis": "Janet lives in Bangladesh", "label": 2}
+{"premise": "Anthony lives in Algiers.", "hypothesis": "Anthony lives in Mauritania", "label": 2}
+{"premise": "Sandra lives in Majuro.", "hypothesis": "Sandra lives in Belize", "label": 2}
+{"premise": "Leslie lives in Basseterre.", "hypothesis": "Leslie lives in Bahrain", "label": 2}
+{"premise": "George lives in Moroni.", "hypothesis": "George lives in Nigeria", "label": 2}
+{"premise": "Fiona lives in Bern.", "hypothesis": "Fiona lives in Marshall Islands", "label": 2}
+{"premise": "Sandra lives in Astana.", "hypothesis": "Sandra lives in Azerbaijan", "label": 2}
+{"premise": "Susan lives in Georgetown.", "hypothesis": "Susan lives in Equatorial Guinea", "label": 2}
+{"premise": "Brian lives in Nairobi.", "hypothesis": "Brian lives in New Zealand", "label": 2}
+{"premise": "William lives in Islamabad.", "hypothesis": "William lives in Moldova", "label": 2}
+{"premise": "Sharon lives in Nicosia.", "hypothesis": "Sharon lives in Mauritius", "label": 2}
+{"premise": "Billy lives in Rome.", "hypothesis": "Billy lives in Morocco", "label": 2}
+{"premise": "Matthew lives in Zagreb.", "hypothesis": "Matthew lives in Serbia", "label": 2}
+{"premise": "Hugh lives in Paris.", "hypothesis": "Hugh lives in Russia", "label": 2}
+{"premise": "Carolyn lives in Bandar Seri Begawan.", "hypothesis": "Carolyn lives in Bahrain", "label": 2}
+{"premise": "Harriet lives in S\u00e3o Tom\u00e9.", "hypothesis": "Harriet lives in Slovakia", "label": 2}
+{"premise": "Michael lives in Tashkent.", "hypothesis": "Michael lives in Somalia", "label": 2}
+{"premise": "Maria lives in Tehran.", "hypothesis": "Maria lives in Austria", "label": 2}
+{"premise": "Roy lives in Djibouti.", "hypothesis": "Roy lives in Latvia", "label": 2}
+{"premise": "Kathy lives in Asmara.", "hypothesis": "Kathy lives in Belgium", "label": 2}
+{"premise": "Lawrence lives in San Jos\u00e9.", "hypothesis": "Lawrence lives in Jordan", "label": 2}
+{"premise": "Deborah lives in Port Louis.", "hypothesis": "Deborah lives in Uruguay", "label": 2}
+{"premise": "Martin lives in Baku.", "hypothesis": "Martin lives in Lesotho", "label": 2}
+{"premise": "Joe lives in Victoria.", "hypothesis": "Joe lives in Slovakia", "label": 2}
+{"premise": "Charles lives in Suva.", "hypothesis": "Charles lives in Kuwait", "label": 2}
+{"premise": "Albert lives in Mexico City.", "hypothesis": "Albert lives in Nauru", "label": 2}
+{"premise": "Emma lives in Accra.", "hypothesis": "Emma lives in Oman", "label": 2}
+{"premise": "Harold lives in City of San Marino.", "hypothesis": "Harold lives in Kyrgyzstan", "label": 2}
+{"premise": "Chris lives in Khartoum.", "hypothesis": "Chris lives in Belgium", "label": 2}
+{"premise": "Linda lives in Bangkok.", "hypothesis": "Linda lives in Afghanistan", "label": 2}
+{"premise": "Melissa lives in Tbilisi.", "hypothesis": "Melissa lives in Uzbekistan", "label": 2}
+{"premise": "Andrea lives in Dodoma.", "hypothesis": "Andrea lives in Denmark", "label": 2}
+{"premise": "Billy lives in Kabul.", "hypothesis": "Billy lives in Eritrea", "label": 2}
+{"premise": "Harry lives in Islamabad.", "hypothesis": "Harry lives in Chile", "label": 2}
+{"premise": "Ray lives in Tegucigalpa.", "hypothesis": "Ray lives in Kazakhstan", "label": 2}
+{"premise": "Paul lives in Beijing.", "hypothesis": "Paul lives in Dominica", "label": 2}
+{"premise": "Frank lives in Bangui.", "hypothesis": "Frank lives in Canada", "label": 2}
+{"premise": "George lives in Accra.", "hypothesis": "George lives in Lesotho", "label": 2}
+{"premise": "Colin lives in S\u00e3o Tom\u00e9.", "hypothesis": "Colin lives in Sierra Leone", "label": 2}
+{"premise": "Wendy lives in Lima.", "hypothesis": "Wendy lives in Antigua and Barbuda", "label": 2}
+{"premise": "Larry lives in Oslo.", "hypothesis": "Larry lives in Ethiopia", "label": 2}
+{"premise": "John lives in Port Moresby.", "hypothesis": "John lives in Tuvalu", "label": 2}
+{"premise": "Marie lives in Copenhagen.", "hypothesis": "Marie lives in Eritrea", "label": 2}
+{"premise": "Ralph lives in Bishkek.", "hypothesis": "Ralph lives in France", "label": 2}
+{"premise": "Deborah lives in Port Louis.", "hypothesis": "Deborah lives in Thailand", "label": 2}
+{"premise": "Michael lives in San Salvador.", "hypothesis": "Michael lives in Mauritius", "label": 2}
+{"premise": "Anna lives in Kuala Lumpur.", "hypothesis": "Anna lives in Federated States of Micronesia", "label": 2}
+{"premise": "Andrea lives in Astana.", "hypothesis": "Andrea lives in Madagascar", "label": 2}
+{"premise": "Greg lives in San Jos\u00e9.", "hypothesis": "Greg lives in Luxembourg", "label": 2}
+{"premise": "Billy lives in Banjul.", "hypothesis": "Billy lives in Brazil", "label": 2}
+{"premise": "Marie lives in Palikir.", "hypothesis": "Marie lives in Kyrgyzstan", "label": 2}
+{"premise": "Jean lives in Madrid.", "hypothesis": "Jean lives in The Bahamas", "label": 2}
+{"premise": "Bob lives in Freetown.", "hypothesis": "Bob lives in San Marino", "label": 2}
+{"premise": "Angela lives in Copenhagen.", "hypothesis": "Angela lives in El Salvador", "label": 2}
+{"premise": "Eleanor lives in Malabo.", "hypothesis": "Eleanor lives in Tonga", "label": 2}
+{"premise": "David lives in Paramaribo.", "hypothesis": "David lives in Sierra Leone", "label": 2}
+{"premise": "Albert lives in Santiago.", "hypothesis": "Albert lives in Paraguay", "label": 2}
+{"premise": "Barbara lives in Yaren.", "hypothesis": "Barbara lives in Portugal", "label": 2}
+{"premise": "Daniel lives in Manama.", "hypothesis": "Daniel lives in San Marino", "label": 2}
+{"premise": "Matt lives in Dushanbe.", "hypothesis": "Matt lives in Finland", "label": 2}
+{"premise": "Elaine lives in Dhaka.", "hypothesis": "Elaine lives in Peru", "label": 2}
+{"premise": "Michael lives in Budapest.", "hypothesis": "Michael lives in Romania", "label": 2}
+{"premise": "Alfred lives in Lima.", "hypothesis": "Alfred lives in South Korea", "label": 2}
+{"premise": "Amy lives in Muscat.", "hypothesis": "Amy lives in Bulgaria", "label": 2}
+{"premise": "George lives in New Delhi.", "hypothesis": "George lives in The Gambia", "label": 2}
+{"premise": "Jim lives in Port Moresby.", "hypothesis": "Jim lives in Cuba", "label": 2}
+{"premise": "Ann lives in Monrovia.", "hypothesis": "Ann lives in Papua New Guinea", "label": 2}
+{"premise": "Kate lives in Algiers.", "hypothesis": "Kate lives in Finland", "label": 2}
+{"premise": "Edwin lives in Roseau.", "hypothesis": "Edwin lives in North Korea", "label": 2}
+{"premise": "Jessica lives in Nuku'alofa.", "hypothesis": "Jessica lives in Maldives", "label": 2}
+{"premise": "Simon lives in Apia.", "hypothesis": "Simon lives in Mali", "label": 2}
+{"premise": "Don lives in Sofia.", "hypothesis": "Don lives in Dominica", "label": 2}
+{"premise": "Ruth lives in Ankara.", "hypothesis": "Ruth lives in Laos", "label": 2}
+{"premise": "Brian lives in Dublin.", "hypothesis": "Brian lives in Denmark", "label": 2}
+{"premise": "Edwin lives in Abu Dhabi.", "hypothesis": "Edwin lives in Canada", "label": 2}
+{"premise": "Joseph lives in Juba.", "hypothesis": "Joseph lives in Tajikistan", "label": 2}
+{"premise": "Carol lives in Nairobi.", "hypothesis": "Carol lives in Vietnam", "label": 2}
+{"premise": "Claire lives in Nuku'alofa.", "hypothesis": "Claire lives in Senegal", "label": 2}
+{"premise": "Arthur lives in Jerusalem.", "hypothesis": "Arthur lives in Panama", "label": 2}
+{"premise": "Janet lives in Bangui.", "hypothesis": "Janet lives in Burundi", "label": 2}
+{"premise": "Evelyn lives in Paris.", "hypothesis": "Evelyn lives in Uzbekistan", "label": 2}
+{"premise": "Steven lives in Rabat.", "hypothesis": "Steven lives in Turkey", "label": 2}
+{"premise": "Sophie lives in Pyongyang.", "hypothesis": "Sophie lives in Bolivia", "label": 2}
+{"premise": "Jennifer lives in Phnom Penh.", "hypothesis": "Jennifer lives in The Bahamas", "label": 2}
+{"premise": "Frank lives in Beijing.", "hypothesis": "Frank lives in Venezuela", "label": 2}
+{"premise": "Elaine lives in Bogot\u00e1.", "hypothesis": "Elaine lives in Canada", "label": 2}
+{"premise": "Charles lives in Warsaw.", "hypothesis": "Charles lives in Malta", "label": 2}
+{"premise": "Annie lives in Dodoma.", "hypothesis": "Annie lives in Sri Lanka", "label": 2}
+{"premise": "Pamela lives in Tirana.", "hypothesis": "Pamela lives in Syria", "label": 2}
+{"premise": "Kim lives in Amman.", "hypothesis": "Kim lives in Kazakhstan", "label": 2}
+{"premise": "Anna lives in Lilongwe.", "hypothesis": "Anna lives in Belgium", "label": 2}
+{"premise": "Evelyn lives in Suva.", "hypothesis": "Evelyn lives in Venezuela", "label": 2}
+{"premise": "Thomas lives in Kampala.", "hypothesis": "Thomas lives in Nicaragua", "label": 2}
+{"premise": "Frederick lives in Nairobi.", "hypothesis": "Frederick lives in Tonga", "label": 2}
+{"premise": "Edward lives in Santo Domingo.", "hypothesis": "Edward lives in Marshall Islands", "label": 2}
+{"premise": "Martha lives in Basseterre.", "hypothesis": "Martha lives in Samoa", "label": 2}
+{"premise": "Kevin lives in Baghdad.", "hypothesis": "Kevin lives in Cyprus", "label": 2}
+{"premise": "Anthony lives in Managua.", "hypothesis": "Anthony lives in Mauritania", "label": 2}
+{"premise": "Gary lives in Singapore.", "hypothesis": "Gary lives in Bhutan", "label": 2}
+{"premise": "Albert lives in Port Louis.", "hypothesis": "Albert lives in United Arab Emirates", "label": 2}
+{"premise": "Jack lives in Amman.", "hypothesis": "Jack lives in Bosnia and Herzegovina", "label": 2}
+{"premise": "Ken lives in Lusaka.", "hypothesis": "Ken lives in Central African Republic", "label": 2}
+{"premise": "Sue lives in Djibouti.", "hypothesis": "Sue lives in Eritrea", "label": 2}
+{"premise": "Philip lives in Ashgabat.", "hypothesis": "Philip lives in United Kingdom", "label": 2}
+{"premise": "Nicole lives in Bangkok.", "hypothesis": "Nicole lives in Algeria", "label": 2}
+{"premise": "Claire lives in Prague.", "hypothesis": "Claire lives in United Kingdom", "label": 2}
+{"premise": "Martha lives in Sofia.", "hypothesis": "Martha lives in Ecuador", "label": 2}
+{"premise": "Billy lives in Mexico City.", "hypothesis": "Billy lives in Brazil", "label": 2}
+{"premise": "Sally lives in Managua.", "hypothesis": "Sally lives in Nepal", "label": 2}
+{"premise": "Joan lives in Bissau.", "hypothesis": "Joan lives in Venezuela", "label": 2}
+{"premise": "Harold lives in Yaound\u00e9.", "hypothesis": "Harold lives in Madagascar", "label": 2}
+{"premise": "Diane lives in Sofia.", "hypothesis": "Diane lives in Somalia", "label": 2}
+{"premise": "Charles lives in Jerusalem.", "hypothesis": "Charles lives in Guinea-Bissau", "label": 2}
+{"premise": "Francis lives in Windhoek.", "hypothesis": "Francis lives in The Gambia", "label": 2}
+{"premise": "Emma lives in Dushanbe.", "hypothesis": "Emma lives in Nicaragua", "label": 2}
+{"premise": "Ray lives in Zagreb.", "hypothesis": "Ray lives in Sudan", "label": 2}
+{"premise": "Henry lives in Kuala Lumpur.", "hypothesis": "Henry lives in Mauritius", "label": 2}
+{"premise": "Katherine lives in Tokyo.", "hypothesis": "Katherine lives in Senegal", "label": 2}
+{"premise": "Alice lives in Mexico City.", "hypothesis": "Alice lives in Cameroon", "label": 2}
+{"premise": "Keith lives in Manila.", "hypothesis": "Keith lives in Federated States of Micronesia", "label": 2}
+{"premise": "Alex lives in Bandar Seri Begawan.", "hypothesis": "Alex lives in Paraguay", "label": 2}
+{"premise": "Philip lives in Dakar.", "hypothesis": "Philip lives in Burkina Faso", "label": 2}
+{"premise": "Steve lives in Mogadishu.", "hypothesis": "Steve lives in Thailand", "label": 2}
+{"premise": "Susan lives in Muscat.", "hypothesis": "Susan lives in Sudan", "label": 2}
+{"premise": "Joan lives in Jakarta.", "hypothesis": "Joan lives in Haiti", "label": 2}
+{"premise": "Ken lives in New Delhi.", "hypothesis": "Ken lives in Nepal", "label": 2}
+{"premise": "Andrew lives in Santiago.", "hypothesis": "Andrew lives in Cuba", "label": 2}
+{"premise": "Sophie lives in Tokyo.", "hypothesis": "Sophie lives in Italy", "label": 2}
+{"premise": "Ben lives in Tunis.", "hypothesis": "Ben lives in Argentina", "label": 2}
+{"premise": "Margaret lives in Honiara.", "hypothesis": "Margaret lives in Botswana", "label": 2}
+{"premise": "Michael lives in Valletta.", "hypothesis": "Michael lives in Syria", "label": 2}
+{"premise": "Amy lives in Bras\u00edlia.", "hypothesis": "Amy lives in Comoros", "label": 2}
+{"premise": "Paul lives in London.", "hypothesis": "Paul lives in Serbia", "label": 2}
+{"premise": "Ryan lives in Helsinki.", "hypothesis": "Ryan lives in Ireland", "label": 2}
+{"premise": "Joseph lives in Victoria.", "hypothesis": "Joseph lives in Italy", "label": 2}
+{"premise": "Don lives in Algiers.", "hypothesis": "Don lives in Kuwait", "label": 2}
+{"premise": "Don lives in Libreville.", "hypothesis": "Don lives in Luxembourg", "label": 2}
+{"premise": "Rachel lives in Algiers.", "hypothesis": "Rachel lives in Laos", "label": 2}
+{"premise": "Ed lives in Copenhagen.", "hypothesis": "Ed lives in Australia", "label": 2}
+{"premise": "Linda lives in Dushanbe.", "hypothesis": "Linda lives in Bahrain", "label": 2}
+{"premise": "Lucy lives in Ulan Bator.", "hypothesis": "Lucy lives in Saudi Arabia", "label": 2}
+{"premise": "Tim lives in Athens.", "hypothesis": "Tim lives in Belize", "label": 2}
+{"premise": "Paul lives in Phnom Penh.", "hypothesis": "Paul lives in Antigua and Barbuda", "label": 2}
+{"premise": "Alan lives in Tegucigalpa.", "hypothesis": "Alan lives in Moldova", "label": 2}
+{"premise": "Jerry lives in Maputo.", "hypothesis": "Jerry lives in Haiti", "label": 2}
+{"premise": "Johnny lives in Phnom Penh.", "hypothesis": "Johnny lives in Brunei", "label": 2}
+{"premise": "Richard lives in Freetown.", "hypothesis": "Richard lives in Ivory Coast", "label": 2}
+{"premise": "Michael lives in Thimphu.", "hypothesis": "Michael lives in Mongolia", "label": 2}
+{"premise": "Alexander lives in Phnom Penh.", "hypothesis": "Alexander lives in France", "label": 2}
+{"premise": "Sharon lives in Tripoli.", "hypothesis": "Sharon lives in Guatemala", "label": 2}
+{"premise": "Alex lives in Rabat.", "hypothesis": "Alex lives in Colombia", "label": 2}
+{"premise": "Julie lives in Bandar Seri Begawan.", "hypothesis": "Julie lives in Seychelles", "label": 2}
+{"premise": "Alexander lives in Madrid.", "hypothesis": "Alexander lives in Iraq", "label": 2}
+{"premise": "Simon lives in Vienna.", "hypothesis": "Simon lives in Namibia", "label": 2}
+{"premise": "Kate lives in Guatemala City.", "hypothesis": "Kate lives in Japan", "label": 2}
+{"premise": "Francis lives in Jakarta.", "hypothesis": "Francis lives in Saint Kitts and Nevis", "label": 2}
+{"premise": "Louise lives in Paramaribo.", "hypothesis": "Louise lives in Niger", "label": 2}
+{"premise": "Nick lives in Warsaw.", "hypothesis": "Nick lives in Bhutan", "label": 2}
+{"premise": "Al lives in Dhaka.", "hypothesis": "Al lives in Eritrea", "label": 2}
+{"premise": "Bruce lives in Dhaka.", "hypothesis": "Bruce lives in Morocco", "label": 2}
+{"premise": "Alice lives in Phnom Penh.", "hypothesis": "Alice lives in Bahrain", "label": 2}
+{"premise": "Julia lives in Copenhagen.", "hypothesis": "Julia lives in Suriname", "label": 2}
+{"premise": "Margaret lives in Tegucigalpa.", "hypothesis": "Margaret lives in Ghana", "label": 2}
+{"premise": "Jill lives in City of San Marino.", "hypothesis": "Jill lives in Saint Kitts and Nevis", "label": 2}
+{"premise": "Virginia lives in Abu Dhabi.", "hypothesis": "Virginia lives in Maldives", "label": 2}
+{"premise": "Matthew lives in Nouakchott.", "hypothesis": "Matthew lives in Trinidad and Tobago", "label": 2}
+{"premise": "Florence lives in Yaren.", "hypothesis": "Florence lives in United Arab Emirates", "label": 2}
+{"premise": "Amy lives in Palikir.", "hypothesis": "Amy lives in Guyana", "label": 2}
+{"premise": "Alexandra lives in Moroni.", "hypothesis": "Alexandra lives in Monaco", "label": 2}
+{"premise": "Michael lives in Valletta.", "hypothesis": "Michael lives in Samoa", "label": 2}
+{"premise": "Joan lives in Dodoma.", "hypothesis": "Joan lives in Burkina Faso", "label": 2}
+{"premise": "Ashley lives in Tashkent.", "hypothesis": "Ashley lives in Lebanon", "label": 2}
+{"premise": "Alison lives in Ljubljana.", "hypothesis": "Alison lives in Belarus", "label": 2}
+{"premise": "Fred lives in Guatemala City.", "hypothesis": "Fred lives in South Africa", "label": 2}
+{"premise": "Harold lives in Bras\u00edlia.", "hypothesis": "Harold lives in Iran", "label": 2}
+{"premise": "Fred lives in Port of Spain.", "hypothesis": "Fred lives in Togo", "label": 2}
+{"premise": "Sue lives in Buenos Aires.", "hypothesis": "Sue lives in Sweden", "label": 2}
+{"premise": "Eleanor lives in Port Louis.", "hypothesis": "Eleanor lives in Federated States of Micronesia", "label": 2}
+{"premise": "Charlie lives in Georgetown.", "hypothesis": "Charlie lives in Papua New Guinea", "label": 2}
+{"premise": "Harriet lives in Doha.", "hypothesis": "Harriet lives in Cuba", "label": 2}
+{"premise": "Rebecca lives in Vientiane.", "hypothesis": "Rebecca lives in San Marino", "label": 2}
+{"premise": "Janet lives in Lusaka.", "hypothesis": "Janet lives in Cuba", "label": 2}
+{"premise": "Michelle lives in South Tarawa.", "hypothesis": "Michelle lives in Argentina", "label": 2}
+{"premise": "Simon lives in Dakar.", "hypothesis": "Simon lives in Somalia", "label": 2}
+{"premise": "Carl lives in Saint John's.", "hypothesis": "Carl lives in Liechtenstein", "label": 2}
+{"premise": "Alison lives in Dili.", "hypothesis": "Alison lives in Japan", "label": 2}
+{"premise": "Grace lives in St. George's.", "hypothesis": "Grace lives in Federated States of Micronesia", "label": 2}
+{"premise": "Ralph lives in Paramaribo.", "hypothesis": "Ralph lives in Yemen", "label": 2}
+{"premise": "Elizabeth lives in Nairobi.", "hypothesis": "Elizabeth lives in Burkina Faso", "label": 2}
+{"premise": "Ashley lives in St. George's.", "hypothesis": "Ashley lives in Sri Lanka", "label": 2}
+{"premise": "Deborah lives in S\u00e3o Tom\u00e9.", "hypothesis": "Deborah lives in Solomon Islands", "label": 2}
+{"premise": "Lynn lives in Palikir.", "hypothesis": "Lynn lives in Benin", "label": 2}
+{"premise": "Deborah lives in Bujumbura.", "hypothesis": "Deborah lives in Iran", "label": 2}
+{"premise": "Henry lives in Ottawa.", "hypothesis": "Henry lives in Sweden", "label": 2}
+{"premise": "Robin lives in Luxembourg.", "hypothesis": "Robin lives in Eritrea", "label": 2}
+{"premise": "Cynthia lives in Castries.", "hypothesis": "Cynthia lives in Lebanon", "label": 2}
+{"premise": "Anthony lives in Saint John's.", "hypothesis": "Anthony lives in Vietnam", "label": 2}
+{"premise": "Ian lives in Sucre.", "hypothesis": "Ian lives in Bosnia and Herzegovina", "label": 2}
+{"premise": "Linda lives in Kiev.", "hypothesis": "Linda lives in Belgium", "label": 2}
+{"premise": "Harold lives in Dakar.", "hypothesis": "Harold lives in Slovakia", "label": 2}
+{"premise": "Ron lives in Hanoi.", "hypothesis": "Ron lives in Seychelles", "label": 2}
+{"premise": "Jonathan lives in Lom\u00e9.", "hypothesis": "Jonathan lives in Pakistan", "label": 2}
+{"premise": "Eric lives in Canberra.", "hypothesis": "Eric lives in Israel", "label": 2}
+{"premise": "Betty lives in Bucharest.", "hypothesis": "Betty lives in Romania", "label": 2}
+{"premise": "Leslie lives in Buenos Aires.", "hypothesis": "Leslie lives in Germany", "label": 2}
+{"premise": "Ashley lives in Panama City.", "hypothesis": "Ashley lives in Serbia", "label": 2}
+{"premise": "Pamela lives in Bishkek.", "hypothesis": "Pamela lives in Botswana", "label": 2}
+{"premise": "Judith lives in Brussels.", "hypothesis": "Judith lives in Lebanon", "label": 2}
+{"premise": "Adam lives in Dhaka.", "hypothesis": "Adam lives in The Gambia", "label": 2}
+{"premise": "Maria lives in Tripoli.", "hypothesis": "Maria lives in Ethiopia", "label": 2}
+{"premise": "Lawrence lives in Dili.", "hypothesis": "Lawrence lives in Kazakhstan", "label": 2}
+{"premise": "Frances lives in Warsaw.", "hypothesis": "Frances lives in Czech Republic", "label": 2}
+{"premise": "Francis lives in Paramaribo.", "hypothesis": "Francis lives in Laos", "label": 2}
+{"premise": "Rebecca lives in Luxembourg.", "hypothesis": "Rebecca lives in Australia", "label": 2}
+{"premise": "Marilyn lives in Accra.", "hypothesis": "Marilyn lives in Namibia", "label": 2}
+{"premise": "Katherine lives in Gaborone.", "hypothesis": "Katherine lives in Finland", "label": 2}
+{"premise": "Kathy lives in Algiers.", "hypothesis": "Kathy lives in Angola", "label": 2}
+{"premise": "Kate lives in Thimphu.", "hypothesis": "Kate lives in Mozambique", "label": 2}
+{"premise": "Dan lives in Tallinn.", "hypothesis": "Dan lives in France", "label": 2}
+{"premise": "Brian lives in St. George's.", "hypothesis": "Brian lives in Bahrain", "label": 2}
+{"premise": "Rachel lives in Copenhagen.", "hypothesis": "Rachel lives in Azerbaijan", "label": 2}
+{"premise": "Dan lives in Santo Domingo.", "hypothesis": "Dan lives in Sweden", "label": 2}
+{"premise": "Diana lives in Panama City.", "hypothesis": "Diana lives in Brunei", "label": 2}
+{"premise": "Ruth lives in Canberra.", "hypothesis": "Ruth lives in The Bahamas", "label": 2}
+{"premise": "Anne lives in Lisbon.", "hypothesis": "Anne lives in Serbia", "label": 2}
+{"premise": "Deborah lives in Cairo.", "hypothesis": "Deborah lives in Peru", "label": 2}
+{"premise": "Suzanne lives in S\u00e3o Tom\u00e9.", "hypothesis": "Suzanne lives in Afghanistan", "label": 2}
+{"premise": "Jean lives in Roseau.", "hypothesis": "Jean lives in Uruguay", "label": 2}
+{"premise": "Susan lives in Santiago.", "hypothesis": "Susan lives in Spain", "label": 2}
+{"premise": "Jerry lives in Port Louis.", "hypothesis": "Jerry lives in Bosnia and Herzegovina", "label": 2}
+{"premise": "George lives in Port of Spain.", "hypothesis": "George lives in Belgium", "label": 2}
+{"premise": "Billy lives in Washington D.C..", "hypothesis": "Billy lives in North Korea", "label": 2}
+{"premise": "Rebecca lives in Bras\u00edlia.", "hypothesis": "Rebecca lives in Australia", "label": 2}
+{"premise": "Dick lives in Bangkok.", "hypothesis": "Dick lives in Somalia", "label": 2}
+{"premise": "Alison lives in Madrid.", "hypothesis": "Alison lives in Finland", "label": 2}
+{"premise": "Jean lives in Banjul.", "hypothesis": "Jean lives in Libya", "label": 2}
+{"premise": "Steve lives in Luanda.", "hypothesis": "Steve lives in Eritrea", "label": 2}
+{"premise": "George lives in Seoul.", "hypothesis": "George lives in Central African Republic", "label": 2}
+{"premise": "Alexander lives in Apia.", "hypothesis": "Alexander lives in Guatemala", "label": 2}
+{"premise": "Colin lives in Nassau.", "hypothesis": "Colin lives in Morocco", "label": 2}
+{"premise": "Roger lives in Tallinn.", "hypothesis": "Roger lives in Albania", "label": 2}
+{"premise": "Jeff lives in Sofia.", "hypothesis": "Jeff lives in Uganda", "label": 2}
+{"premise": "Louise lives in Kampala.", "hypothesis": "Louise lives in Moldova", "label": 2}
+{"premise": "Anthony lives in Yaound\u00e9.", "hypothesis": "Anthony lives in Egypt", "label": 2}
+{"premise": "Chris lives in Port Moresby.", "hypothesis": "Chris lives in Brunei", "label": 2}
+{"premise": "Charles lives in Sucre.", "hypothesis": "Charles lives in Lesotho", "label": 2}
+{"premise": "Christopher lives in Bandar Seri Begawan.", "hypothesis": "Christopher lives in Sweden", "label": 2}
+{"premise": "Amanda lives in Harare.", "hypothesis": "Amanda lives in El Salvador", "label": 2}
+{"premise": "Heather lives in Kathmandu.", "hypothesis": "Heather lives in Latvia", "label": 2}
+{"premise": "Jean lives in Madrid.", "hypothesis": "Jean lives in Greece", "label": 2}
+{"premise": "Julie lives in Washington D.C..", "hypothesis": "Julie lives in Tonga", "label": 2}
+{"premise": "Tom lives in Pretoria.", "hypothesis": "Tom lives in Norway", "label": 2}
+{"premise": "Nick lives in Baghdad.", "hypothesis": "Nick lives in Cyprus", "label": 2}
+{"premise": "Brian lives in Pyongyang.", "hypothesis": "Brian lives in Egypt", "label": 2}
+{"premise": "Anne lives in Riga.", "hypothesis": "Anne lives in Tonga", "label": 2}
+{"premise": "Richard lives in Bratislava.", "hypothesis": "Richard lives in Tanzania", "label": 2}
+{"premise": "Alexandra lives in Bujumbura.", "hypothesis": "Alexandra lives in Austria", "label": 2}
+{"premise": "Fred lives in Dakar.", "hypothesis": "Fred lives in Trinidad and Tobago", "label": 2}
+{"premise": "Alexander lives in Khartoum.", "hypothesis": "Alexander lives in Thailand", "label": 2}
+{"premise": "Simon lives in Nouakchott.", "hypothesis": "Simon lives in Venezuela", "label": 2}
+{"premise": "Evelyn lives in Kampala.", "hypothesis": "Evelyn lives in Antigua and Barbuda", "label": 2}
+{"premise": "Alfred lives in Port of Spain.", "hypothesis": "Alfred lives in North Korea", "label": 2}
+{"premise": "Martha lives in Dakar.", "hypothesis": "Martha lives in Barbados", "label": 2}
+{"premise": "Steven lives in Khartoum.", "hypothesis": "Steven lives in S\u00e3o Tom\u00e9 and Pr\u00edncipe", "label": 2}
+{"premise": "Julia lives in Yamoussoukro.", "hypothesis": "Julia lives in Morocco", "label": 2}
+{"premise": "Dick lives in City of San Marino.", "hypothesis": "Dick lives in Comoros", "label": 2}
+{"premise": "Martin lives in City of San Marino.", "hypothesis": "Martin lives in Costa Rica", "label": 2}
+{"premise": "Brian lives in Beirut.", "hypothesis": "Brian lives in The Gambia", "label": 2}
+{"premise": "Ian lives in Managua.", "hypothesis": "Ian lives in India", "label": 2}
+{"premise": "Alan lives in Copenhagen.", "hypothesis": "Alan lives in Malta", "label": 2}
+{"premise": "Roy lives in Luxembourg.", "hypothesis": "Roy lives in Haiti", "label": 2}
+{"premise": "Richard lives in Ashgabat.", "hypothesis": "Richard lives in Nicaragua", "label": 2}
+{"premise": "Ellen lives in Luanda.", "hypothesis": "Ellen lives in Trinidad and Tobago", "label": 2}
+{"premise": "Pamela lives in Beijing.", "hypothesis": "Pamela lives in Comoros", "label": 2}
+{"premise": "Jason lives in Algiers.", "hypothesis": "Jason lives in Libya", "label": 2}
+{"premise": "Adam lives in Buenos Aires.", "hypothesis": "Adam lives in The Gambia", "label": 2}
+{"premise": "Chris lives in Victoria.", "hypothesis": "Chris lives in Mozambique", "label": 2}
+{"premise": "Marie lives in Nuku'alofa.", "hypothesis": "Marie lives in Argentina", "label": 2}
+{"premise": "Fiona lives in Santiago.", "hypothesis": "Fiona lives in Albania", "label": 2}
+{"premise": "Andrea lives in Moroni.", "hypothesis": "Andrea lives in Denmark", "label": 2}
+{"premise": "Sharon lives in Belmopan.", "hypothesis": "Sharon lives in Saint Vincent and the Grenadines", "label": 2}
+{"premise": "Leslie lives in Kigali.", "hypothesis": "Leslie lives in Suriname", "label": 2}
+{"premise": "Andrew lives in Dhaka.", "hypothesis": "Andrew lives in Denmark", "label": 2}
+{"premise": "Mary lives in Belgrade.", "hypothesis": "Mary lives in Guatemala", "label": 2}
+{"premise": "Jason lives in Mexico City.", "hypothesis": "Jason lives in Syria", "label": 2}
+{"premise": "Adam lives in Washington D.C..", "hypothesis": "Adam lives in Saint Kitts and Nevis", "label": 2}
+{"premise": "Alan lives in Canberra.", "hypothesis": "Alan lives in Ecuador", "label": 2}
+{"premise": "Donna lives in Port Vila.", "hypothesis": "Donna lives in Maldives", "label": 2}
+{"premise": "Florence lives in Vienna.", "hypothesis": "Florence lives in Serbia", "label": 2}
+{"premise": "William lives in Baku.", "hypothesis": "William lives in Hungary", "label": 2}
+{"premise": "Henry lives in Belmopan.", "hypothesis": "Henry lives in Uzbekistan", "label": 2}
+{"premise": "Florence lives in Canberra.", "hypothesis": "Florence lives in Argentina", "label": 2}
+{"premise": "William lives in Singapore.", "hypothesis": "William lives in Nauru", "label": 2}
+{"premise": "Sam lives in Vaduz.", "hypothesis": "Sam lives in Tuvalu", "label": 2}
+{"premise": "Charlie lives in Kiev.", "hypothesis": "Charlie lives in S\u00e3o Tom\u00e9 and Pr\u00edncipe", "label": 2}
+{"premise": "David lives in Washington D.C..", "hypothesis": "David lives in Palau", "label": 2}
+{"premise": "Emily lives in Honiara.", "hypothesis": "Emily lives in Mali", "label": 2}
+{"premise": "Dave lives in Panama City.", "hypothesis": "Dave lives in Estonia", "label": 2}

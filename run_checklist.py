@@ -7,6 +7,8 @@ import random
 from antonyms import antonyms_list
 from synonyms import synonyms_list
 from years import years_list
+from country_city import country_city_list
+from countryinfo import CountryInfo
 import json
 import csv  
 from pattern.en import comparative, superlative
@@ -231,14 +233,76 @@ def temporal_reasoning2():
         # write the data
         data = {'premise': data[0],
         'hypothesis': data[1],
-        'label': 1} 
+        'label': 0} 
         # 0 for entailment
         # 1 for neutral
         # 2 for contradiction
         s = json.dumps(data)
         f.write(s + '\n')
 
+def generate_countries():
+  editor = Editor.Editor()
+  # print (editor.lexicons['country'])
+  country_city = []
+  for country in editor.lexicons['country']:
+    try:
+      capital = CountryInfo(country).capital()
+      country_city.append((country, capital))
+    except:
+      print(country)
+  print(country_city)
+
+def create_countries_dataset1():
+  editor = Editor.Editor()
+  random.shuffle(country_city_list)
+  editor.lexicons['country_capital'] = country_city_list
+  editor.lexicons['name'] = editor.lexicons['first_name']
+  out = editor.template('{name1} lives in {country_capital1[1]}.;{name1} lives in {country_capital1[0]}')
+
+  # editor.template creates a cross product of all choices for placeholders. Let's sample 10 examples from this
+  random.shuffle(out.data)
+  examples = out.data[:1000]
+  
+  for row in examples:
+    data = row.split(';')
+    with open('checklist_data/countries_dataset1.json', 'a', encoding='UTF8') as f:
+        # write the data
+        data = {'premise': data[0],
+        'hypothesis': data[1],
+        'label': 0} 
+        # 0 for entailment
+        # 1 for neutral
+        # 2 for contradiction
+        s = json.dumps(data)
+        f.write(s + '\n')
+
+def create_countries_dataset2():
+  editor = Editor.Editor()
+  random.shuffle(country_city_list)
+  editor.lexicons['country_capital'] = country_city_list
+  editor.lexicons['name'] = editor.lexicons['first_name']
+  out = editor.template('{name1} lives in {country_capital1[1]}.;{name1} lives in {country_capital2[0]}')
+
+  # editor.template creates a cross product of all choices for placeholders. Let's sample 10 examples from this
+  random.shuffle(out.data)
+  examples = out.data[:1000]
+  
+  for row in examples:
+    data = row.split(';')
+    with open('checklist_data/countries_dataset2.json', 'a', encoding='UTF8') as f:
+        # write the data
+        data = {'premise': data[0],
+        'hypothesis': data[1],
+        'label': 2} 
+        # 0 for entailment
+        # 1 for neutral
+        # 2 for contradiction
+        s = json.dumps(data)
+        f.write(s + '\n')
+
+create_countries_dataset2()
+# generate_countries()
 # superlatives_comparitives2()
 # generate_years()
-temporal_reasoning2()
+# temporal_reasoning2()
 
