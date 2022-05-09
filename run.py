@@ -67,7 +67,6 @@ def main():
         eval_split = 'validation_matched' if dataset_id == ('multi_nli',) else 'validation'
         # Load the raw data
         dataset = datasets.load_dataset(*dataset_id)
-        print("DATASETTTTTT!!!!!!!!!!!!")
         print(eval_split)
         print(dataset)
 

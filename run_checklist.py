@@ -45,18 +45,16 @@ print (editor.lexicons.keys())
 #                     f.write(',\n')
 #               count+=1
 
-editor.lexicons['antonym'] = antonyms_list[:10]
-editor.lexicons['name'] = editor.lexicons['first_name'][:10]
+editor.lexicons['antonym'] = antonyms_list
+editor.lexicons['name'] = editor.lexicons['first_name']
 out = editor.template('{name1} is {antonym1[0]},{name1} is {antonym1[1]},2')
 
-# # editor.template creates a cross product of all choices for placeholders. Let's sample 10 examples from this
+# editor.template creates a cross product of all choices for placeholders. Let's sample 10 examples from this
 random.shuffle(out.data)
-examples = out.data[:10]
-for i in range(len(examples)):
-    print ('contradiction ' + examples[i])
+examples = out.data[:1000]
+# for i in range(len(examples)):
+#     print ('contradiction ' + examples[i])
 
-
-header = ['premise', 'hypothesis', 'label']
 
 for row in examples:
   data = row.split(',')
@@ -64,7 +62,8 @@ for row in examples:
       # write the data
       data = {'premise': data[0],
       'hypothesis': data[1],
-      'label': data[2]}
+      'label': 2} 
+      # 2 for contradiction
       s = json.dumps(data)
       f.write(s + '\n')
 
