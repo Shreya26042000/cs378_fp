@@ -130,14 +130,15 @@ def create_synonyms_dataset2():
         s = json.dumps(data)
         f.write(s + '\n')
 
-# create_synonyms_dataset2()
-def superlatives_comparitives():
+# superlatives_dataset1()
+def superlatives_comparitives1():
   with open("checklist_data/adjectives.txt", "r") as f:
       arr = f.readlines()
       adjectives = list(map(str.strip, arr))
       adjectives = list(map(lambda x: (comparative(x), superlative(x)), adjectives))
 
   editor = Editor.Editor()
+  random.shuffle(adjectives)
   editor.lexicons['adjective'] = adjectives[:500]
   editor.lexicons['name'] = editor.lexicons['first_name'][:100]
   out = editor.template('Among {name1} and {name2}, the {adjective1[1]} is {name1};{name1} is {adjective1[0]} than {name2}')
@@ -156,6 +157,33 @@ def superlatives_comparitives():
         s = json.dumps(data)
         f.write(s + '\n')
 
-superlatives_comparitives()
+# superlatives_dataset2()
+def superlatives_comparitives2():
+  with open("checklist_data/adjectives.txt", "r") as f:
+      arr = f.readlines()
+      adjectives = list(map(str.strip, arr))
+      adjectives = list(map(lambda x: (comparative(x), superlative(x)), adjectives))
+
+  editor = Editor.Editor()
+  random.shuffle(adjectives)
+  editor.lexicons['adjective'] = adjectives[:500]
+  editor.lexicons['name'] = editor.lexicons['first_name'][:100]
+  out = editor.template('Among {name1} and {name2}, the {adjective1[1]} is {name2};{name1} is {adjective1[0]} than {name2}')
+  random.shuffle(out.data)
+  examples = out.data[:1000]
+  for row in examples:
+    data = row.split(';')
+    with open('checklist_data/superlatives_dataset2.json', 'a', encoding='UTF8') as f:
+        # write the data
+        data = {'premise': data[0],
+        'hypothesis': data[1],
+        'label': 2} 
+        # 0 for entailment
+        # 1 for neutral
+        # 2 for contradiction
+        s = json.dumps(data)
+        f.write(s + '\n')
+
+superlatives_comparitives2()
 
 
