@@ -6,6 +6,8 @@ from nltk.corpus import wordnet as wn
 import random
 from antonyms import antonyms_list
 
+import csv  
+
 # default_datasets = {'qa': ('squad',), 'nli': ('snli',)}
 #         # dataset_id = tuple(args.dataset.split(':')) if args.dataset is not None else \
 #         #     default_datasets[args.task]
@@ -42,10 +44,7 @@ print (editor.lexicons.keys())
 #                     f.write('(\'' + j.name() + '\'' + ',\'' + j.antonyms()[0].name() + '\')')
 #                     f.write(',\n')
 #               count+=1
-#               if count == 100:
-#                 break
 
-# editor.lexicons['antonymw'] = [('Susan', 'Helen'), ('Robert', 'Priya')]
 editor.lexicons['antonym'] = antonyms_list[:10]
 editor.lexicons['name'] = editor.lexicons['first_name'][:10]
 out = editor.template('P: {name1} is {antonym1[0]} H: {name1} is {antonym1[1]}')
@@ -55,6 +54,19 @@ random.shuffle(out.data)
 examples = out.data[:10]
 for i in range(len(examples)):
     print ('contradiction ' + examples[i])
+
+
+# header = ['name', 'area', 'country_code2', 'country_code3']
+# data = ['Afghanistan', 652090, 'AF', 'AFG']
+
+# with open('countries.csv', 'w', encoding='UTF8') as f:
+#     writer = csv.writer(f)
+
+#     # write the header
+#     writer.writerow(header)
+
+#     # write the data
+#     writer.writerow(data)
 
 
 
