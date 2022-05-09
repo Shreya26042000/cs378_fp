@@ -6,6 +6,7 @@ from nltk.corpus import wordnet as wn
 import random
 from antonyms import antonyms_list
 from synonyms import synonyms_list
+from years import years_list
 import json
 import csv  
 from pattern.en import comparative, superlative
@@ -24,8 +25,6 @@ from pattern.en import comparative, superlative
 # # TODO: Can add training examples here
 # max_samples = 10
 # test_dataset = test_dataset.select(range(max_samples))
-
-
 
 def create_antonyms_lsit():
   ADJ, ADJ_SAT, ADV, NOUN, VERB = "a", "s", "r", "n", "v"
@@ -92,7 +91,7 @@ def create_synonyms_dataset1():
   # editor.template creates a cross product of all choices for placeholders. Let's sample 10 examples from this
   random.shuffle(out.data)
   examples = out.data[:1000]
-
+  
   for row in examples:
     data = row.split(',')
     with open('checklist_data/synonyms_dataset1.json', 'a', encoding='UTF8') as f:
@@ -184,6 +183,62 @@ def superlatives_comparitives2():
         s = json.dumps(data)
         f.write(s + '\n')
 
-superlatives_comparitives2()
+def generate_years():
+  years = range(1950, 2023)
+  random.randint(1, len(years) - 2)
+  for i in range(1000):
+    with open("checklist_data/years.txt", "a") as f:
+      index1 = random.randint(0, len(years) - 2)
+      index2 = random.randint(index1 + 1, len(years) - 1)
+      year1 = years[index1]
+      f.write('(\'' + str(years[index1]) + '\'' + ',\'' + str(years[index2]) + '\')')
+      f.write(',\n')
 
+
+# superlatives_dataset2()
+def temporal_reasoning1():
+  editor = Editor.Editor()
+  random.shuffle(years_list)
+  editor.lexicons['year'] = years_list[:500]
+  editor.lexicons['name'] = editor.lexicons['first_name'][:100]
+  out = editor.template('{name1} was born in {year1[0]} and {name2} was born in {year1[1]}.;{name1} was born earlier than {name2}')
+  random.shuffle(out.data)
+  examples = out.data[:1000]
+  for row in examples:
+    data = row.split(';')
+    with open('checklist_data/temporal_dataset1.json', 'a', encoding='UTF8') as f:
+        # write the data
+        data = {'premise': data[0],
+        'hypothesis': data[1],
+        'label': 0} 
+        # 0 for entailment
+        # 1 for neutral
+        # 2 for contradiction
+        s = json.dumps(data)
+        f.write(s + '\n')
+
+def temporal_reasoning2():
+  editor = Editor.Editor()
+  random.shuffle(years_list)
+  editor.lexicons['year'] = years_list[:500]
+  editor.lexicons['name'] = editor.lexicons['first_name'][:100]
+  out = editor.template('{name1} was born in {year1[1]} and {name2} was born in {year1[0]}.;{name1} was born earlier than {name2}')
+  random.shuffle(out.data)
+  examples = out.data[:1000]
+  for row in examples:
+    data = row.split(';')
+    with open('checklist_data/temporal_dataset3.json', 'a', encoding='UTF8') as f:
+        # write the data
+        data = {'premise': data[0],
+        'hypothesis': data[1],
+        'label': 1} 
+        # 0 for entailment
+        # 1 for neutral
+        # 2 for contradiction
+        s = json.dumps(data)
+        f.write(s + '\n')
+
+# superlatives_comparitives2()
+# generate_years()
+temporal_reasoning2()
 
