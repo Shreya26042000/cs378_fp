@@ -1,0 +1,1000 @@
+{"premise": "Among Anthony and Chris, the most disastrous is Anthony", "hypothesis": "Anthony is more disastrous than Chris", "label": 0}
+{"premise": "Among Martin and John, the densest is Martin", "hypothesis": "Martin is denser than John", "label": 0}
+{"premise": "Among William and Daniel, the most golden is William", "hypothesis": "William is more golden than Daniel", "label": 0}
+{"premise": "Among George and Marie, the corniest is George", "hypothesis": "George is cornier than Marie", "label": 0}
+{"premise": "Among Peter and Grace, the most cooperative is Peter", "hypothesis": "Peter is more cooperative than Grace", "label": 0}
+{"premise": "Among Charles and William, the dreariest is Charles", "hypothesis": "Charles is drearier than William", "label": 0}
+{"premise": "Among Scott and Chris, the halfest is Scott", "hypothesis": "Scott is halfer than Chris", "label": 0}
+{"premise": "Among Patrick and Anna, the burliest is Patrick", "hypothesis": "Patrick is burlier than Anna", "label": 0}
+{"premise": "Among Kevin and Frances, the femalest is Kevin", "hypothesis": "Kevin is femaler than Frances", "label": 0}
+{"premise": "Among James and Emily, the most formal is James", "hypothesis": "James is more formal than Emily", "label": 0}
+{"premise": "Among James and Alice, the most adorable is James", "hypothesis": "James is more adorable than Alice", "label": 0}
+{"premise": "Among Peter and Margaret, the coolest is Peter", "hypothesis": "Peter is cooler than Margaret", "label": 0}
+{"premise": "Among Ellen and Jack, the most dazzling is Ellen", "hypothesis": "Ellen is more dazzling than Jack", "label": 0}
+{"premise": "Among Philip and Samuel, the most bustling is Philip", "hypothesis": "Philip is more bustling than Samuel", "label": 0}
+{"premise": "Among Frances and Stephen, the farthest is Frances", "hypothesis": "Frances is further than Stephen", "label": 0}
+{"premise": "Among Joan and Richard, the frontest is Joan", "hypothesis": "Joan is fronter than Richard", "label": 0}
+{"premise": "Among Walter and Francis, the most gorgeous is Walter", "hypothesis": "Walter is more gorgeous than Francis", "label": 0}
+{"premise": "Among Jessica and Christine, the most enlightened is Jessica", "hypothesis": "Jessica is more enlightened than Christine", "label": 0}
+{"premise": "Among Betty and Amanda, the most disloyal is Betty", "hypothesis": "Betty is more disloyal than Amanda", "label": 0}
+{"premise": "Among Carol and Lisa, the most frozen is Carol", "hypothesis": "Carol is more frozen than Lisa", "label": 0}
+{"premise": "Among Charles and Fred, the completest is Charles", "hypothesis": "Charles is completer than Fred", "label": 0}
+{"premise": "Among Lisa and Helen, the most definitive is Lisa", "hypothesis": "Lisa is more definitive than Helen", "label": 0}
+{"premise": "Among Philip and Karen, the most athletic is Philip", "hypothesis": "Philip is more athletic than Karen", "label": 0}
+{"premise": "Among George and Bill, the gentlest is George", "hypothesis": "George is gentler than Bill", "label": 0}
+{"premise": "Among Dorothy and Tony, the funniest is Dorothy", "hypothesis": "Dorothy is funnier than Tony", "label": 0}
+{"premise": "Among Tom and Christine, the most flawless is Tom", "hypothesis": "Tom is more flawless than Christine", "label": 0}
+{"premise": "Among Anthony and Ann, the most eminent is Anthony", "hypothesis": "Anthony is more eminent than Ann", "label": 0}
+{"premise": "Among Bill and Mark, the freest is Bill", "hypothesis": "Bill is freer than Mark", "label": 0}
+{"premise": "Among Susan and Ann, the most delicious is Susan", "hypothesis": "Susan is more delicious than Ann", "label": 0}
+{"premise": "Among Albert and Henry, the most aching is Albert", "hypothesis": "Albert is more aching than Henry", "label": 0}
+{"premise": "Among Emily and Albert, the dualest is Emily", "hypothesis": "Emily is dualer than Albert", "label": 0}
+{"premise": "Among Katherine and Mike, the angriest is Katherine", "hypothesis": "Katherine is angrier than Mike", "label": 0}
+{"premise": "Among Eric and Jennifer, the most crushing is Eric", "hypothesis": "Eric is more crushing than Jennifer", "label": 0}
+{"premise": "Among David and Joan, the handmadest is David", "hypothesis": "David is handmader than Joan", "label": 0}
+{"premise": "Among John and Carol, the most alarming is John", "hypothesis": "John is more alarming than Carol", "label": 0}
+{"premise": "Among Edward and Philip, the most automatic is Edward", "hypothesis": "Edward is more automatic than Philip", "label": 0}
+{"premise": "Among Mark and Kathleen, the most fruitful is Mark", "hypothesis": "Mark is more fruitful than Kathleen", "label": 0}
+{"premise": "Among Stephen and Julia, the most carefree is Stephen", "hypothesis": "Stephen is more carefree than Julia", "label": 0}
+{"premise": "Among Frank and Eric, the most complicated is Frank", "hypothesis": "Frank is more complicated than Eric", "label": 0}
+{"premise": "Among David and Amy, the most forceful is David", "hypothesis": "David is more forceful than Amy", "label": 0}
+{"premise": "Among Rebecca and Gary, the most authorized is Rebecca", "hypothesis": "Rebecca is more authorized than Gary", "label": 0}
+{"premise": "Among Louise and Scott, the most content is Louise", "hypothesis": "Louise is more content than Scott", "label": 0}
+{"premise": "Among Henry and Jennifer, the most giving is Henry", "hypothesis": "Henry is more giving than Jennifer", "label": 0}
+{"premise": "Among Rachel and Christine, the alivest is Rachel", "hypothesis": "Rachel is aliver than Christine", "label": 0}
+{"premise": "Among Rachel and Alice, the most forthright is Rachel", "hypothesis": "Rachel is more forthright than Alice", "label": 0}
+{"premise": "Among Eric and Caroline, the most dimwitted is Eric", "hypothesis": "Eric is more dimwitted than Caroline", "label": 0}
+{"premise": "Among Patrick and Chris, the briefest is Patrick", "hypothesis": "Patrick is briefer than Chris", "label": 0}
+{"premise": "Among Kathleen and Harry, the fluffiest is Kathleen", "hypothesis": "Kathleen is fluffier than Harry", "label": 0}
+{"premise": "Among Jack and Frank, the most black-and-white is Jack", "hypothesis": "Jack is more black-and-white than Frank", "label": 0}
+{"premise": "Among Samuel and Arthur, the most crushing is Samuel", "hypothesis": "Samuel is more crushing than Arthur", "label": 0}
+{"premise": "Among Donald and Ellen, the most downright is Donald", "hypothesis": "Donald is more downright than Ellen", "label": 0}
+{"premise": "Among Catherine and Fred, the most frequent is Catherine", "hypothesis": "Catherine is more frequent than Fred", "label": 0}
+{"premise": "Among Ellen and Helen, the most crushing is Ellen", "hypothesis": "Ellen is more crushing than Helen", "label": 0}
+{"premise": "Among Michelle and Carol, the glassest is Michelle", "hypothesis": "Michelle is glasser than Carol", "label": 0}
+{"premise": "Among Harry and Emily, the most distinct is Harry", "hypothesis": "Harry is more distinct than Emily", "label": 0}
+{"premise": "Among Betty and Kevin, the most bruised is Betty", "hypothesis": "Betty is more bruised than Kevin", "label": 0}
+{"premise": "Among Barbara and Scott, the dreariest is Barbara", "hypothesis": "Barbara is drearier than Scott", "label": 0}
+{"premise": "Among Louise and Mary, the most forked is Louise", "hypothesis": "Louise is more forked than Mary", "label": 0}
+{"premise": "Among Barbara and Bill, the most amazing is Barbara", "hypothesis": "Barbara is more amazing than Bill", "label": 0}
+{"premise": "Among Mike and Ruth, the most decimal is Mike", "hypothesis": "Mike is more decimal than Ruth", "label": 0}
+{"premise": "Among Amanda and Laura, the most daring is Amanda", "hypothesis": "Amanda is more daring than Laura", "label": 0}
+{"premise": "Among Jessica and Rebecca, the most favorite is Jessica", "hypothesis": "Jessica is more favorite than Rebecca", "label": 0}
+{"premise": "Among Karen and William, the most embellished is Karen", "hypothesis": "Karen is more embellished than William", "label": 0}
+{"premise": "Among Jennifer and Frances, the glummest is Jennifer", "hypothesis": "Jennifer is glummer than Frances", "label": 0}
+{"premise": "Among Henry and Alan, the most bountiful is Henry", "hypothesis": "Henry is more bountiful than Alan", "label": 0}
+{"premise": "Among Thomas and Michael, the betterest is Thomas", "hypothesis": "Thomas is betterer than Michael", "label": 0}
+{"premise": "Among Walter and Ellen, the most envious is Walter", "hypothesis": "Walter is more envious than Ellen", "label": 0}
+{"premise": "Among Alice and Amy, the droopiest is Alice", "hypothesis": "Alice is droopier than Amy", "label": 0}
+{"premise": "Among Bill and David, the most comfortable is Bill", "hypothesis": "Bill is more comfortable than David", "label": 0}
+{"premise": "Among James and James, the most frugal is James", "hypothesis": "James is more frugal than James", "label": 0}
+{"premise": "Among Michelle and Stephen, the dreariest is Michelle", "hypothesis": "Michelle is drearier than Stephen", "label": 0}
+{"premise": "Among Anthony and Karen, the angriest is Anthony", "hypothesis": "Anthony is angrier than Karen", "label": 0}
+{"premise": "Among Patricia and Chris, the most considerate is Patricia", "hypothesis": "Patricia is more considerate than Chris", "label": 0}
+{"premise": "Among Francis and Ellen, the greediest is Francis", "hypothesis": "Francis is greedier than Ellen", "label": 0}
+{"premise": "Among Ellen and Julie, the deadest is Ellen", "hypothesis": "Ellen is deader than Julie", "label": 0}
+{"premise": "Among Kathleen and Emily, the most crushing is Kathleen", "hypothesis": "Kathleen is more crushing than Emily", "label": 0}
+{"premise": "Among Amy and Philip, the most attractive is Amy", "hypothesis": "Amy is more attractive than Philip", "label": 0}
+{"premise": "Among Samuel and Kevin, the most elderly is Samuel", "hypothesis": "Samuel is more elderly than Kevin", "label": 0}
+{"premise": "Among Tony and Joe, the most exalted is Tony", "hypothesis": "Tony is more exalted than Joe", "label": 0}
+{"premise": "Among Jennifer and Dorothy, the most animated is Jennifer", "hypothesis": "Jennifer is more animated than Dorothy", "label": 0}
+{"premise": "Among Julie and Julie, the most expensive is Julie", "hypothesis": "Julie is more expensive than Julie", "label": 0}
+{"premise": "Among Robert and Walter, the caninest is Robert", "hypothesis": "Robert is caniner than Walter", "label": 0}
+{"premise": "Among John and Katherine, the most extraneous is John", "hypothesis": "John is more extraneous than Katherine", "label": 0}
+{"premise": "Among Steve and Bob, the most candid is Steve", "hypothesis": "Steve is more candid than Bob", "label": 0}
+{"premise": "Among Dorothy and Rachel, the most determined is Dorothy", "hypothesis": "Dorothy is more determined than Rachel", "label": 0}
+{"premise": "Among James and George, the most delirious is James", "hypothesis": "James is more delirious than George", "label": 0}
+{"premise": "Among Ann and Amy, the most cultivated is Ann", "hypothesis": "Ann is more cultivated than Amy", "label": 0}
+{"premise": "Among Carol and Mike, the most grateful is Carol", "hypothesis": "Carol is more grateful than Mike", "label": 0}
+{"premise": "Among Betty and Steve, the most big-hearted is Betty", "hypothesis": "Betty is more big-hearted than Steve", "label": 0}
+{"premise": "Among Ellen and Peter, the most dependable is Ellen", "hypothesis": "Ellen is more dependable than Peter", "label": 0}
+{"premise": "Among Steve and Joseph, the most clueless is Steve", "hypothesis": "Steve is more clueless than Joseph", "label": 0}
+{"premise": "Among Francis and Rebecca, the most basic is Francis", "hypothesis": "Francis is more basic than Rebecca", "label": 0}
+{"premise": "Among Harry and Carol, the most alarming is Harry", "hypothesis": "Harry is more alarming than Carol", "label": 0}
+{"premise": "Among Edward and Jessica, the worst is Edward", "hypothesis": "Edward is worse than Jessica", "label": 0}
+{"premise": "Among Anna and Louise, the most extra-large is Anna", "hypothesis": "Anna is more extra-large than Louise", "label": 0}
+{"premise": "Among Rebecca and Albert, the most gifted is Rebecca", "hypothesis": "Rebecca is more gifted than Albert", "label": 0}
+{"premise": "Among Rebecca and Arthur, the most ashamed is Rebecca", "hypothesis": "Rebecca is more ashamed than Arthur", "label": 0}
+{"premise": "Among Julie and Joseph, the most celebrated is Julie", "hypothesis": "Julie is more celebrated than Joseph", "label": 0}
+{"premise": "Among Helen and Tom, the giddiest is Helen", "hypothesis": "Helen is giddier than Tom", "label": 0}
+{"premise": "Among Jim and Michelle, the most blaring is Jim", "hypothesis": "Jim is more blaring than Michelle", "label": 0}
+{"premise": "Among Elizabeth and Arthur, the frizziest is Elizabeth", "hypothesis": "Elizabeth is frizzier than Arthur", "label": 0}
+{"premise": "Among Katherine and Alan, the most enchanting is Katherine", "hypothesis": "Katherine is more enchanting than Alan", "label": 0}
+{"premise": "Among Eric and Mary, the most decent is Eric", "hypothesis": "Eric is more decent than Mary", "label": 0}
+{"premise": "Among Julie and Edward, the most dazzling is Julie", "hypothesis": "Julie is more dazzling than Edward", "label": 0}
+{"premise": "Among Anthony and Linda, the most fixed is Anthony", "hypothesis": "Anthony is more fixed than Linda", "label": 0}
+{"premise": "Among Gary and Laura, the most alarming is Gary", "hypothesis": "Gary is more alarming than Laura", "label": 0}
+{"premise": "Among Mark and Carol, the coolest is Mark", "hypothesis": "Mark is cooler than Carol", "label": 0}
+{"premise": "Among Michelle and Chris, the most grateful is Michelle", "hypothesis": "Michelle is more grateful than Chris", "label": 0}
+{"premise": "Among Susan and Betty, the most arid is Susan", "hypothesis": "Susan is more arid than Betty", "label": 0}
+{"premise": "Among Katherine and Arthur, the most dishonest is Katherine", "hypothesis": "Katherine is more dishonest than Arthur", "label": 0}
+{"premise": "Among Katherine and Marie, the fastest is Katherine", "hypothesis": "Katherine is faster than Marie", "label": 0}
+{"premise": "Among Christopher and Joseph, the most gregarious is Christopher", "hypothesis": "Christopher is more gregarious than Joseph", "label": 0}
+{"premise": "Among Richard and Christine, the gruesomest is Richard", "hypothesis": "Richard is gruesomer than Christine", "label": 0}
+{"premise": "Among Walter and Bill, the most bowed is Walter", "hypothesis": "Walter is more bowed than Bill", "label": 0}
+{"premise": "Among Julia and Paul, the easiest is Julia", "hypothesis": "Julia is easier than Paul", "label": 0}
+{"premise": "Among Stephen and William, the most alarmed is Stephen", "hypothesis": "Stephen is more alarmed than William", "label": 0}
+{"premise": "Among Michael and Alice, the grubbiest is Michael", "hypothesis": "Michael is grubbier than Alice", "label": 0}
+{"premise": "Among Anne and Dorothy, the best is Anne", "hypothesis": "Anne is better than Dorothy", "label": 0}
+{"premise": "Among Frederick and Emma, the most expert is Frederick", "hypothesis": "Frederick is more expert than Emma", "label": 0}
+{"premise": "Among Edward and Emily, the most feminine is Edward", "hypothesis": "Edward is more feminine than Emily", "label": 0}
+{"premise": "Among Stephen and Fred, the most alert is Stephen", "hypothesis": "Stephen is more alert than Fred", "label": 0}
+{"premise": "Among Katherine and Eric, the blankest is Katherine", "hypothesis": "Katherine is blanker than Eric", "label": 0}
+{"premise": "Among Fred and Jean, the glummest is Fred", "hypothesis": "Fred is glummer than Jean", "label": 0}
+{"premise": "Among Charles and Mary, the most definitive is Charles", "hypothesis": "Charles is more definitive than Mary", "label": 0}
+{"premise": "Among Susan and Frederick, the most flamboyant is Susan", "hypothesis": "Susan is more flamboyant than Frederick", "label": 0}
+{"premise": "Among Tony and Judith, the clearest is Tony", "hypothesis": "Tony is clearer than Judith", "label": 0}
+{"premise": "Among Christine and Dorothy, the most emotional is Christine", "hypothesis": "Christine is more emotional than Dorothy", "label": 0}
+{"premise": "Among Frank and Samuel, the most bewitched is Frank", "hypothesis": "Frank is more bewitched than Samuel", "label": 0}
+{"premise": "Among Fred and Frederick, the most elaborate is Fred", "hypothesis": "Fred is more elaborate than Frederick", "label": 0}
+{"premise": "Among Karen and Arthur, the clearest is Karen", "hypothesis": "Karen is clearer than Arthur", "label": 0}
+{"premise": "Among Frederick and David, the deepest is Frederick", "hypothesis": "Frederick is deeper than David", "label": 0}
+{"premise": "Among James and Bill, the most definite is James", "hypothesis": "James is more definite than Bill", "label": 0}
+{"premise": "Among Philip and Julie, the most delicious is Philip", "hypothesis": "Philip is more delicious than Julie", "label": 0}
+{"premise": "Among James and Rebecca, the most gaseous is James", "hypothesis": "James is more gaseous than Rebecca", "label": 0}
+{"premise": "Among Christopher and Philip, the most delectable is Christopher", "hypothesis": "Christopher is more delectable than Philip", "label": 0}
+{"premise": "Among Mike and Julie, the most anguished is Mike", "hypothesis": "Mike is more anguished than Julie", "label": 0}
+{"premise": "Among Robert and Chris, the most fantastic is Robert", "hypothesis": "Robert is more fantastic than Chris", "label": 0}
+{"premise": "Among George and Donald, the aniest is George", "hypothesis": "George is anier than Donald", "label": 0}
+{"premise": "Among Charles and Bob, the most fixed is Charles", "hypothesis": "Charles is more fixed than Bob", "label": 0}
+{"premise": "Among Harry and Judith, the earliest is Harry", "hypothesis": "Harry is earlier than Judith", "label": 0}
+{"premise": "Among James and Grace, the most beloved is James", "hypothesis": "James is more beloved than Grace", "label": 0}
+{"premise": "Among Barbara and Stephen, the most frigid is Barbara", "hypothesis": "Barbara is more frigid than Stephen", "label": 0}
+{"premise": "Among Laura and Paul, the calmest is Laura", "hypothesis": "Laura is calmer than Paul", "label": 0}
+{"premise": "Among Janet and Martin, the most careless is Janet", "hypothesis": "Janet is more careless than Martin", "label": 0}
+{"premise": "Among Patricia and Susan, the most adorable is Patricia", "hypothesis": "Patricia is more adorable than Susan", "label": 0}
+{"premise": "Among Paul and Amy, the most glistening is Paul", "hypothesis": "Paul is more glistening than Amy", "label": 0}
+{"premise": "Among Katherine and Steve, the most cluttered is Katherine", "hypothesis": "Katherine is more cluttered than Steve", "label": 0}
+{"premise": "Among Mark and Brian, the most decimal is Mark", "hypothesis": "Mark is more decimal than Brian", "label": 0}
+{"premise": "Among Brian and Anne, the most fitting is Brian", "hypothesis": "Brian is more fitting than Anne", "label": 0}
+{"premise": "Among Rachel and Daniel, the draftiest is Rachel", "hypothesis": "Rachel is draftier than Daniel", "label": 0}
+{"premise": "Among Steve and Martin, the agreeablest is Steve", "hypothesis": "Steve is agreeabler than Martin", "label": 0}
+{"premise": "Among Samuel and Julie, the most criminal is Samuel", "hypothesis": "Samuel is more criminal than Julie", "label": 0}
+{"premise": "Among Kevin and Francis, the most ancient is Kevin", "hypothesis": "Kevin is more ancient than Francis", "label": 0}
+{"premise": "Among Susan and Jane, the most classic is Susan", "hypothesis": "Susan is more classic than Jane", "label": 0}
+{"premise": "Among Eric and Betty, the doublest is Eric", "hypothesis": "Eric is doubler than Betty", "label": 0}
+{"premise": "Among Jean and Ruth, the most disgusting is Jean", "hypothesis": "Jean is more disgusting than Ruth", "label": 0}
+{"premise": "Among Ruth and Susan, the deadest is Ruth", "hypothesis": "Ruth is deader than Susan", "label": 0}
+{"premise": "Among Catherine and Linda, the most fearful is Catherine", "hypothesis": "Catherine is more fearful than Linda", "label": 0}
+{"premise": "Among Arthur and Karen, the Frenchest is Arthur", "hypothesis": "Arthur is Frencher than Karen", "label": 0}
+{"premise": "Among Charles and Andrew, the dreariest is Charles", "hypothesis": "Charles is drearier than Andrew", "label": 0}
+{"premise": "Among Carol and Jim, the most alarmed is Carol", "hypothesis": "Carol is more alarmed than Jim", "label": 0}
+{"premise": "Among George and Anthony, the most afraid is George", "hypothesis": "George is more afraid than Anthony", "label": 0}
+{"premise": "Among Jim and Walter, the most frigid is Jim", "hypothesis": "Jim is more frigid than Walter", "label": 0}
+{"premise": "Among Kate and Christopher, the most direct is Kate", "hypothesis": "Kate is more direct than Christopher", "label": 0}
+{"premise": "Among Jessica and Kate, the most crowded is Jessica", "hypothesis": "Jessica is more crowded than Kate", "label": 0}
+{"premise": "Among Helen and Jane, the cheapest is Helen", "hypothesis": "Helen is cheaper than Jane", "label": 0}
+{"premise": "Among Stephen and Maria, the most doting is Stephen", "hypothesis": "Stephen is more doting than Maria", "label": 0}
+{"premise": "Among Frances and Walter, the most elastic is Frances", "hypothesis": "Frances is more elastic than Walter", "label": 0}
+{"premise": "Among Frank and Eric, the blankest is Frank", "hypothesis": "Frank is blanker than Eric", "label": 0}
+{"premise": "Among Julia and Peter, the deadest is Julia", "hypothesis": "Julia is deader than Peter", "label": 0}
+{"premise": "Among Anna and Kathleen, the dearest is Anna", "hypothesis": "Anna is dearer than Kathleen", "label": 0}
+{"premise": "Among Henry and Chris, the most concerned is Henry", "hypothesis": "Henry is more concerned than Chris", "label": 0}
+{"premise": "Among Joan and Frank, the calmest is Joan", "hypothesis": "Joan is calmer than Frank", "label": 0}
+{"premise": "Among Arthur and Louise, the most granular is Arthur", "hypothesis": "Arthur is more granular than Louise", "label": 0}
+{"premise": "Among Betty and Kevin, the handmadest is Betty", "hypothesis": "Betty is handmader than Kevin", "label": 0}
+{"premise": "Among Mark and Julia, the most downright is Mark", "hypothesis": "Mark is more downright than Julia", "label": 0}
+{"premise": "Among Ann and Thomas, the most dishonest is Ann", "hypothesis": "Ann is more dishonest than Thomas", "label": 0}
+{"premise": "Among Francis and James, the most even is Francis", "hypothesis": "Francis is more even than James", "label": 0}
+{"premise": "Among Donald and Michael, the most emotional is Donald", "hypothesis": "Donald is more emotional than Michael", "label": 0}
+{"premise": "Among Stephen and Kathleen, the firmest is Stephen", "hypothesis": "Stephen is firmer than Kathleen", "label": 0}
+{"premise": "Among Judith and Frederick, the most cheerful is Judith", "hypothesis": "Judith is more cheerful than Frederick", "label": 0}
+{"premise": "Among Laura and Grace, the fondest is Laura", "hypothesis": "Laura is fonder than Grace", "label": 0}
+{"premise": "Among Kate and Stephen, the most devoted is Kate", "hypothesis": "Kate is more devoted than Stephen", "label": 0}
+{"premise": "Among Janet and Jane, the closest is Janet", "hypothesis": "Janet is closer than Jane", "label": 0}
+{"premise": "Among Karen and Philip, the most eminent is Karen", "hypothesis": "Karen is more eminent than Philip", "label": 0}
+{"premise": "Among William and Ruth, the coolest is William", "hypothesis": "William is cooler than Ruth", "label": 0}
+{"premise": "Among Harry and Susan, the handiest is Harry", "hypothesis": "Harry is handier than Susan", "label": 0}
+{"premise": "Among Anna and Christopher, the most deficient is Anna", "hypothesis": "Anna is more deficient than Christopher", "label": 0}
+{"premise": "Among Dorothy and Alan, the most amusing is Dorothy", "hypothesis": "Dorothy is more amusing than Alan", "label": 0}
+{"premise": "Among Bill and Stephen, the most forthright is Bill", "hypothesis": "Bill is more forthright than Stephen", "label": 0}
+{"premise": "Among Francis and John, the most distorted is Francis", "hypothesis": "Francis is more distorted than John", "label": 0}
+{"premise": "Among Christine and Philip, the fakest is Christine", "hypothesis": "Christine is faker than Philip", "label": 0}
+{"premise": "Among Bob and Paul, the ediblest is Bob", "hypothesis": "Bob is edibler than Paul", "label": 0}
+{"premise": "Among Julie and Harry, the most artistic is Julie", "hypothesis": "Julie is more artistic than Harry", "label": 0}
+{"premise": "Among Steve and Margaret, the happiest is Steve", "hypothesis": "Steve is happier than Margaret", "label": 0}
+{"premise": "Among Emily and Martin, the bluest is Emily", "hypothesis": "Emily is bluer than Martin", "label": 0}
+{"premise": "Among Marie and Martin, the most abandoned is Marie", "hypothesis": "Marie is more abandoned than Martin", "label": 0}
+{"premise": "Among Jennifer and Marie, the most dutiful is Jennifer", "hypothesis": "Jennifer is more dutiful than Marie", "label": 0}
+{"premise": "Among Carol and Ellen, the most definitive is Carol", "hypothesis": "Carol is more definitive than Ellen", "label": 0}
+{"premise": "Among Linda and Karen, the allest is Linda", "hypothesis": "Linda is aller than Karen", "label": 0}
+{"premise": "Among Linda and Elizabeth, the firstest is Linda", "hypothesis": "Linda is firster than Elizabeth", "label": 0}
+{"premise": "Among Jane and Frederick, the most devoted is Jane", "hypothesis": "Jane is more devoted than Frederick", "label": 0}
+{"premise": "Among Brian and Alan, the most blaring is Brian", "hypothesis": "Brian is more blaring than Alan", "label": 0}
+{"premise": "Among Ann and Anthony, the most flawed is Ann", "hypothesis": "Ann is more flawed than Anthony", "label": 0}
+{"premise": "Among Rebecca and Fred, the most amazing is Rebecca", "hypothesis": "Rebecca is more amazing than Fred", "label": 0}
+{"premise": "Among Anthony and Joseph, the most awesome is Anthony", "hypothesis": "Anthony is more awesome than Joseph", "label": 0}
+{"premise": "Among Henry and Peter, the most attractive is Henry", "hypothesis": "Henry is more attractive than Peter", "label": 0}
+{"premise": "Among Judith and Caroline, the most anguished is Judith", "hypothesis": "Judith is more anguished than Caroline", "label": 0}
+{"premise": "Among Emily and Tom, the most courageous is Emily", "hypothesis": "Emily is more courageous than Tom", "label": 0}
+{"premise": "Among John and John, the most grizzled is John", "hypothesis": "John is more grizzled than John", "label": 0}
+{"premise": "Among Anna and Brian, the most ambitious is Anna", "hypothesis": "Anna is more ambitious than Brian", "label": 0}
+{"premise": "Among Patrick and Edward, the most alert is Patrick", "hypothesis": "Patrick is more alert than Edward", "label": 0}
+{"premise": "Among Tony and Alice, the most extraneous is Tony", "hypothesis": "Tony is more extraneous than Alice", "label": 0}
+{"premise": "Among Fred and Sarah, the dullest is Fred", "hypothesis": "Fred is duller than Sarah", "label": 0}
+{"premise": "Among Susan and Chris, the most fixed is Susan", "hypothesis": "Susan is more fixed than Chris", "label": 0}
+{"premise": "Among Emma and Michelle, the most blushing is Emma", "hypothesis": "Emma is more blushing than Michelle", "label": 0}
+{"premise": "Among Bob and Ruth, the most ethical is Bob", "hypothesis": "Bob is more ethical than Ruth", "label": 0}
+{"premise": "Among Jane and Louise, the most growing is Jane", "hypothesis": "Jane is more growing than Louise", "label": 0}
+{"premise": "Among Amanda and Ellen, the cleanest is Amanda", "hypothesis": "Amanda is cleaner than Ellen", "label": 0}
+{"premise": "Among Stephen and Paul, the most expert is Stephen", "hypothesis": "Stephen is more expert than Paul", "label": 0}
+{"premise": "Among Mary and Eric, the frostiest is Mary", "hypothesis": "Mary is frostier than Eric", "label": 0}
+{"premise": "Among Mike and Frank, the most arid is Mike", "hypothesis": "Mike is more arid than Frank", "label": 0}
+{"premise": "Among Jane and Ellen, the most bountiful is Jane", "hypothesis": "Jane is more bountiful than Ellen", "label": 0}
+{"premise": "Among Anna and Rachel, the most flowery is Anna", "hypothesis": "Anna is more flowery than Rachel", "label": 0}
+{"premise": "Among Helen and Ruth, the ediblest is Helen", "hypothesis": "Helen is edibler than Ruth", "label": 0}
+{"premise": "Among Sarah and Tony, the most golden is Sarah", "hypothesis": "Sarah is more golden than Tony", "label": 0}
+{"premise": "Among Jean and Anna, the most elastic is Jean", "hypothesis": "Jean is more elastic than Anna", "label": 0}
+{"premise": "Among Frederick and James, the most elastic is Frederick", "hypothesis": "Frederick is more elastic than James", "label": 0}
+{"premise": "Among Alan and Dorothy, the most cluttered is Alan", "hypothesis": "Alan is more cluttered than Dorothy", "label": 0}
+{"premise": "Among Julie and Julie, the femalest is Julie", "hypothesis": "Julie is femaler than Julie", "label": 0}
+{"premise": "Among Anna and Caroline, the most celebrated is Anna", "hypothesis": "Anna is more celebrated than Caroline", "label": 0}
+{"premise": "Among Maria and Albert, the most crushing is Maria", "hypothesis": "Maria is more crushing than Albert", "label": 0}
+{"premise": "Among Anna and Mary, the baggiest is Anna", "hypothesis": "Anna is baggier than Mary", "label": 0}
+{"premise": "Among Thomas and Thomas, the most bountiful is Thomas", "hypothesis": "Thomas is more bountiful than Thomas", "label": 0}
+{"premise": "Among Jack and Anthony, the flakiest is Jack", "hypothesis": "Jack is flakier than Anthony", "label": 0}
+{"premise": "Among Ann and Emily, the most grizzled is Ann", "hypothesis": "Ann is more grizzled than Emily", "label": 0}
+{"premise": "Among Lucy and Andrew, the most fragrant is Lucy", "hypothesis": "Lucy is more fragrant than Andrew", "label": 0}
+{"premise": "Among Louise and Frank, the most exciting is Louise", "hypothesis": "Louise is more exciting than Frank", "label": 0}
+{"premise": "Among Eric and Julie, the gentlest is Eric", "hypothesis": "Eric is gentler than Julie", "label": 0}
+{"premise": "Among Amy and Mike, the most carefree is Amy", "hypothesis": "Amy is more carefree than Mike", "label": 0}
+{"premise": "Among Amanda and Nancy, the most elliptical is Amanda", "hypothesis": "Amanda is more elliptical than Nancy", "label": 0}
+{"premise": "Among Maria and Lisa, the most coordinated is Maria", "hypothesis": "Maria is more coordinated than Lisa", "label": 0}
+{"premise": "Among Lucy and Jack, the most deafening is Lucy", "hypothesis": "Lucy is more deafening than Jack", "label": 0}
+{"premise": "Among Frances and Francis, the most colossal is Frances", "hypothesis": "Frances is more colossal than Francis", "label": 0}
+{"premise": "Among William and Walter, the most ambitious is William", "hypothesis": "William is more ambitious than Walter", "label": 0}
+{"premise": "Among Julia and Scott, the densest is Julia", "hypothesis": "Julia is denser than Scott", "label": 0}
+{"premise": "Among Janet and David, the most far-off is Janet", "hypothesis": "Janet is more far-off than David", "label": 0}
+{"premise": "Among Paul and Lucy, the clumsiest is Paul", "hypothesis": "Paul is clumsier than Lucy", "label": 0}
+{"premise": "Among Stephen and Emily, the ficklest is Stephen", "hypothesis": "Stephen is fickler than Emily", "label": 0}
+{"premise": "Among Arthur and Michelle, the most cooked is Arthur", "hypothesis": "Arthur is more cooked than Michelle", "label": 0}
+{"premise": "Among Bill and Francis, the most grateful is Bill", "hypothesis": "Bill is more grateful than Francis", "label": 0}
+{"premise": "Among Katherine and Francis, the most excited is Katherine", "hypothesis": "Katherine is more excited than Francis", "label": 0}
+{"premise": "Among Steve and Lucy, the most difficult is Steve", "hypothesis": "Steve is more difficult than Lucy", "label": 0}
+{"premise": "Among Carol and Janet, the most easy-going is Carol", "hypothesis": "Carol is more easy-going than Janet", "label": 0}
+{"premise": "Among Frank and Albert, the most euphoric is Frank", "hypothesis": "Frank is more euphoric than Albert", "label": 0}
+{"premise": "Among Grace and Mary, the most acrobatic is Grace", "hypothesis": "Grace is more acrobatic than Mary", "label": 0}
+{"premise": "Among William and Rachel, the blindest is William", "hypothesis": "William is blinder than Rachel", "label": 0}
+{"premise": "Among Grace and Jean, the most arid is Grace", "hypothesis": "Grace is more arid than Jean", "label": 0}
+{"premise": "Among Linda and Tom, the most difficult is Linda", "hypothesis": "Linda is more difficult than Tom", "label": 0}
+{"premise": "Among Joseph and Richard, the entirest is Joseph", "hypothesis": "Joseph is entirer than Richard", "label": 0}
+{"premise": "Among Daniel and Gary, the fewest is Daniel", "hypothesis": "Daniel is fewer than Gary", "label": 0}
+{"premise": "Among Steve and Richard, the most growing is Steve", "hypothesis": "Steve is more growing than Richard", "label": 0}
+{"premise": "Among Patricia and Anna, the most adorable is Patricia", "hypothesis": "Patricia is more adorable than Anna", "label": 0}
+{"premise": "Among Paul and Anne, the most admirable is Paul", "hypothesis": "Paul is more admirable than Anne", "label": 0}
+{"premise": "Among Gary and Susan, the fattest is Gary", "hypothesis": "Gary is fatter than Susan", "label": 0}
+{"premise": "Among Ann and Lucy, the most cautious is Ann", "hypothesis": "Ann is more cautious than Lucy", "label": 0}
+{"premise": "Among Judith and Henry, the most flawed is Judith", "hypothesis": "Judith is more flawed than Henry", "label": 0}
+{"premise": "Among Anne and Thomas, the most foolhardy is Anne", "hypothesis": "Anne is more foolhardy than Thomas", "label": 0}
+{"premise": "Among Albert and Joan, the most alert is Albert", "hypothesis": "Albert is more alert than Joan", "label": 0}
+{"premise": "Among Janet and Harry, the most downright is Janet", "hypothesis": "Janet is more downright than Harry", "label": 0}
+{"premise": "Among Harry and Patrick, the briefest is Harry", "hypothesis": "Harry is briefer than Patrick", "label": 0}
+{"premise": "Among Amanda and George, the most fumbling is Amanda", "hypothesis": "Amanda is more fumbling than George", "label": 0}
+{"premise": "Among Jean and Joan, the chiefest is Jean", "hypothesis": "Jean is chiefer than Joan", "label": 0}
+{"premise": "Among Charles and Kate, the most grizzled is Charles", "hypothesis": "Charles is more grizzled than Kate", "label": 0}
+{"premise": "Among Alice and Christopher, the cleanest is Alice", "hypothesis": "Alice is cleaner than Christopher", "label": 0}
+{"premise": "Among Fred and Anna, the betterest is Fred", "hypothesis": "Fred is betterer than Anna", "label": 0}
+{"premise": "Among Kathleen and Ruth, the aniest is Kathleen", "hypothesis": "Kathleen is anier than Ruth", "label": 0}
+{"premise": "Among Paul and Walter, the most distorted is Paul", "hypothesis": "Paul is more distorted than Walter", "label": 0}
+{"premise": "Among Jennifer and Frank, the most elated is Jennifer", "hypothesis": "Jennifer is more elated than Frank", "label": 0}
+{"premise": "Among Carol and Alice, the most embarrassed is Carol", "hypothesis": "Carol is more embarrassed than Alice", "label": 0}
+{"premise": "Among Walter and Betty, the clumsiest is Walter", "hypothesis": "Walter is clumsier than Betty", "label": 0}
+{"premise": "Among Michael and Fred, the most bountiful is Michael", "hypothesis": "Michael is more bountiful than Fred", "label": 0}
+{"premise": "Among Mark and Alice, the most glittering is Mark", "hypothesis": "Mark is more glittering than Alice", "label": 0}
+{"premise": "Among Daniel and Janet, the most frivolous is Daniel", "hypothesis": "Daniel is more frivolous than Janet", "label": 0}
+{"premise": "Among Amy and Ruth, the cutest is Amy", "hypothesis": "Amy is cuter than Ruth", "label": 0}
+{"premise": "Among Frederick and Sarah, the concretest is Frederick", "hypothesis": "Frederick is concreter than Sarah", "label": 0}
+{"premise": "Among Ellen and Janet, the most frightened is Ellen", "hypothesis": "Ellen is more frightened than Janet", "label": 0}
+{"premise": "Among James and Jean, the most golden is James", "hypothesis": "James is more golden than Jean", "label": 0}
+{"premise": "Among Bob and Jean, the most ethical is Bob", "hypothesis": "Bob is more ethical than Jean", "label": 0}
+{"premise": "Among Susan and Laura, the fanciest is Susan", "hypothesis": "Susan is fancier than Laura", "label": 0}
+{"premise": "Among Catherine and Dorothy, the most amusing is Catherine", "hypothesis": "Catherine is more amusing than Dorothy", "label": 0}
+{"premise": "Among Paul and Stephen, the grimmest is Paul", "hypothesis": "Paul is grimmer than Stephen", "label": 0}
+{"premise": "Among Janet and Stephen, the most critical is Janet", "hypothesis": "Janet is more critical than Stephen", "label": 0}
+{"premise": "Among Alice and Edward, the faintest is Alice", "hypothesis": "Alice is fainter than Edward", "label": 0}
+{"premise": "Among Peter and Amanda, the most fabulous is Peter", "hypothesis": "Peter is more fabulous than Amanda", "label": 0}
+{"premise": "Among Anne and Kevin, the most carefree is Anne", "hypothesis": "Anne is more carefree than Kevin", "label": 0}
+{"premise": "Among Francis and Carol, the most colorful is Francis", "hypothesis": "Francis is more colorful than Carol", "label": 0}
+{"premise": "Among Edward and Albert, the frayedest is Edward", "hypothesis": "Edward is frayeder than Albert", "label": 0}
+{"premise": "Among Frank and Frederick, the most awful is Frank", "hypothesis": "Frank is more awful than Frederick", "label": 0}
+{"premise": "Among Jack and Sarah, the most digital is Jack", "hypothesis": "Jack is more digital than Sarah", "label": 0}
+{"premise": "Among Joseph and Lisa, the most educated is Joseph", "hypothesis": "Joseph is more educated than Lisa", "label": 0}
+{"premise": "Among Jane and Tom, the grubbiest is Jane", "hypothesis": "Jane is grubbier than Tom", "label": 0}
+{"premise": "Among Christine and Thomas, the chiefest is Christine", "hypothesis": "Christine is chiefer than Thomas", "label": 0}
+{"premise": "Among Ellen and Sarah, the bronzest is Ellen", "hypothesis": "Ellen is bronzer than Sarah", "label": 0}
+{"premise": "Among Gary and Ellen, the deadliest is Gary", "hypothesis": "Gary is deadlier than Ellen", "label": 0}
+{"premise": "Among Susan and Grace, the most elaborate is Susan", "hypothesis": "Susan is more elaborate than Grace", "label": 0}
+{"premise": "Among Francis and Kate, the most assured is Francis", "hypothesis": "Francis is more assured than Kate", "label": 0}
+{"premise": "Among Mike and Anne, the most finished is Mike", "hypothesis": "Mike is more finished than Anne", "label": 0}
+{"premise": "Among Linda and Lisa, the most growling is Linda", "hypothesis": "Linda is more growling than Lisa", "label": 0}
+{"premise": "Among Amy and Jessica, the most gleaming is Amy", "hypothesis": "Amy is more gleaming than Jessica", "label": 0}
+{"premise": "Among Jessica and Scott, the densest is Jessica", "hypothesis": "Jessica is denser than Scott", "label": 0}
+{"premise": "Among Ellen and Karen, the most gigantic is Ellen", "hypothesis": "Ellen is more gigantic than Karen", "label": 0}
+{"premise": "Among Michael and Emily, the most adored is Michael", "hypothesis": "Michael is more adored than Emily", "label": 0}
+{"premise": "Among Bill and Joan, the ediblest is Bill", "hypothesis": "Bill is edibler than Joan", "label": 0}
+{"premise": "Among William and Anne, the most detailed is William", "hypothesis": "William is more detailed than Anne", "label": 0}
+{"premise": "Among Alan and Julia, the most critical is Alan", "hypothesis": "Alan is more critical than Julia", "label": 0}
+{"premise": "Among Thomas and Brian, the most expensive is Thomas", "hypothesis": "Thomas is more expensive than Brian", "label": 0}
+{"premise": "Among Susan and Martin, the most criminal is Susan", "hypothesis": "Susan is more criminal than Martin", "label": 0}
+{"premise": "Among Patrick and Emma, the most different is Patrick", "hypothesis": "Patrick is more different than Emma", "label": 0}
+{"premise": "Among Kevin and Margaret, the most dangerous is Kevin", "hypothesis": "Kevin is more dangerous than Margaret", "label": 0}
+{"premise": "Among William and Elizabeth, the grimmest is William", "hypothesis": "William is grimmer than Elizabeth", "label": 0}
+{"premise": "Among Dorothy and Donald, the most aggressive is Dorothy", "hypothesis": "Dorothy is more aggressive than Donald", "label": 0}
+{"premise": "Among Steve and Catherine, the most crowded is Steve", "hypothesis": "Steve is more crowded than Catherine", "label": 0}
+{"premise": "Among Frederick and Edward, the most excited is Frederick", "hypothesis": "Frederick is more excited than Edward", "label": 0}
+{"premise": "Among Ann and Gary, the busiest is Ann", "hypothesis": "Ann is busier than Gary", "label": 0}
+{"premise": "Among Kevin and Arthur, the most foolish is Kevin", "hypothesis": "Kevin is more foolish than Arthur", "label": 0}
+{"premise": "Among Nancy and Andrew, the most energetic is Nancy", "hypothesis": "Nancy is more energetic than Andrew", "label": 0}
+{"premise": "Among Margaret and Nancy, the most big-hearted is Margaret", "hypothesis": "Margaret is more big-hearted than Nancy", "label": 0}
+{"premise": "Among Joan and John, the most detailed is Joan", "hypothesis": "Joan is more detailed than John", "label": 0}
+{"premise": "Among Anne and Helen, the most elated is Anne", "hypothesis": "Anne is more elated than Helen", "label": 0}
+{"premise": "Among Charles and Scott, the femalest is Charles", "hypothesis": "Charles is femaler than Scott", "label": 0}
+{"premise": "Among Barbara and Anne, the most boiling is Barbara", "hypothesis": "Barbara is more boiling than Anne", "label": 0}
+{"premise": "Among Maria and Judith, the most eminent is Maria", "hypothesis": "Maria is more eminent than Judith", "label": 0}
+{"premise": "Among Rebecca and Harry, the most extroverted is Rebecca", "hypothesis": "Rebecca is more extroverted than Harry", "label": 0}
+{"premise": "Among Ann and Brian, the most definite is Ann", "hypothesis": "Ann is more definite than Brian", "label": 0}
+{"premise": "Among Kevin and Harry, the most another is Kevin", "hypothesis": "Kevin is more another than Harry", "label": 0}
+{"premise": "Among Emma and Carol, the most dishonest is Emma", "hypothesis": "Emma is more dishonest than Carol", "label": 0}
+{"premise": "Among Linda and Jack, the bleakest is Linda", "hypothesis": "Linda is bleaker than Jack", "label": 0}
+{"premise": "Among Kevin and Elizabeth, the genuinest is Kevin", "hypothesis": "Kevin is genuiner than Elizabeth", "label": 0}
+{"premise": "Among Amanda and Joan, the most automatic is Amanda", "hypothesis": "Amanda is more automatic than Joan", "label": 0}
+{"premise": "Among Francis and Bob, the most awesome is Francis", "hypothesis": "Francis is more awesome than Bob", "label": 0}
+{"premise": "Among Ruth and Anna, the most arid is Ruth", "hypothesis": "Ruth is more arid than Anna", "label": 0}
+{"premise": "Among Donald and Robert, the handsomest is Donald", "hypothesis": "Donald is handsomer than Robert", "label": 0}
+{"premise": "Among Lisa and Frances, the most forked is Lisa", "hypothesis": "Lisa is more forked than Frances", "label": 0}
+{"premise": "Among Chris and Andrew, the most clueless is Chris", "hypothesis": "Chris is more clueless than Andrew", "label": 0}
+{"premise": "Among Bob and Joseph, the draftiest is Bob", "hypothesis": "Bob is draftier than Joseph", "label": 0}
+{"premise": "Among Ruth and Martin, the most exhausted is Ruth", "hypothesis": "Ruth is more exhausted than Martin", "label": 0}
+{"premise": "Among Daniel and Anthony, the glassest is Daniel", "hypothesis": "Daniel is glasser than Anthony", "label": 0}
+{"premise": "Among Sarah and Thomas, the most dimwitted is Sarah", "hypothesis": "Sarah is more dimwitted than Thomas", "label": 0}
+{"premise": "Among Helen and William, the most anchored is Helen", "hypothesis": "Helen is more anchored than William", "label": 0}
+{"premise": "Among Andrew and Samuel, the most glittering is Andrew", "hypothesis": "Andrew is more glittering than Samuel", "label": 0}
+{"premise": "Among Chris and Arthur, the most conventional is Chris", "hypothesis": "Chris is more conventional than Arthur", "label": 0}
+{"premise": "Among Mary and Samuel, the most glorious is Mary", "hypothesis": "Mary is more glorious than Samuel", "label": 0}
+{"premise": "Among Catherine and Christopher, the most euphoric is Catherine", "hypothesis": "Catherine is more euphoric than Christopher", "label": 0}
+{"premise": "Among Mark and Grace, the most demanding is Mark", "hypothesis": "Mark is more demanding than Grace", "label": 0}
+{"premise": "Among Lucy and Katherine, the coldest is Lucy", "hypothesis": "Lucy is colder than Katherine", "label": 0}
+{"premise": "Among David and Dorothy, the most forsaken is David", "hypothesis": "David is more forsaken than Dorothy", "label": 0}
+{"premise": "Among Mary and David, the most astonishing is Mary", "hypothesis": "Mary is more astonishing than David", "label": 0}
+{"premise": "Among Frederick and Marie, the most foolhardy is Frederick", "hypothesis": "Frederick is more foolhardy than Marie", "label": 0}
+{"premise": "Among George and Samuel, the most aching is George", "hypothesis": "George is more aching than Samuel", "label": 0}
+{"premise": "Among Peter and Christopher, the closest is Peter", "hypothesis": "Peter is closer than Christopher", "label": 0}
+{"premise": "Among William and Frank, the most disastrous is William", "hypothesis": "William is more disastrous than Frank", "label": 0}
+{"premise": "Among Steve and Bill, the most elated is Steve", "hypothesis": "Steve is more elated than Bill", "label": 0}
+{"premise": "Among Eric and Joan, the most fantastic is Eric", "hypothesis": "Eric is more fantastic than Joan", "label": 0}
+{"premise": "Among Samuel and Jim, the most distinct is Samuel", "hypothesis": "Samuel is more distinct than Jim", "label": 0}
+{"premise": "Among Patrick and Kathleen, the baggiest is Patrick", "hypothesis": "Patrick is baggier than Kathleen", "label": 0}
+{"premise": "Among Charles and Lucy, the cloudiest is Charles", "hypothesis": "Charles is cloudier than Lucy", "label": 0}
+{"premise": "Among Arthur and Mark, the most admired is Arthur", "hypothesis": "Arthur is more admired than Mark", "label": 0}
+{"premise": "Among Bill and Louise, the most buzzing is Bill", "hypothesis": "Bill is more buzzing than Louise", "label": 0}
+{"premise": "Among Brian and Mike, the most adorable is Brian", "hypothesis": "Brian is more adorable than Mike", "label": 0}
+{"premise": "Among Ellen and Mary, the most colorless is Ellen", "hypothesis": "Ellen is more colorless than Mary", "label": 0}
+{"premise": "Among Albert and John, the most grounded is Albert", "hypothesis": "Albert is more grounded than John", "label": 0}
+{"premise": "Among Nancy and Patricia, the dapperest is Nancy", "hypothesis": "Nancy is dapperer than Patricia", "label": 0}
+{"premise": "Among Nancy and Michael, the most direct is Nancy", "hypothesis": "Nancy is more direct than Michael", "label": 0}
+{"premise": "Among Martin and Judith, the grumpiest is Martin", "hypothesis": "Martin is grumpier than Judith", "label": 0}
+{"premise": "Among Kevin and Samuel, the dearest is Kevin", "hypothesis": "Kevin is dearer than Samuel", "label": 0}
+{"premise": "Among Sarah and Anna, the most babyish is Sarah", "hypothesis": "Sarah is more babyish than Anna", "label": 0}
+{"premise": "Among Carol and Christopher, the craziest is Carol", "hypothesis": "Carol is crazier than Christopher", "label": 0}
+{"premise": "Among Karen and Donald, the most animated is Karen", "hypothesis": "Karen is more animated than Donald", "label": 0}
+{"premise": "Among Susan and Steve, the most determined is Susan", "hypothesis": "Susan is more determined than Steve", "label": 0}
+{"premise": "Among Margaret and Peter, the bubbliest is Margaret", "hypothesis": "Margaret is bubblier than Peter", "label": 0}
+{"premise": "Among Eric and Catherine, the most disguised is Eric", "hypothesis": "Eric is more disguised than Catherine", "label": 0}
+{"premise": "Among Eric and Paul, the most authentic is Eric", "hypothesis": "Eric is more authentic than Paul", "label": 0}
+{"premise": "Among Jack and Donald, the most frivolous is Jack", "hypothesis": "Jack is more frivolous than Donald", "label": 0}
+{"premise": "Among Michael and Rebecca, the frankest is Michael", "hypothesis": "Michael is franker than Rebecca", "label": 0}
+{"premise": "Among Emma and Albert, the eachest is Emma", "hypothesis": "Emma is eacher than Albert", "label": 0}
+{"premise": "Among Ellen and Henry, the most adorable is Ellen", "hypothesis": "Ellen is more adorable than Henry", "label": 0}
+{"premise": "Among Charles and Rebecca, the most dependent is Charles", "hypothesis": "Charles is more dependent than Rebecca", "label": 0}
+{"premise": "Among Louise and Anna, the most enchanted is Louise", "hypothesis": "Louise is more enchanted than Anna", "label": 0}
+{"premise": "Among Henry and Stephen, the most alienated is Henry", "hypothesis": "Henry is more alienated than Stephen", "label": 0}
+{"premise": "Among Patricia and Paul, the most forthright is Patricia", "hypothesis": "Patricia is more forthright than Paul", "label": 0}
+{"premise": "Among Dorothy and Peter, the giddiest is Dorothy", "hypothesis": "Dorothy is giddier than Peter", "label": 0}
+{"premise": "Among Emma and Anne, the most energetic is Emma", "hypothesis": "Emma is more energetic than Anne", "label": 0}
+{"premise": "Among Thomas and Kate, the most advanced is Thomas", "hypothesis": "Thomas is more advanced than Kate", "label": 0}
+{"premise": "Among Harry and Kate, the blankest is Harry", "hypothesis": "Harry is blanker than Kate", "label": 0}
+{"premise": "Among Francis and Stephen, the most complicated is Francis", "hypothesis": "Francis is more complicated than Stephen", "label": 0}
+{"premise": "Among Betty and James, the most flowery is Betty", "hypothesis": "Betty is more flowery than James", "label": 0}
+{"premise": "Among Julie and Judith, the fuzziest is Julie", "hypothesis": "Julie is fuzzier than Judith", "label": 0}
+{"premise": "Among Mark and Katherine, the most alarming is Mark", "hypothesis": "Mark is more alarming than Katherine", "label": 0}
+{"premise": "Among Joseph and Scott, the most demanding is Joseph", "hypothesis": "Joseph is more demanding than Scott", "label": 0}
+{"premise": "Among Scott and Samuel, the cutest is Scott", "hypothesis": "Scott is cuter than Samuel", "label": 0}
+{"premise": "Among Stephen and Dorothy, the most admirable is Stephen", "hypothesis": "Stephen is more admirable than Dorothy", "label": 0}
+{"premise": "Among Joe and Janet, the most forsaken is Joe", "hypothesis": "Joe is more forsaken than Janet", "label": 0}
+{"premise": "Among Peter and Stephen, the funniest is Peter", "hypothesis": "Peter is funnier than Stephen", "label": 0}
+{"premise": "Among Anne and Stephen, the most attached is Anne", "hypothesis": "Anne is more attached than Stephen", "label": 0}
+{"premise": "Among Frances and Stephen, the most fumbling is Frances", "hypothesis": "Frances is more fumbling than Stephen", "label": 0}
+{"premise": "Among Mary and Anthony, the most gripping is Mary", "hypothesis": "Mary is more gripping than Anthony", "label": 0}
+{"premise": "Among George and Karen, the most defenseless is George", "hypothesis": "George is more defenseless than Karen", "label": 0}
+{"premise": "Among Anne and Brian, the most admirable is Anne", "hypothesis": "Anne is more admirable than Brian", "label": 0}
+{"premise": "Among Frances and Emily, the most babyish is Frances", "hypothesis": "Frances is more babyish than Emily", "label": 0}
+{"premise": "Among Janet and Jennifer, the austerest is Janet", "hypothesis": "Janet is austerer than Jennifer", "label": 0}
+{"premise": "Among Jean and Michael, the most agonizing is Jean", "hypothesis": "Jean is more agonizing than Michael", "label": 0}
+{"premise": "Among Mark and Maria, the most flippant is Mark", "hypothesis": "Mark is more flippant than Maria", "label": 0}
+{"premise": "Among Frank and Janet, the most elementary is Frank", "hypothesis": "Frank is more elementary than Janet", "label": 0}
+{"premise": "Among Amanda and Henry, the most giving is Amanda", "hypothesis": "Amanda is more giving than Henry", "label": 0}
+{"premise": "Among Joan and Thomas, the dirtiest is Joan", "hypothesis": "Joan is dirtier than Thomas", "label": 0}
+{"premise": "Among Alan and Jim, the most adventurous is Alan", "hypothesis": "Alan is more adventurous than Jim", "label": 0}
+{"premise": "Among Susan and Ruth, the completest is Susan", "hypothesis": "Susan is completer than Ruth", "label": 0}
+{"premise": "Among Sarah and Laura, the most dazzling is Sarah", "hypothesis": "Sarah is more dazzling than Laura", "label": 0}
+{"premise": "Among Ann and Chris, the most dimpled is Ann", "hypothesis": "Ann is more dimpled than Chris", "label": 0}
+{"premise": "Among George and Mary, the most affectionate is George", "hypothesis": "George is more affectionate than Mary", "label": 0}
+{"premise": "Among Fred and Kathleen, the gulliblest is Fred", "hypothesis": "Fred is gullibler than Kathleen", "label": 0}
+{"premise": "Among Albert and Ann, the felinest is Albert", "hypothesis": "Albert is feliner than Ann", "label": 0}
+{"premise": "Among Rebecca and John, the chiefest is Rebecca", "hypothesis": "Rebecca is chiefer than John", "label": 0}
+{"premise": "Among Arthur and Jim, the most courteous is Arthur", "hypothesis": "Arthur is more courteous than Jim", "label": 0}
+{"premise": "Among Caroline and Harry, the most exhausted is Caroline", "hypothesis": "Caroline is more exhausted than Harry", "label": 0}
+{"premise": "Among Catherine and Jessica, the most colossal is Catherine", "hypothesis": "Catherine is more colossal than Jessica", "label": 0}
+{"premise": "Among Judith and Lucy, the flattest is Judith", "hypothesis": "Judith is flatter than Lucy", "label": 0}
+{"premise": "Among Ann and Linda, the most anxious is Ann", "hypothesis": "Ann is more anxious than Linda", "label": 0}
+{"premise": "Among Patrick and Joan, the most frozen is Patrick", "hypothesis": "Patrick is more frozen than Joan", "label": 0}
+{"premise": "Among Rebecca and Jim, the firmest is Rebecca", "hypothesis": "Rebecca is firmer than Jim", "label": 0}
+{"premise": "Among Amanda and Ann, the most cultivated is Amanda", "hypothesis": "Amanda is more cultivated than Ann", "label": 0}
+{"premise": "Among Frances and Carol, the most colorful is Frances", "hypothesis": "Frances is more colorful than Carol", "label": 0}
+{"premise": "Among Jack and Amy, the buoyantest is Jack", "hypothesis": "Jack is buoyanter than Amy", "label": 0}
+{"premise": "Among Richard and Richard, the ediblest is Richard", "hypothesis": "Richard is edibler than Richard", "label": 0}
+{"premise": "Among Frances and Laura, the handiest is Frances", "hypothesis": "Frances is handier than Laura", "label": 0}
+{"premise": "Among Mike and Lucy, the darkest is Mike", "hypothesis": "Mike is darker than Lucy", "label": 0}
+{"premise": "Among Gary and Joseph, the ablest is Gary", "hypothesis": "Gary is abler than Joseph", "label": 0}
+{"premise": "Among Daniel and Frederick, the most grizzled is Daniel", "hypothesis": "Daniel is more grizzled than Frederick", "label": 0}
+{"premise": "Among Jack and Jack, the most gripping is Jack", "hypothesis": "Jack is more gripping than Jack", "label": 0}
+{"premise": "Among George and Philip, the most classic is George", "hypothesis": "George is more classic than Philip", "label": 0}
+{"premise": "Among Samuel and Janet, the most enchanting is Samuel", "hypothesis": "Samuel is more enchanting than Janet", "label": 0}
+{"premise": "Among Walter and John, the most forked is Walter", "hypothesis": "Walter is more forked than John", "label": 0}
+{"premise": "Among Linda and Louise, the most aggressive is Linda", "hypothesis": "Linda is more aggressive than Louise", "label": 0}
+{"premise": "Among George and Walter, the most enchanted is George", "hypothesis": "George is more enchanted than Walter", "label": 0}
+{"premise": "Among Thomas and Edward, the best is Thomas", "hypothesis": "Thomas is better than Edward", "label": 0}
+{"premise": "Among Catherine and Martin, the amplest is Catherine", "hypothesis": "Catherine is ampler than Martin", "label": 0}
+{"premise": "Among Joe and Margaret, the most glorious is Joe", "hypothesis": "Joe is more glorious than Margaret", "label": 0}
+{"premise": "Among Christine and Barbara, the blindest is Christine", "hypothesis": "Christine is blinder than Barbara", "label": 0}
+{"premise": "Among Julie and Edward, the cleanest is Julie", "hypothesis": "Julie is cleaner than Edward", "label": 0}
+{"premise": "Among Ann and Robert, the most frightening is Ann", "hypothesis": "Ann is more frightening than Robert", "label": 0}
+{"premise": "Among Bob and Mary, the most embellished is Bob", "hypothesis": "Bob is more embellished than Mary", "label": 0}
+{"premise": "Among Steve and Kate, the discretest is Steve", "hypothesis": "Steve is discreter than Kate", "label": 0}
+{"premise": "Among Samuel and Alan, the most flippant is Samuel", "hypothesis": "Samuel is more flippant than Alan", "label": 0}
+{"premise": "Among Laura and David, the agilest is Laura", "hypothesis": "Laura is agiler than David", "label": 0}
+{"premise": "Among Julie and Emily, the curviest is Julie", "hypothesis": "Julie is curvier than Emily", "label": 0}
+{"premise": "Among Stephen and Steve, the blandest is Stephen", "hypothesis": "Stephen is blander than Steve", "label": 0}
+{"premise": "Among Gary and Thomas, the blandest is Gary", "hypothesis": "Gary is blander than Thomas", "label": 0}
+{"premise": "Among Thomas and Frances, the most fragrant is Thomas", "hypothesis": "Thomas is more fragrant than Frances", "label": 0}
+{"premise": "Among Lisa and Bob, the dapperest is Lisa", "hypothesis": "Lisa is dapperer than Bob", "label": 0}
+{"premise": "Among Robert and Scott, the most excitable is Robert", "hypothesis": "Robert is more excitable than Scott", "label": 0}
+{"premise": "Among Amanda and Julia, the dampest is Amanda", "hypothesis": "Amanda is damper than Julia", "label": 0}
+{"premise": "Among Arthur and Tony, the most adored is Arthur", "hypothesis": "Arthur is more adored than Tony", "label": 0}
+{"premise": "Among Steve and Alice, the coarsest is Steve", "hypothesis": "Steve is coarser than Alice", "label": 0}
+{"premise": "Among William and Scott, the most artistic is William", "hypothesis": "William is more artistic than Scott", "label": 0}
+{"premise": "Among Robert and Mark, the most grounded is Robert", "hypothesis": "Robert is more grounded than Mark", "label": 0}
+{"premise": "Among Helen and Julia, the betterest is Helen", "hypothesis": "Helen is betterer than Julia", "label": 0}
+{"premise": "Among Mark and Patrick, the most bogus is Mark", "hypothesis": "Mark is more bogus than Patrick", "label": 0}
+{"premise": "Among Christine and Peter, the blackest is Christine", "hypothesis": "Christine is blacker than Peter", "label": 0}
+{"premise": "Among Katherine and Linda, the most fatherly is Katherine", "hypothesis": "Katherine is more fatherly than Linda", "label": 0}
+{"premise": "Among Carol and Patrick, the most awful is Carol", "hypothesis": "Carol is more awful than Patrick", "label": 0}
+{"premise": "Among Susan and Kate, the craftiest is Susan", "hypothesis": "Susan is craftier than Kate", "label": 0}
+{"premise": "Among Albert and Paul, the most electric is Albert", "hypothesis": "Albert is more electric than Paul", "label": 0}
+{"premise": "Among Carol and Andrew, the most delirious is Carol", "hypothesis": "Carol is more delirious than Andrew", "label": 0}
+{"premise": "Among Daniel and Kate, the giddiest is Daniel", "hypothesis": "Daniel is giddier than Kate", "label": 0}
+{"premise": "Among Jennifer and Jack, the most aggravating is Jennifer", "hypothesis": "Jennifer is more aggravating than Jack", "label": 0}
+{"premise": "Among Anna and Frank, the most attentive is Anna", "hypothesis": "Anna is more attentive than Frank", "label": 0}
+{"premise": "Among Frederick and Donald, the felinest is Frederick", "hypothesis": "Frederick is feliner than Donald", "label": 0}
+{"premise": "Among Ann and Jane, the easiest is Ann", "hypothesis": "Ann is easier than Jane", "label": 0}
+{"premise": "Among Peter and Amanda, the most arid is Peter", "hypothesis": "Peter is more arid than Amanda", "label": 0}
+{"premise": "Among David and Louise, the most faraway is David", "hypothesis": "David is more faraway than Louise", "label": 0}
+{"premise": "Among Linda and Anthony, the most courteous is Linda", "hypothesis": "Linda is more courteous than Anthony", "label": 0}
+{"premise": "Among Joe and Samuel, the most gaseous is Joe", "hypothesis": "Joe is more gaseous than Samuel", "label": 0}
+{"premise": "Among Rachel and Kevin, the most grounded is Rachel", "hypothesis": "Rachel is more grounded than Kevin", "label": 0}
+{"premise": "Among Gary and Anne, the most dimwitted is Gary", "hypothesis": "Gary is more dimwitted than Anne", "label": 0}
+{"premise": "Among Katherine and Grace, the frostiest is Katherine", "hypothesis": "Katherine is frostier than Grace", "label": 0}
+{"premise": "Among Bill and Harry, the most blushing is Bill", "hypothesis": "Bill is more blushing than Harry", "label": 0}
+{"premise": "Among Julia and Alan, the coarsest is Julia", "hypothesis": "Julia is coarser than Alan", "label": 0}
+{"premise": "Among Jane and Joe, the most courageous is Jane", "hypothesis": "Jane is more courageous than Joe", "label": 0}
+{"premise": "Among Anthony and Andrew, the most advanced is Anthony", "hypothesis": "Anthony is more advanced than Andrew", "label": 0}
+{"premise": "Among Louise and Julia, the flakiest is Louise", "hypothesis": "Louise is flakier than Julia", "label": 0}
+{"premise": "Among Amy and Joan, the most adolescent is Amy", "hypothesis": "Amy is more adolescent than Joan", "label": 0}
+{"premise": "Among Emma and Jennifer, the most forceful is Emma", "hypothesis": "Emma is more forceful than Jennifer", "label": 0}
+{"premise": "Among Emily and Gary, the most darling is Emily", "hypothesis": "Emily is more darling than Gary", "label": 0}
+{"premise": "Among Andrew and Daniel, the gloomiest is Andrew", "hypothesis": "Andrew is gloomier than Daniel", "label": 0}
+{"premise": "Among Paul and Thomas, the most amused is Paul", "hypothesis": "Paul is more amused than Thomas", "label": 0}
+{"premise": "Among David and Steve, the grouchiest is David", "hypothesis": "David is grouchier than Steve", "label": 0}
+{"premise": "Among Bill and Mike, the most arctic is Bill", "hypothesis": "Bill is more arctic than Mike", "label": 0}
+{"premise": "Among Eric and James, the blankest is Eric", "hypothesis": "Eric is blanker than James", "label": 0}
+{"premise": "Among Emily and Lisa, the barest is Emily", "hypothesis": "Emily is barer than Lisa", "label": 0}
+{"premise": "Among Patrick and Steve, the easiest is Patrick", "hypothesis": "Patrick is easier than Steve", "label": 0}
+{"premise": "Among Scott and Thomas, the flimsiest is Scott", "hypothesis": "Scott is flimsier than Thomas", "label": 0}
+{"premise": "Among Nancy and Ruth, the most frivolous is Nancy", "hypothesis": "Nancy is more frivolous than Ruth", "label": 0}
+{"premise": "Among Margaret and Amanda, the most authorized is Margaret", "hypothesis": "Margaret is more authorized than Amanda", "label": 0}
+{"premise": "Among Mark and Eric, the most disastrous is Mark", "hypothesis": "Mark is more disastrous than Eric", "label": 0}
+{"premise": "Among Peter and Dorothy, the most aged is Peter", "hypothesis": "Peter is more aged than Dorothy", "label": 0}
+{"premise": "Among Frank and Alan, the most dismal is Frank", "hypothesis": "Frank is more dismal than Alan", "label": 0}
+{"premise": "Among Julia and Gary, the frankest is Julia", "hypothesis": "Julia is franker than Gary", "label": 0}
+{"premise": "Among Jim and Amy, the most barren is Jim", "hypothesis": "Jim is more barren than Amy", "label": 0}
+{"premise": "Among Amanda and Margaret, the most gleeful is Amanda", "hypothesis": "Amanda is more gleeful than Margaret", "label": 0}
+{"premise": "Among Janet and Mike, the burliest is Janet", "hypothesis": "Janet is burlier than Mike", "label": 0}
+{"premise": "Among Frederick and Caroline, the most animated is Frederick", "hypothesis": "Frederick is more animated than Caroline", "label": 0}
+{"premise": "Among Steve and Christine, the austerest is Steve", "hypothesis": "Steve is austerer than Christine", "label": 0}
+{"premise": "Among Kate and Linda, the most babyish is Kate", "hypothesis": "Kate is more babyish than Linda", "label": 0}
+{"premise": "Among Amy and Margaret, the frilliest is Amy", "hypothesis": "Amy is frillier than Margaret", "label": 0}
+{"premise": "Among Laura and Philip, the gulliblest is Laura", "hypothesis": "Laura is gullibler than Philip", "label": 0}
+{"premise": "Among Jessica and Joseph, the gulliblest is Jessica", "hypothesis": "Jessica is gullibler than Joseph", "label": 0}
+{"premise": "Among Alice and Judith, the most conventional is Alice", "hypothesis": "Alice is more conventional than Judith", "label": 0}
+{"premise": "Among Susan and Carol, the most frigid is Susan", "hypothesis": "Susan is more frigid than Carol", "label": 0}
+{"premise": "Among Christine and Patrick, the most constant is Christine", "hypothesis": "Christine is more constant than Patrick", "label": 0}
+{"premise": "Among Bill and Christopher, the most firsthand is Bill", "hypothesis": "Bill is more firsthand than Christopher", "label": 0}
+{"premise": "Among Jean and Scott, the most cooked is Jean", "hypothesis": "Jean is more cooked than Scott", "label": 0}
+{"premise": "Among Dorothy and Scott, the blackest is Dorothy", "hypothesis": "Dorothy is blacker than Scott", "label": 0}
+{"premise": "Among Bob and Emily, the most glamorous is Bob", "hypothesis": "Bob is more glamorous than Emily", "label": 0}
+{"premise": "Among John and Alice, the eachest is John", "hypothesis": "John is eacher than Alice", "label": 0}
+{"premise": "Among Carol and Nancy, the most attached is Carol", "hypothesis": "Carol is more attached than Nancy", "label": 0}
+{"premise": "Among Jennifer and Joseph, the most comfortable is Jennifer", "hypothesis": "Jennifer is more comfortable than Joseph", "label": 0}
+{"premise": "Among Lucy and Sarah, the most actual is Lucy", "hypothesis": "Lucy is more actual than Sarah", "label": 0}
+{"premise": "Among Julie and Alice, the most frightened is Julie", "hypothesis": "Julie is more frightened than Alice", "label": 0}
+{"premise": "Among Ellen and Stephen, the most automatic is Ellen", "hypothesis": "Ellen is more automatic than Stephen", "label": 0}
+{"premise": "Among Ann and Linda, the most artistic is Ann", "hypothesis": "Ann is more artistic than Linda", "label": 0}
+{"premise": "Among Stephen and Betty, the most foolhardy is Stephen", "hypothesis": "Stephen is more foolhardy than Betty", "label": 0}
+{"premise": "Among Anna and Carol, the most growing is Anna", "hypothesis": "Anna is more growing than Carol", "label": 0}
+{"premise": "Among Alice and Maria, the most famous is Alice", "hypothesis": "Alice is more famous than Maria", "label": 0}
+{"premise": "Among Albert and Steve, the fairest is Albert", "hypothesis": "Albert is fairer than Steve", "label": 0}
+{"premise": "Among Jennifer and Charles, the most elaborate is Jennifer", "hypothesis": "Jennifer is more elaborate than Charles", "label": 0}
+{"premise": "Among Anthony and Emily, the most aromatic is Anthony", "hypothesis": "Anthony is more aromatic than Emily", "label": 0}
+{"premise": "Among Ann and Mary, the most frozen is Ann", "hypothesis": "Ann is more frozen than Mary", "label": 0}
+{"premise": "Among Brian and John, the firmest is Brian", "hypothesis": "Brian is firmer than John", "label": 0}
+{"premise": "Among Dorothy and Arthur, the most cumbersome is Dorothy", "hypothesis": "Dorothy is more cumbersome than Arthur", "label": 0}
+{"premise": "Among Jim and Jessica, the frailest is Jim", "hypothesis": "Jim is frailer than Jessica", "label": 0}
+{"premise": "Among Mark and Donald, the most faraway is Mark", "hypothesis": "Mark is more faraway than Donald", "label": 0}
+{"premise": "Among Katherine and Arthur, the most abandoned is Katherine", "hypothesis": "Katherine is more abandoned than Arthur", "label": 0}
+{"premise": "Among Thomas and Arthur, the blackest is Thomas", "hypothesis": "Thomas is blacker than Arthur", "label": 0}
+{"premise": "Among James and John, the most frozen is James", "hypothesis": "James is more frozen than John", "label": 0}
+{"premise": "Among Steve and Alice, the most carefree is Steve", "hypothesis": "Steve is more carefree than Alice", "label": 0}
+{"premise": "Among Michael and Barbara, the most ambitious is Michael", "hypothesis": "Michael is more ambitious than Barbara", "label": 0}
+{"premise": "Among Peter and Jessica, the most every is Peter", "hypothesis": "Peter is more every than Jessica", "label": 0}
+{"premise": "Among Joseph and Thomas, the briefest is Joseph", "hypothesis": "Joseph is briefer than Thomas", "label": 0}
+{"premise": "Among Joan and Frederick, the most detailed is Joan", "hypothesis": "Joan is more detailed than Frederick", "label": 0}
+{"premise": "Among Katherine and Janet, the most classic is Katherine", "hypothesis": "Katherine is more classic than Janet", "label": 0}
+{"premise": "Among Kathleen and Catherine, the grouchiest is Kathleen", "hypothesis": "Kathleen is grouchier than Catherine", "label": 0}
+{"premise": "Among Amy and Sarah, the handiest is Amy", "hypothesis": "Amy is handier than Sarah", "label": 0}
+{"premise": "Among Arthur and Elizabeth, the most critical is Arthur", "hypothesis": "Arthur is more critical than Elizabeth", "label": 0}
+{"premise": "Among Robert and Sarah, the most amusing is Robert", "hypothesis": "Robert is more amusing than Sarah", "label": 0}
+{"premise": "Among Peter and Chris, the gloomiest is Peter", "hypothesis": "Peter is gloomier than Chris", "label": 0}
+{"premise": "Among Samuel and Joe, the activest is Samuel", "hypothesis": "Samuel is activer than Joe", "label": 0}
+{"premise": "Among Ann and Dorothy, the most frivolous is Ann", "hypothesis": "Ann is more frivolous than Dorothy", "label": 0}
+{"premise": "Among Donald and Maria, the most definite is Donald", "hypothesis": "Donald is more definite than Maria", "label": 0}
+{"premise": "Among Helen and Chris, the most gaseous is Helen", "hypothesis": "Helen is more gaseous than Chris", "label": 0}
+{"premise": "Among Edward and Maria, the most gracious is Edward", "hypothesis": "Edward is more gracious than Maria", "label": 0}
+{"premise": "Among Jennifer and Karen, the bleakest is Jennifer", "hypothesis": "Jennifer is bleaker than Karen", "label": 0}
+{"premise": "Among Frances and Steve, the genuinest is Frances", "hypothesis": "Frances is genuiner than Steve", "label": 0}
+{"premise": "Among Julia and Joseph, the most classic is Julia", "hypothesis": "Julia is more classic than Joseph", "label": 0}
+{"premise": "Among Jennifer and Linda, the felinest is Jennifer", "hypothesis": "Jennifer is feliner than Linda", "label": 0}
+{"premise": "Among Mark and Patrick, the busiest is Mark", "hypothesis": "Mark is busier than Patrick", "label": 0}
+{"premise": "Among Jean and Carol, the most elliptical is Jean", "hypothesis": "Jean is more elliptical than Carol", "label": 0}
+{"premise": "Among Louise and Katherine, the halfest is Louise", "hypothesis": "Louise is halfer than Katherine", "label": 0}
+{"premise": "Among Laura and Nancy, the most bustling is Laura", "hypothesis": "Laura is more bustling than Nancy", "label": 0}
+{"premise": "Among Anthony and Alan, the most crowded is Anthony", "hypothesis": "Anthony is more crowded than Alan", "label": 0}
+{"premise": "Among Laura and Daniel, the most earnest is Laura", "hypothesis": "Laura is more earnest than Daniel", "label": 0}
+{"premise": "Among George and Nancy, the bronzest is George", "hypothesis": "George is bronzer than Nancy", "label": 0}
+{"premise": "Among Nancy and Philip, the ediblest is Nancy", "hypothesis": "Nancy is edibler than Philip", "label": 0}
+{"premise": "Among Michelle and Daniel, the most demanding is Michelle", "hypothesis": "Michelle is more demanding than Daniel", "label": 0}
+{"premise": "Among Charles and Tony, the closest is Charles", "hypothesis": "Charles is closer than Tony", "label": 0}
+{"premise": "Among Amy and Steve, the most determined is Amy", "hypothesis": "Amy is more determined than Steve", "label": 0}
+{"premise": "Among Katherine and Brian, the most adolescent is Katherine", "hypothesis": "Katherine is more adolescent than Brian", "label": 0}
+{"premise": "Among Alan and Albert, the most foolhardy is Alan", "hypothesis": "Alan is more foolhardy than Albert", "label": 0}
+{"premise": "Among Martin and Judith, the most dependable is Martin", "hypothesis": "Martin is more dependable than Judith", "label": 0}
+{"premise": "Among Carol and Amy, the bronzest is Carol", "hypothesis": "Carol is bronzer than Amy", "label": 0}
+{"premise": "Among James and Mary, the most devoted is James", "hypothesis": "James is more devoted than Mary", "label": 0}
+{"premise": "Among Judith and Susan, the most amazing is Judith", "hypothesis": "Judith is more amazing than Susan", "label": 0}
+{"premise": "Among Joe and Stephen, the grumpiest is Joe", "hypothesis": "Joe is grumpier than Stephen", "label": 0}
+{"premise": "Among Betty and Jean, the most arctic is Betty", "hypothesis": "Betty is more arctic than Jean", "label": 0}
+{"premise": "Among Rebecca and Thomas, the dearest is Rebecca", "hypothesis": "Rebecca is dearer than Thomas", "label": 0}
+{"premise": "Among Walter and Anna, the boldest is Walter", "hypothesis": "Walter is bolder than Anna", "label": 0}
+{"premise": "Among Francis and Mike, the most careful is Francis", "hypothesis": "Francis is more careful than Mike", "label": 0}
+{"premise": "Among Kevin and Carol, the bounciest is Kevin", "hypothesis": "Kevin is bouncier than Carol", "label": 0}
+{"premise": "Among Helen and Elizabeth, the dryest is Helen", "hypothesis": "Helen is dryer than Elizabeth", "label": 0}
+{"premise": "Among Harry and Arthur, the clearest is Harry", "hypothesis": "Harry is clearer than Arthur", "label": 0}
+{"premise": "Among Ann and Andrew, the most dimpled is Ann", "hypothesis": "Ann is more dimpled than Andrew", "label": 0}
+{"premise": "Among Julia and Martin, the closest is Julia", "hypothesis": "Julia is closer than Martin", "label": 0}
+{"premise": "Among Elizabeth and Thomas, the most growling is Elizabeth", "hypothesis": "Elizabeth is more growling than Thomas", "label": 0}
+{"premise": "Among Frank and Kevin, the discretest is Frank", "hypothesis": "Frank is discreter than Kevin", "label": 0}
+{"premise": "Among Harry and William, the most gleaming is Harry", "hypothesis": "Harry is more gleaming than William", "label": 0}
+{"premise": "Among Edward and Albert, the most frightening is Edward", "hypothesis": "Edward is more frightening than Albert", "label": 0}
+{"premise": "Among Susan and Nancy, the bossiest is Susan", "hypothesis": "Susan is bossier than Nancy", "label": 0}
+{"premise": "Among Katherine and Marie, the grandiosest is Katherine", "hypothesis": "Katherine is grandioser than Marie", "label": 0}
+{"premise": "Among Donald and Julie, the most ecstatic is Donald", "hypothesis": "Donald is more ecstatic than Julie", "label": 0}
+{"premise": "Among Chris and Katherine, the most daring is Chris", "hypothesis": "Chris is more daring than Katherine", "label": 0}
+{"premise": "Among Richard and Caroline, the most distorted is Richard", "hypothesis": "Richard is more distorted than Caroline", "label": 0}
+{"premise": "Among Judith and Julie, the coarsest is Judith", "hypothesis": "Judith is coarser than Julie", "label": 0}
+{"premise": "Among Arthur and Daniel, the most frightening is Arthur", "hypothesis": "Arthur is more frightening than Daniel", "label": 0}
+{"premise": "Among Jim and Eric, the bossiest is Jim", "hypothesis": "Jim is bossier than Eric", "label": 0}
+{"premise": "Among Anne and Rachel, the most colossal is Anne", "hypothesis": "Anne is more colossal than Rachel", "label": 0}
+{"premise": "Among Daniel and Christopher, the most courteous is Daniel", "hypothesis": "Daniel is more courteous than Christopher", "label": 0}
+{"premise": "Among Ellen and Steve, the most disloyal is Ellen", "hypothesis": "Ellen is more disloyal than Steve", "label": 0}
+{"premise": "Among Ruth and Anthony, the most delirious is Ruth", "hypothesis": "Ruth is more delirious than Anthony", "label": 0}
+{"premise": "Among Jennifer and Alice, the most doting is Jennifer", "hypothesis": "Jennifer is more doting than Alice", "label": 0}
+{"premise": "Among Kate and Laura, the gruesomest is Kate", "hypothesis": "Kate is gruesomer than Laura", "label": 0}
+{"premise": "Among Arthur and Tom, the most alert is Arthur", "hypothesis": "Arthur is more alert than Tom", "label": 0}
+{"premise": "Among Amanda and Caroline, the frilliest is Amanda", "hypothesis": "Amanda is frillier than Caroline", "label": 0}
+{"premise": "Among Michelle and Andrew, the most adorable is Michelle", "hypothesis": "Michelle is more adorable than Andrew", "label": 0}
+{"premise": "Among Henry and David, the most expert is Henry", "hypothesis": "Henry is more expert than David", "label": 0}
+{"premise": "Among Harry and Mike, the most faraway is Harry", "hypothesis": "Harry is more faraway than Mike", "label": 0}
+{"premise": "Among Mike and Ellen, the creativest is Mike", "hypothesis": "Mike is creativer than Ellen", "label": 0}
+{"premise": "Among Anna and Fred, the genuinest is Anna", "hypothesis": "Anna is genuiner than Fred", "label": 0}
+{"premise": "Among David and Barbara, the breakablest is David", "hypothesis": "David is breakabler than Barbara", "label": 0}
+{"premise": "Among Ruth and Albert, the most calculating is Ruth", "hypothesis": "Ruth is more calculating than Albert", "label": 0}
+{"premise": "Among Jim and George, the most circular is Jim", "hypothesis": "Jim is more circular than George", "label": 0}
+{"premise": "Among Frank and Betty, the most faithful is Frank", "hypothesis": "Frank is more faithful than Betty", "label": 0}
+{"premise": "Among Maria and Mark, the most dearest is Maria", "hypothesis": "Maria is more dearest than Mark", "label": 0}
+{"premise": "Among Laura and Brian, the most defiant is Laura", "hypothesis": "Laura is more defiant than Brian", "label": 0}
+{"premise": "Among Mike and Steve, the most growing is Mike", "hypothesis": "Mike is more growing than Steve", "label": 0}
+{"premise": "Among Francis and Harry, the buoyantest is Francis", "hypothesis": "Francis is buoyanter than Harry", "label": 0}
+{"premise": "Among Maria and Michael, the most functional is Maria", "hypothesis": "Maria is more functional than Michael", "label": 0}
+{"premise": "Among Anna and Jim, the most delirious is Anna", "hypothesis": "Anna is more delirious than Jim", "label": 0}
+{"premise": "Among Carol and Bob, the breakablest is Carol", "hypothesis": "Carol is breakabler than Bob", "label": 0}
+{"premise": "Among Lucy and Patricia, the most arid is Lucy", "hypothesis": "Lucy is more arid than Patricia", "label": 0}
+{"premise": "Among Frederick and Laura, the most favorite is Frederick", "hypothesis": "Frederick is more favorite than Laura", "label": 0}
+{"premise": "Among Steve and Joseph, the most frightened is Steve", "hypothesis": "Steve is more frightened than Joseph", "label": 0}
+{"premise": "Among Caroline and Joe, the most careless is Caroline", "hypothesis": "Caroline is more careless than Joe", "label": 0}
+{"premise": "Among James and Carol, the dizziest is James", "hypothesis": "James is dizzier than Carol", "label": 0}
+{"premise": "Among Tony and Julia, the most boring is Tony", "hypothesis": "Tony is more boring than Julia", "label": 0}
+{"premise": "Among Jane and Michael, the most dazzling is Jane", "hypothesis": "Jane is more dazzling than Michael", "label": 0}
+{"premise": "Among Dorothy and Janet, the most critical is Dorothy", "hypothesis": "Dorothy is more critical than Janet", "label": 0}
+{"premise": "Among Christine and David, the most cooked is Christine", "hypothesis": "Christine is more cooked than David", "label": 0}
+{"premise": "Among Carol and Julie, the most evil is Carol", "hypothesis": "Carol is more evil than Julie", "label": 0}
+{"premise": "Among Robert and Jack, the most distorted is Robert", "hypothesis": "Robert is more distorted than Jack", "label": 0}
+{"premise": "Among Betty and Samuel, the most dependent is Betty", "hypothesis": "Betty is more dependent than Samuel", "label": 0}
+{"premise": "Among George and Katherine, the most broken is George", "hypothesis": "George is more broken than Katherine", "label": 0}
+{"premise": "Among Frederick and Michelle, the falsest is Frederick", "hypothesis": "Frederick is falser than Michelle", "label": 0}
+{"premise": "Among Stephen and Kate, the frailest is Stephen", "hypothesis": "Stephen is frailer than Kate", "label": 0}
+{"premise": "Among Jean and Julia, the ficklest is Jean", "hypothesis": "Jean is fickler than Julia", "label": 0}
+{"premise": "Among Francis and Joe, the most acrobatic is Francis", "hypothesis": "Francis is more acrobatic than Joe", "label": 0}
+{"premise": "Among David and John, the flimsiest is David", "hypothesis": "David is flimsier than John", "label": 0}
+{"premise": "Among Catherine and Peter, the dreariest is Catherine", "hypothesis": "Catherine is drearier than Peter", "label": 0}
+{"premise": "Among Bob and Chris, the grimiest is Bob", "hypothesis": "Bob is grimier than Chris", "label": 0}
+{"premise": "Among Ellen and George, the most favorite is Ellen", "hypothesis": "Ellen is more favorite than George", "label": 0}
+{"premise": "Among Patrick and Eric, the most antique is Patrick", "hypothesis": "Patrick is more antique than Eric", "label": 0}
+{"premise": "Among Francis and George, the most fumbling is Francis", "hypothesis": "Francis is more fumbling than George", "label": 0}
+{"premise": "Among Albert and Judith, the fluidest is Albert", "hypothesis": "Albert is fluider than Judith", "label": 0}
+{"premise": "Among Bob and Marie, the droopiest is Bob", "hypothesis": "Bob is droopier than Marie", "label": 0}
+{"premise": "Among Judith and Tom, the most awesome is Judith", "hypothesis": "Judith is more awesome than Tom", "label": 0}
+{"premise": "Among George and Louise, the best is George", "hypothesis": "George is better than Louise", "label": 0}
+{"premise": "Among Anthony and Frank, the most celebrated is Anthony", "hypothesis": "Anthony is more celebrated than Frank", "label": 0}
+{"premise": "Among Grace and Amy, the most arctic is Grace", "hypothesis": "Grace is more arctic than Amy", "label": 0}
+{"premise": "Among Amanda and Michelle, the most astonishing is Amanda", "hypothesis": "Amanda is more astonishing than Michelle", "label": 0}
+{"premise": "Among Albert and Daniel, the fairest is Albert", "hypothesis": "Albert is fairer than Daniel", "label": 0}
+{"premise": "Among George and Barbara, the creepiest is George", "hypothesis": "George is creepier than Barbara", "label": 0}
+{"premise": "Among James and Laura, the most enchanted is James", "hypothesis": "James is more enchanted than Laura", "label": 0}
+{"premise": "Among Walter and Caroline, the most cylindrical is Walter", "hypothesis": "Walter is more cylindrical than Caroline", "label": 0}
+{"premise": "Among Gary and Jack, the most doting is Gary", "hypothesis": "Gary is more doting than Jack", "label": 0}
+{"premise": "Among Grace and Louise, the most diligent is Grace", "hypothesis": "Grace is more diligent than Louise", "label": 0}
+{"premise": "Among Rachel and Bill, the emptiest is Rachel", "hypothesis": "Rachel is emptier than Bill", "label": 0}
+{"premise": "Among Kevin and Christopher, the most defensive is Kevin", "hypothesis": "Kevin is more defensive than Christopher", "label": 0}
+{"premise": "Among Louise and Mary, the droopiest is Louise", "hypothesis": "Louise is droopier than Mary", "label": 0}
+{"premise": "Among George and Sarah, the bestest is George", "hypothesis": "George is bester than Sarah", "label": 0}
+{"premise": "Among Alice and Joan, the most acceptable is Alice", "hypothesis": "Alice is more acceptable than Joan", "label": 0}
+{"premise": "Among Frederick and Lucy, the most everlasting is Frederick", "hypothesis": "Frederick is more everlasting than Lucy", "label": 0}
+{"premise": "Among Amy and Christine, the most distinct is Amy", "hypothesis": "Amy is more distinct than Christine", "label": 0}
+{"premise": "Among Bill and Dorothy, the most attentive is Bill", "hypothesis": "Bill is more attentive than Dorothy", "label": 0}
+{"premise": "Among Karen and Katherine, the creamiest is Karen", "hypothesis": "Karen is creamier than Katherine", "label": 0}
+{"premise": "Among Arthur and William, the most distinct is Arthur", "hypothesis": "Arthur is more distinct than William", "label": 0}
+{"premise": "Among Jennifer and Patricia, the most babyish is Jennifer", "hypothesis": "Jennifer is more babyish than Patricia", "label": 0}
+{"premise": "Among Bill and Amy, the most cavernous is Bill", "hypothesis": "Bill is more cavernous than Amy", "label": 0}
+{"premise": "Among Paul and Arthur, the most cheerful is Paul", "hypothesis": "Paul is more cheerful than Arthur", "label": 0}
+{"premise": "Among Brian and George, the most cultured is Brian", "hypothesis": "Brian is more cultured than George", "label": 0}
+{"premise": "Among Anthony and Alice, the dreariest is Anthony", "hypothesis": "Anthony is drearier than Alice", "label": 0}
+{"premise": "Among Amy and Laura, the most far-off is Amy", "hypothesis": "Amy is more far-off than Laura", "label": 0}
+{"premise": "Among Anthony and Maria, the most ancient is Anthony", "hypothesis": "Anthony is more ancient than Maria", "label": 0}
+{"premise": "Among Katherine and Arthur, the fattest is Katherine", "hypothesis": "Katherine is fatter than Arthur", "label": 0}
+{"premise": "Among Joe and Jessica, the most distorted is Joe", "hypothesis": "Joe is more distorted than Jessica", "label": 0}
+{"premise": "Among Betty and Carol, the most energetic is Betty", "hypothesis": "Betty is more energetic than Carol", "label": 0}
+{"premise": "Among Albert and Mark, the most adept is Albert", "hypothesis": "Albert is more adept than Mark", "label": 0}
+{"premise": "Among Harry and Edward, the chubbiest is Harry", "hypothesis": "Harry is chubbier than Edward", "label": 0}
+{"premise": "Among Jim and William, the most babyish is Jim", "hypothesis": "Jim is more babyish than William", "label": 0}
+{"premise": "Among Laura and Edward, the flimsiest is Laura", "hypothesis": "Laura is flimsier than Edward", "label": 0}
+{"premise": "Among Alice and Jack, the most constant is Alice", "hypothesis": "Alice is more constant than Jack", "label": 0}
+{"premise": "Among Jessica and Maria, the most frigid is Jessica", "hypothesis": "Jessica is more frigid than Maria", "label": 0}
+{"premise": "Among Ann and Gary, the most adorable is Ann", "hypothesis": "Ann is more adorable than Gary", "label": 0}
+{"premise": "Among Richard and Susan, the most frugal is Richard", "hypothesis": "Richard is more frugal than Susan", "label": 0}
+{"premise": "Among Frances and Frank, the greenest is Frances", "hypothesis": "Frances is greener than Frank", "label": 0}
+{"premise": "Among Grace and Karen, the bounciest is Grace", "hypothesis": "Grace is bouncier than Karen", "label": 0}
+{"premise": "Among Louise and Frederick, the most cooked is Louise", "hypothesis": "Louise is more cooked than Frederick", "label": 0}
+{"premise": "Among Ann and Steve, the most caring is Ann", "hypothesis": "Ann is more caring than Steve", "label": 0}
+{"premise": "Among Alice and Jessica, the faintest is Alice", "hypothesis": "Alice is fainter than Jessica", "label": 0}
+{"premise": "Among Margaret and Francis, the fullest is Margaret", "hypothesis": "Margaret is fuller than Francis", "label": 0}
+{"premise": "Among Ruth and Brian, the ficklest is Ruth", "hypothesis": "Ruth is fickler than Brian", "label": 0}
+{"premise": "Among Michael and Arthur, the most flawless is Michael", "hypothesis": "Michael is more flawless than Arthur", "label": 0}
+{"premise": "Among Jim and Julie, the most detailed is Jim", "hypothesis": "Jim is more detailed than Julie", "label": 0}
+{"premise": "Among Fred and Jennifer, the frankest is Fred", "hypothesis": "Fred is franker than Jennifer", "label": 0}
+{"premise": "Among Arthur and Peter, the most crooked is Arthur", "hypothesis": "Arthur is more crooked than Peter", "label": 0}
+{"premise": "Among Bob and Anne, the most accurate is Bob", "hypothesis": "Bob is more accurate than Anne", "label": 0}
+{"premise": "Among Alan and Tony, the bothest is Alan", "hypothesis": "Alan is bother than Tony", "label": 0}
+{"premise": "Among William and Mike, the most delayed is William", "hypothesis": "William is more delayed than Mike", "label": 0}
+{"premise": "Among Charles and Steve, the dreariest is Charles", "hypothesis": "Charles is drearier than Steve", "label": 0}
+{"premise": "Among Kate and Philip, the most functional is Kate", "hypothesis": "Kate is more functional than Philip", "label": 0}
+{"premise": "Among Joe and James, the most extroverted is Joe", "hypothesis": "Joe is more extroverted than James", "label": 0}
+{"premise": "Among James and Emily, the dreariest is James", "hypothesis": "James is drearier than Emily", "label": 0}
+{"premise": "Among Betty and James, the most acceptable is Betty", "hypothesis": "Betty is more acceptable than James", "label": 0}
+{"premise": "Among Christine and Catherine, the greatest is Christine", "hypothesis": "Christine is greater than Catherine", "label": 0}
+{"premise": "Among Katherine and Samuel, the frilliest is Katherine", "hypothesis": "Katherine is frillier than Samuel", "label": 0}
+{"premise": "Among Robert and Harry, the most composed is Robert", "hypothesis": "Robert is more composed than Harry", "label": 0}
+{"premise": "Among Kathleen and Mike, the most critical is Kathleen", "hypothesis": "Kathleen is more critical than Mike", "label": 0}
+{"premise": "Among Henry and Bob, the barest is Henry", "hypothesis": "Henry is barer than Bob", "label": 0}
+{"premise": "Among Rebecca and Joan, the most attentive is Rebecca", "hypothesis": "Rebecca is more attentive than Joan", "label": 0}
+{"premise": "Among Susan and Richard, the most fatal is Susan", "hypothesis": "Susan is more fatal than Richard", "label": 0}
+{"premise": "Among Barbara and Walter, the most forceful is Barbara", "hypothesis": "Barbara is more forceful than Walter", "label": 0}
+{"premise": "Among Jack and Frances, the most beneficial is Jack", "hypothesis": "Jack is more beneficial than Frances", "label": 0}
+{"premise": "Among Alan and Martin, the cheapest is Alan", "hypothesis": "Alan is cheaper than Martin", "label": 0}
+{"premise": "Among Jim and Michael, the clumsiest is Jim", "hypothesis": "Jim is clumsier than Michael", "label": 0}
+{"premise": "Among Paul and Charles, the costliest is Paul", "hypothesis": "Paul is costlier than Charles", "label": 0}
+{"premise": "Among Brian and Catherine, the most closed is Brian", "hypothesis": "Brian is more closed than Catherine", "label": 0}
+{"premise": "Among Emily and Henry, the most extroverted is Emily", "hypothesis": "Emily is more extroverted than Henry", "label": 0}
+{"premise": "Among William and Richard, the worst is William", "hypothesis": "William is worse than Richard", "label": 0}
+{"premise": "Among Anthony and Martin, the creepiest is Anthony", "hypothesis": "Anthony is creepier than Martin", "label": 0}
+{"premise": "Among Betty and Frederick, the most gleaming is Betty", "hypothesis": "Betty is more gleaming than Frederick", "label": 0}
+{"premise": "Among Scott and Mark, the most average is Scott", "hypothesis": "Scott is more average than Mark", "label": 0}
+{"premise": "Among Patricia and Joe, the most favorable is Patricia", "hypothesis": "Patricia is more favorable than Joe", "label": 0}
+{"premise": "Among Eric and Jim, the droopiest is Eric", "hypothesis": "Eric is droopier than Jim", "label": 0}
+{"premise": "Among Anna and Michael, the most fatal is Anna", "hypothesis": "Anna is more fatal than Michael", "label": 0}
+{"premise": "Among Caroline and Helen, the chilliest is Caroline", "hypothesis": "Caroline is chillier than Helen", "label": 0}
+{"premise": "Among Julia and Marie, the most educated is Julia", "hypothesis": "Julia is more educated than Marie", "label": 0}
+{"premise": "Among Karen and Albert, the most celebrated is Karen", "hypothesis": "Karen is more celebrated than Albert", "label": 0}
+{"premise": "Among Barbara and David, the most dazzling is Barbara", "hypothesis": "Barbara is more dazzling than David", "label": 0}
+{"premise": "Among Amy and Mark, the bleakest is Amy", "hypothesis": "Amy is bleaker than Mark", "label": 0}
+{"premise": "Among Michael and Kevin, the most alert is Michael", "hypothesis": "Michael is more alert than Kevin", "label": 0}
+{"premise": "Among Tony and James, the most black-and-white is Tony", "hypothesis": "Tony is more black-and-white than James", "label": 0}
+{"premise": "Among Caroline and Anthony, the most alert is Caroline", "hypothesis": "Caroline is more alert than Anthony", "label": 0}
+{"premise": "Among Barbara and Frank, the most energetic is Barbara", "hypothesis": "Barbara is more energetic than Frank", "label": 0}
+{"premise": "Among Rachel and Alice, the handsomest is Rachel", "hypothesis": "Rachel is handsomer than Alice", "label": 0}
+{"premise": "Among Walter and Susan, the most amused is Walter", "hypothesis": "Walter is more amused than Susan", "label": 0}
+{"premise": "Among Tom and Stephen, the most gregarious is Tom", "hypothesis": "Tom is more gregarious than Stephen", "label": 0}
+{"premise": "Among Betty and Mark, the cruelest is Betty", "hypothesis": "Betty is crueler than Mark", "label": 0}
+{"premise": "Among Jack and Jim, the most happy-go-lucky is Jack", "hypothesis": "Jack is more happy-go-lucky than Jim", "label": 0}
+{"premise": "Among John and Ruth, the most bountiful is John", "hypothesis": "John is more bountiful than Ruth", "label": 0}
+{"premise": "Among Frances and Samuel, the most basic is Frances", "hypothesis": "Frances is more basic than Samuel", "label": 0}
+{"premise": "Among Amy and Fred, the deadest is Amy", "hypothesis": "Amy is deader than Fred", "label": 0}
+{"premise": "Among Jennifer and Jennifer, the most glittering is Jennifer", "hypothesis": "Jennifer is more glittering than Jennifer", "label": 0}
+{"premise": "Among Elizabeth and John, the most agonizing is Elizabeth", "hypothesis": "Elizabeth is more agonizing than John", "label": 0}
+{"premise": "Among Donald and Steve, the most astonishing is Donald", "hypothesis": "Donald is more astonishing than Steve", "label": 0}
+{"premise": "Among Caroline and Maria, the most granular is Caroline", "hypothesis": "Caroline is more granular than Maria", "label": 0}
+{"premise": "Among Ruth and Sarah, the deadliest is Ruth", "hypothesis": "Ruth is deadlier than Sarah", "label": 0}
+{"premise": "Among Alan and David, the most glamorous is Alan", "hypothesis": "Alan is more glamorous than David", "label": 0}
+{"premise": "Among David and Mike, the most glorious is David", "hypothesis": "David is more glorious than Mike", "label": 0}
+{"premise": "Among Ruth and Amanda, the most equal is Ruth", "hypothesis": "Ruth is more equal than Amanda", "label": 0}
+{"premise": "Among Joseph and Elizabeth, the most detailed is Joseph", "hypothesis": "Joseph is more detailed than Elizabeth", "label": 0}
+{"premise": "Among Karen and Samuel, the most far-flung is Karen", "hypothesis": "Karen is more far-flung than Samuel", "label": 0}
+{"premise": "Among Sarah and Albert, the blackest is Sarah", "hypothesis": "Sarah is blacker than Albert", "label": 0}
+{"premise": "Among Steve and Philip, the most detailed is Steve", "hypothesis": "Steve is more detailed than Philip", "label": 0}
+{"premise": "Among Ann and Brian, the most downright is Ann", "hypothesis": "Ann is more downright than Brian", "label": 0}
+{"premise": "Among Fred and Louise, the most astonishing is Fred", "hypothesis": "Fred is more astonishing than Louise", "label": 0}
+{"premise": "Among Jack and Patrick, the most anchored is Jack", "hypothesis": "Jack is more anchored than Patrick", "label": 0}
+{"premise": "Among Julia and David, the cheapest is Julia", "hypothesis": "Julia is cheaper than David", "label": 0}
+{"premise": "Among Brian and Lisa, the most difficult is Brian", "hypothesis": "Brian is more difficult than Lisa", "label": 0}
+{"premise": "Among Jessica and Catherine, the most distant is Jessica", "hypothesis": "Jessica is more distant than Catherine", "label": 0}
+{"premise": "Among Thomas and Sarah, the bronzest is Thomas", "hypothesis": "Thomas is bronzer than Sarah", "label": 0}
+{"premise": "Among Paul and Laura, the curliest is Paul", "hypothesis": "Paul is curlier than Laura", "label": 0}
+{"premise": "Among Lisa and Francis, the most adorable is Lisa", "hypothesis": "Lisa is more adorable than Francis", "label": 0}
+{"premise": "Among Frank and Rebecca, the most flickering is Frank", "hypothesis": "Frank is more flickering than Rebecca", "label": 0}
+{"premise": "Among Tom and Paul, the most distant is Tom", "hypothesis": "Tom is more distant than Paul", "label": 0}
+{"premise": "Among Catherine and Richard, the most admirable is Catherine", "hypothesis": "Catherine is more admirable than Richard", "label": 0}
+{"premise": "Among Fred and Michelle, the most actual is Fred", "hypothesis": "Fred is more actual than Michelle", "label": 0}
+{"premise": "Among Rebecca and Emma, the blandest is Rebecca", "hypothesis": "Rebecca is blander than Emma", "label": 0}
+{"premise": "Among John and Fred, the most frightened is John", "hypothesis": "John is more frightened than Fred", "label": 0}
+{"premise": "Among Catherine and Rebecca, the giddiest is Catherine", "hypothesis": "Catherine is giddier than Rebecca", "label": 0}
+{"premise": "Among Lisa and Walter, the frilliest is Lisa", "hypothesis": "Lisa is frillier than Walter", "label": 0}
+{"premise": "Among Donald and Robert, the buoyantest is Donald", "hypothesis": "Donald is buoyanter than Robert", "label": 0}
+{"premise": "Among Catherine and Alice, the most critical is Catherine", "hypothesis": "Catherine is more critical than Alice", "label": 0}
+{"premise": "Among Amanda and Richard, the most distant is Amanda", "hypothesis": "Amanda is more distant than Richard", "label": 0}
+{"premise": "Among Richard and Peter, the most buzzing is Richard", "hypothesis": "Richard is more buzzing than Peter", "label": 0}
+{"premise": "Among Steve and Michelle, the aptest is Steve", "hypothesis": "Steve is apter than Michelle", "label": 0}
+{"premise": "Among William and Anna, the most distant is William", "hypothesis": "William is more distant than Anna", "label": 0}
+{"premise": "Among Susan and Amy, the most disastrous is Susan", "hypothesis": "Susan is more disastrous than Amy", "label": 0}
+{"premise": "Among Eric and Philip, the most energetic is Eric", "hypothesis": "Eric is more energetic than Philip", "label": 0}
+{"premise": "Among Mary and Linda, the most critical is Mary", "hypothesis": "Mary is more critical than Linda", "label": 0}
+{"premise": "Among Harry and Mary, the most delirious is Harry", "hypothesis": "Harry is more delirious than Mary", "label": 0}
+{"premise": "Among Fred and Jean, the most accomplished is Fred", "hypothesis": "Fred is more accomplished than Jean", "label": 0}
+{"premise": "Among Ellen and Frank, the genuinest is Ellen", "hypothesis": "Ellen is genuiner than Frank", "label": 0}
+{"premise": "Among Elizabeth and Thomas, the most descriptive is Elizabeth", "hypothesis": "Elizabeth is more descriptive than Thomas", "label": 0}
+{"premise": "Among Frederick and William, the draftiest is Frederick", "hypothesis": "Frederick is draftier than William", "label": 0}
+{"premise": "Among Barbara and Janet, the most alarming is Barbara", "hypothesis": "Barbara is more alarming than Janet", "label": 0}
+{"premise": "Among Richard and Kate, the most boring is Richard", "hypothesis": "Richard is more boring than Kate", "label": 0}
+{"premise": "Among Joe and Michelle, the most glistening is Joe", "hypothesis": "Joe is more glistening than Michelle", "label": 0}
+{"premise": "Among Walter and Anthony, the blindest is Walter", "hypothesis": "Walter is blinder than Anthony", "label": 0}
+{"premise": "Among Stephen and Daniel, the most frigid is Stephen", "hypothesis": "Stephen is more frigid than Daniel", "label": 0}
+{"premise": "Among Edward and Nancy, the most defiant is Edward", "hypothesis": "Edward is more defiant than Nancy", "label": 0}
+{"premise": "Among Philip and Margaret, the most apprehensive is Philip", "hypothesis": "Philip is more apprehensive than Margaret", "label": 0}
+{"premise": "Among Alice and Alice, the ediblest is Alice", "hypothesis": "Alice is edibler than Alice", "label": 0}
+{"premise": "Among Andrew and Daniel, the most accurate is Andrew", "hypothesis": "Andrew is more accurate than Daniel", "label": 0}
+{"premise": "Among Linda and Donald, the most dependable is Linda", "hypothesis": "Linda is more dependable than Donald", "label": 0}
+{"premise": "Among Joseph and Jennifer, the most athletic is Joseph", "hypothesis": "Joseph is more athletic than Jennifer", "label": 0}
+{"premise": "Among Stephen and David, the clearest is Stephen", "hypothesis": "Stephen is clearer than David", "label": 0}
+{"premise": "Among Frances and Betty, the most careful is Frances", "hypothesis": "Frances is more careful than Betty", "label": 0}
+{"premise": "Among Linda and David, the most foolish is Linda", "hypothesis": "Linda is more foolish than David", "label": 0}
+{"premise": "Among Philip and Amy, the most criminal is Philip", "hypothesis": "Philip is more criminal than Amy", "label": 0}
+{"premise": "Among Patricia and Dorothy, the most downright is Patricia", "hypothesis": "Patricia is more downright than Dorothy", "label": 0}
+{"premise": "Among Brian and Kathleen, the most compassionate is Brian", "hypothesis": "Brian is more compassionate than Kathleen", "label": 0}
+{"premise": "Among Mike and Linda, the most conscious is Mike", "hypothesis": "Mike is more conscious than Linda", "label": 0}
+{"premise": "Among Edward and Patricia, the most downright is Edward", "hypothesis": "Edward is more downright than Patricia", "label": 0}
+{"premise": "Among Sarah and Tony, the most carefree is Sarah", "hypothesis": "Sarah is more carefree than Tony", "label": 0}
+{"premise": "Among Janet and Carol, the most gracious is Janet", "hypothesis": "Janet is more gracious than Carol", "label": 0}
+{"premise": "Among Donald and Frances, the most doting is Donald", "hypothesis": "Donald is more doting than Frances", "label": 0}
+{"premise": "Among Patricia and Bob, the most adorable is Patricia", "hypothesis": "Patricia is more adorable than Bob", "label": 0}
+{"premise": "Among Rebecca and James, the most avaricious is Rebecca", "hypothesis": "Rebecca is more avaricious than James", "label": 0}
+{"premise": "Among Kate and Lisa, the fairest is Kate", "hypothesis": "Kate is fairer than Lisa", "label": 0}
+{"premise": "Among Jack and Louise, the most buzzing is Jack", "hypothesis": "Jack is more buzzing than Louise", "label": 0}
+{"premise": "Among Julie and Joe, the most colorless is Julie", "hypothesis": "Julie is more colorless than Joe", "label": 0}
+{"premise": "Among Lucy and Chris, the most distant is Lucy", "hypothesis": "Lucy is more distant than Chris", "label": 0}
+{"premise": "Among Peter and Arthur, the awarest is Peter", "hypothesis": "Peter is awarer than Arthur", "label": 0}
+{"premise": "Among Steve and Gary, the grumpiest is Steve", "hypothesis": "Steve is grumpier than Gary", "label": 0}
+{"premise": "Among Ellen and Richard, the most fatherly is Ellen", "hypothesis": "Ellen is more fatherly than Richard", "label": 0}
+{"premise": "Among Julie and Marie, the most even is Julie", "hypothesis": "Julie is more even than Marie", "label": 0}
+{"premise": "Among Jean and Jessica, the gulliblest is Jean", "hypothesis": "Jean is gullibler than Jessica", "label": 0}
+{"premise": "Among Dorothy and Michelle, the felinest is Dorothy", "hypothesis": "Dorothy is feliner than Michelle", "label": 0}
+{"premise": "Among Helen and Emily, the most automatic is Helen", "hypothesis": "Helen is more automatic than Emily", "label": 0}
+{"premise": "Among Mary and Jack, the most elaborate is Mary", "hypothesis": "Mary is more elaborate than Jack", "label": 0}
+{"premise": "Among Mark and Janet, the most aged is Mark", "hypothesis": "Mark is more aged than Janet", "label": 0}
+{"premise": "Among Tony and Stephen, the most delicious is Tony", "hypothesis": "Tony is more delicious than Stephen", "label": 0}
+{"premise": "Among Louise and Albert, the most frightening is Louise", "hypothesis": "Louise is more frightening than Albert", "label": 0}
+{"premise": "Among Paul and Mike, the most colorless is Paul", "hypothesis": "Paul is more colorless than Mike", "label": 0}
+{"premise": "Among William and Lisa, the most damaged is William", "hypothesis": "William is more damaged than Lisa", "label": 0}
+{"premise": "Among Jim and Stephen, the most fumbling is Jim", "hypothesis": "Jim is more fumbling than Stephen", "label": 0}
+{"premise": "Among Marie and Jane, the most flippant is Marie", "hypothesis": "Marie is more flippant than Jane", "label": 0}
+{"premise": "Among Marie and Joan, the breakablest is Marie", "hypothesis": "Marie is breakabler than Joan", "label": 0}
+{"premise": "Among David and Alice, the most confused is David", "hypothesis": "David is more confused than Alice", "label": 0}
+{"premise": "Among Paul and Laura, the most coordinated is Paul", "hypothesis": "Paul is more coordinated than Laura", "label": 0}
+{"premise": "Among Ellen and Nancy, the most adored is Ellen", "hypothesis": "Ellen is more adored than Nancy", "label": 0}
+{"premise": "Among Anne and Richard, the most defiant is Anne", "hypothesis": "Anne is more defiant than Richard", "label": 0}
+{"premise": "Among Jane and Ruth, the giddiest is Jane", "hypothesis": "Jane is giddier than Ruth", "label": 0}
+{"premise": "Among Frank and David, the grubbiest is Frank", "hypothesis": "Frank is grubbier than David", "label": 0}
+{"premise": "Among Mike and Rebecca, the most demanding is Mike", "hypothesis": "Mike is more demanding than Rebecca", "label": 0}
+{"premise": "Among Jennifer and Alice, the feistiest is Jennifer", "hypothesis": "Jennifer is feistier than Alice", "label": 0}
+{"premise": "Among Donald and Elizabeth, the most content is Donald", "hypothesis": "Donald is more content than Elizabeth", "label": 0}
+{"premise": "Among John and Amanda, the most concerned is John", "hypothesis": "John is more concerned than Amanda", "label": 0}
+{"premise": "Among Jim and Nancy, the most grounded is Jim", "hypothesis": "Jim is more grounded than Nancy", "label": 0}
+{"premise": "Among Joseph and Philip, the most fearful is Joseph", "hypothesis": "Joseph is more fearful than Philip", "label": 0}
+{"premise": "Among Andrew and Mary, the most another is Andrew", "hypothesis": "Andrew is more another than Mary", "label": 0}
+{"premise": "Among Anna and Thomas, the most distant is Anna", "hypothesis": "Anna is more distant than Thomas", "label": 0}
+{"premise": "Among Nancy and Helen, the most dangerous is Nancy", "hypothesis": "Nancy is more dangerous than Helen", "label": 0}
+{"premise": "Among Bill and John, the most crushing is Bill", "hypothesis": "Bill is more crushing than John", "label": 0}
+{"premise": "Among Bill and Nancy, the most disfigured is Bill", "hypothesis": "Bill is more disfigured than Nancy", "label": 0}
+{"premise": "Among Julia and Mary, the blandest is Julia", "hypothesis": "Julia is blander than Mary", "label": 0}
+{"premise": "Among Francis and Michael, the most awesome is Francis", "hypothesis": "Francis is more awesome than Michael", "label": 0}
+{"premise": "Among Michael and Ann, the most enormous is Michael", "hypothesis": "Michael is more enormous than Ann", "label": 0}
+{"premise": "Among Nancy and Karen, the handiest is Nancy", "hypothesis": "Nancy is handier than Karen", "label": 0}
+{"premise": "Among Jim and Amanda, the most content is Jim", "hypothesis": "Jim is more content than Amanda", "label": 0}
+{"premise": "Among Frederick and Jim, the most acidic is Frederick", "hypothesis": "Frederick is more acidic than Jim", "label": 0}
+{"premise": "Among Betty and Christine, the most animated is Betty", "hypothesis": "Betty is more animated than Christine", "label": 0}
+{"premise": "Among Nancy and Linda, the bubbliest is Nancy", "hypothesis": "Nancy is bubblier than Linda", "label": 0}
+{"premise": "Among Henry and Ruth, the dopeiest is Henry", "hypothesis": "Henry is dopeier than Ruth", "label": 0}
+{"premise": "Among Francis and Amy, the most educated is Francis", "hypothesis": "Francis is more educated than Amy", "label": 0}
+{"premise": "Among Louise and Gary, the handiest is Louise", "hypothesis": "Louise is handier than Gary", "label": 0}
+{"premise": "Among Thomas and Susan, the breakablest is Thomas", "hypothesis": "Thomas is breakabler than Susan", "label": 0}
+{"premise": "Among Frances and Thomas, the most competent is Frances", "hypothesis": "Frances is more competent than Thomas", "label": 0}
+{"premise": "Among Patrick and George, the drabbest is Patrick", "hypothesis": "Patrick is drabber than George", "label": 0}
+{"premise": "Among Peter and Emma, the most functional is Peter", "hypothesis": "Peter is more functional than Emma", "label": 0}
+{"premise": "Among Kate and James, the most complicated is Kate", "hypothesis": "Kate is more complicated than James", "label": 0}
+{"premise": "Among Andrew and Samuel, the most fatherly is Andrew", "hypothesis": "Andrew is more fatherly than Samuel", "label": 0}
+{"premise": "Among Charles and Emily, the most formal is Charles", "hypothesis": "Charles is more formal than Emily", "label": 0}
+{"premise": "Among William and Betty, the most arctic is William", "hypothesis": "William is more arctic than Betty", "label": 0}
+{"premise": "Among Kate and Marie, the most grotesque is Kate", "hypothesis": "Kate is more grotesque than Marie", "label": 0}
+{"premise": "Among Mike and Catherine, the genuinest is Mike", "hypothesis": "Mike is genuiner than Catherine", "label": 0}
+{"premise": "Among Martin and Frederick, the most fantastic is Martin", "hypothesis": "Martin is more fantastic than Frederick", "label": 0}
+{"premise": "Among Michael and Anna, the most basic is Michael", "hypothesis": "Michael is more basic than Anna", "label": 0}
+{"premise": "Among Brian and William, the most darling is Brian", "hypothesis": "Brian is more darling than William", "label": 0}
+{"premise": "Among Charles and James, the most deserted is Charles", "hypothesis": "Charles is more deserted than James", "label": 0}
+{"premise": "Among Christopher and Patricia, the darkest is Christopher", "hypothesis": "Christopher is darker than Patricia", "label": 0}
+{"premise": "Among Samuel and Anna, the handiest is Samuel", "hypothesis": "Samuel is handier than Anna", "label": 0}
+{"premise": "Among Paul and Christine, the farthest is Paul", "hypothesis": "Paul is further than Christine", "label": 0}
+{"premise": "Among Christopher and Daniel, the most cautious is Christopher", "hypothesis": "Christopher is more cautious than Daniel", "label": 0}
+{"premise": "Among Michelle and Laura, the most frightened is Michelle", "hypothesis": "Michelle is more frightened than Laura", "label": 0}
+{"premise": "Among Donald and George, the gloomiest is Donald", "hypothesis": "Donald is gloomier than George", "label": 0}
+{"premise": "Among Nancy and Linda, the creamiest is Nancy", "hypothesis": "Nancy is creamier than Linda", "label": 0}
+{"premise": "Among Katherine and Lisa, the most failing is Katherine", "hypothesis": "Katherine is more failing than Lisa", "label": 0}
+{"premise": "Among Marie and Joan, the most comfortable is Marie", "hypothesis": "Marie is more comfortable than Joan", "label": 0}
+{"premise": "Among Jane and Albert, the craftiest is Jane", "hypothesis": "Jane is craftier than Albert", "label": 0}
+{"premise": "Among Michael and Jean, the most bewitched is Michael", "hypothesis": "Michael is more bewitched than Jean", "label": 0}
+{"premise": "Among Edward and Richard, the grandest is Edward", "hypothesis": "Edward is grander than Richard", "label": 0}
+{"premise": "Among Maria and Ruth, the most flowery is Maria", "hypothesis": "Maria is more flowery than Ruth", "label": 0}
+{"premise": "Among Barbara and Mary, the most accurate is Barbara", "hypothesis": "Barbara is more accurate than Mary", "label": 0}
+{"premise": "Among Kathleen and Joe, the creepiest is Kathleen", "hypothesis": "Kathleen is creepier than Joe", "label": 0}
+{"premise": "Among Maria and Samuel, the most evil is Maria", "hypothesis": "Maria is more evil than Samuel", "label": 0}
+{"premise": "Among Helen and Ann, the most careful is Helen", "hypothesis": "Helen is more careful than Ann", "label": 0}
+{"premise": "Among Mike and Patricia, the most astonishing is Mike", "hypothesis": "Mike is more astonishing than Patricia", "label": 0}
+{"premise": "Among Stephen and Catherine, the most far-flung is Stephen", "hypothesis": "Stephen is more far-flung than Catherine", "label": 0}
+{"premise": "Among Samuel and Lisa, the most conscious is Samuel", "hypothesis": "Samuel is more conscious than Lisa", "label": 0}
+{"premise": "Among Kathleen and David, the most emotional is Kathleen", "hypothesis": "Kathleen is more emotional than David", "label": 0}
+{"premise": "Among Ruth and Dorothy, the most giant is Ruth", "hypothesis": "Ruth is more giant than Dorothy", "label": 0}
+{"premise": "Among John and Grace, the most awkward is John", "hypothesis": "John is more awkward than Grace", "label": 0}
+{"premise": "Among Margaret and Henry, the agilest is Margaret", "hypothesis": "Margaret is agiler than Henry", "label": 0}
+{"premise": "Among Scott and James, the most flawed is Scott", "hypothesis": "Scott is more flawed than James", "label": 0}
+{"premise": "Among Linda and Brian, the most enchanting is Linda", "hypothesis": "Linda is more enchanting than Brian", "label": 0}
+{"premise": "Among Elizabeth and Scott, the most exciting is Elizabeth", "hypothesis": "Elizabeth is more exciting than Scott", "label": 0}
+{"premise": "Among Amanda and Albert, the frizziest is Amanda", "hypothesis": "Amanda is frizzier than Albert", "label": 0}
+{"premise": "Among Margaret and Joseph, the most complicated is Margaret", "hypothesis": "Margaret is more complicated than Joseph", "label": 0}
+{"premise": "Among Kathleen and Michael, the most bewitched is Kathleen", "hypothesis": "Kathleen is more bewitched than Michael", "label": 0}
+{"premise": "Among Jim and Thomas, the most electric is Jim", "hypothesis": "Jim is more electric than Thomas", "label": 0}
+{"premise": "Among Amanda and David, the gulliblest is Amanda", "hypothesis": "Amanda is gullibler than David", "label": 0}
+{"premise": "Among Linda and Rebecca, the dimmest is Linda", "hypothesis": "Linda is dimmer than Rebecca", "label": 0}
+{"premise": "Among Julie and Alan, the most acrobatic is Julie", "hypothesis": "Julie is more acrobatic than Alan", "label": 0}
+{"premise": "Among Frances and Judith, the most flawed is Frances", "hypothesis": "Frances is more flawed than Judith", "label": 0}
+{"premise": "Among Edward and Dorothy, the most elderly is Edward", "hypothesis": "Edward is more elderly than Dorothy", "label": 0}
+{"premise": "Among Dorothy and Walter, the hairiest is Dorothy", "hypothesis": "Dorothy is hairier than Walter", "label": 0}
+{"premise": "Among Philip and Eric, the most defenseless is Philip", "hypothesis": "Philip is more defenseless than Eric", "label": 0}
+{"premise": "Among Amy and Amy, the greediest is Amy", "hypothesis": "Amy is greedier than Amy", "label": 0}
+{"premise": "Among Linda and Catherine, the most accomplished is Linda", "hypothesis": "Linda is more accomplished than Catherine", "label": 0}
+{"premise": "Among Brian and Paul, the gentlest is Brian", "hypothesis": "Brian is gentler than Paul", "label": 0}
+{"premise": "Among Karen and Gary, the aptest is Karen", "hypothesis": "Karen is apter than Gary", "label": 0}
+{"premise": "Among Henry and Laura, the most extraneous is Henry", "hypothesis": "Henry is more extraneous than Laura", "label": 0}
+{"premise": "Among Martin and James, the deadliest is Martin", "hypothesis": "Martin is deadlier than James", "label": 0}
+{"premise": "Among Richard and Emma, the genuinest is Richard", "hypothesis": "Richard is genuiner than Emma", "label": 0}
+{"premise": "Among Ellen and Janet, the most bountiful is Ellen", "hypothesis": "Ellen is more bountiful than Janet", "label": 0}
+{"premise": "Among Francis and Brian, the most black-and-white is Francis", "hypothesis": "Francis is more black-and-white than Brian", "label": 0}
+{"premise": "Among Karen and Joan, the most gigantic is Karen", "hypothesis": "Karen is more gigantic than Joan", "label": 0}
+{"premise": "Among Linda and Alan, the most blissful is Linda", "hypothesis": "Linda is more blissful than Alan", "label": 0}
+{"premise": "Among Amy and Joan, the most adept is Amy", "hypothesis": "Amy is more adept than Joan", "label": 0}
+{"premise": "Among Anne and Laura, the most animated is Anne", "hypothesis": "Anne is more animated than Laura", "label": 0}
+{"premise": "Among Walter and Amy, the most elderly is Walter", "hypothesis": "Walter is more elderly than Amy", "label": 0}
+{"premise": "Among Scott and Joe, the firmest is Scott", "hypothesis": "Scott is firmer than Joe", "label": 0}
+{"premise": "Among Mary and Caroline, the grandest is Mary", "hypothesis": "Mary is grander than Caroline", "label": 0}
+{"premise": "Among Nancy and Frederick, the most admired is Nancy", "hypothesis": "Nancy is more admired than Frederick", "label": 0}
+{"premise": "Among Frederick and Betty, the chilliest is Frederick", "hypothesis": "Frederick is chillier than Betty", "label": 0}
+{"premise": "Among Michelle and Marie, the most dismal is Michelle", "hypothesis": "Michelle is more dismal than Marie", "label": 0}
+{"premise": "Among Emma and David, the happiest is Emma", "hypothesis": "Emma is happier than David", "label": 0}
+{"premise": "Among Mark and Michael, the happiest is Mark", "hypothesis": "Mark is happier than Michael", "label": 0}
+{"premise": "Among Michael and Jessica, the most difficult is Michael", "hypothesis": "Michael is more difficult than Jessica", "label": 0}
+{"premise": "Among Martin and Frances, the frankest is Martin", "hypothesis": "Martin is franker than Frances", "label": 0}
+{"premise": "Among George and Katherine, the coolest is George", "hypothesis": "George is cooler than Katherine", "label": 0}
+{"premise": "Among Edward and Lisa, the most annual is Edward", "hypothesis": "Edward is more annual than Lisa", "label": 0}
+{"premise": "Among Christopher and Joan, the most amusing is Christopher", "hypothesis": "Christopher is more amusing than Joan", "label": 0}
+{"premise": "Among Anne and Catherine, the most accurate is Anne", "hypothesis": "Anne is more accurate than Catherine", "label": 0}
+{"premise": "Among Mark and Julie, the felinest is Mark", "hypothesis": "Mark is feliner than Julie", "label": 0}
+{"premise": "Among Ruth and Jack, the most fearless is Ruth", "hypothesis": "Ruth is more fearless than Jack", "label": 0}
+{"premise": "Among Lisa and Samuel, the most cheerful is Lisa", "hypothesis": "Lisa is more cheerful than Samuel", "label": 0}
+{"premise": "Among Kate and Alice, the fondest is Kate", "hypothesis": "Kate is fonder than Alice", "label": 0}
+{"premise": "Among Rachel and David, the eagerest is Rachel", "hypothesis": "Rachel is eagerer than David", "label": 0}
+{"premise": "Among Marie and Catherine, the most biodegradable is Marie", "hypothesis": "Marie is more biodegradable than Catherine", "label": 0}
+{"premise": "Among Maria and Henry, the most broken is Maria", "hypothesis": "Maria is more broken than Henry", "label": 0}
+{"premise": "Among Amy and Amanda, the most functional is Amy", "hypothesis": "Amy is more functional than Amanda", "label": 0}
+{"premise": "Among Catherine and Francis, the frayedest is Catherine", "hypothesis": "Catherine is frayeder than Francis", "label": 0}
+{"premise": "Among Francis and Jim, the gummiest is Francis", "hypothesis": "Francis is gummier than Jim", "label": 0}
+{"premise": "Among Steve and Jane, the cheeriest is Steve", "hypothesis": "Steve is cheerier than Jane", "label": 0}
+{"premise": "Among Amanda and Nancy, the most crowded is Amanda", "hypothesis": "Amanda is more crowded than Nancy", "label": 0}
+{"premise": "Among Mark and Ruth, the brightest is Mark", "hypothesis": "Mark is brighter than Ruth", "label": 0}
+{"premise": "Among Bill and Paul, the most eminent is Bill", "hypothesis": "Bill is more eminent than Paul", "label": 0}
+{"premise": "Among Henry and Tom, the most extroverted is Henry", "hypothesis": "Henry is more extroverted than Tom", "label": 0}
+{"premise": "Among Patrick and Ellen, the most elastic is Patrick", "hypothesis": "Patrick is more elastic than Ellen", "label": 0}
+{"premise": "Among Anna and Ellen, the most attractive is Anna", "hypothesis": "Anna is more attractive than Ellen", "label": 0}
+{"premise": "Among Richard and Joan, the most delayed is Richard", "hypothesis": "Richard is more delayed than Joan", "label": 0}
+{"premise": "Among Frank and Steve, the grumpiest is Frank", "hypothesis": "Frank is grumpier than Steve", "label": 0}
+{"premise": "Among James and Charles, the most avaricious is James", "hypothesis": "James is more avaricious than Charles", "label": 0}
+{"premise": "Among Patrick and Jean, the femalest is Patrick", "hypothesis": "Patrick is femaler than Jean", "label": 0}
+{"premise": "Among Kathleen and Katherine, the cuddliest is Kathleen", "hypothesis": "Kathleen is cuddlier than Katherine", "label": 0}
+{"premise": "Among Marie and Kevin, the dampest is Marie", "hypothesis": "Marie is damper than Kevin", "label": 0}
+{"premise": "Among Walter and Stephen, the aniest is Walter", "hypothesis": "Walter is anier than Stephen", "label": 0}
+{"premise": "Among Frederick and Frances, the most flawless is Frederick", "hypothesis": "Frederick is more flawless than Frances", "label": 0}
+{"premise": "Among Walter and Albert, the most bogus is Walter", "hypothesis": "Walter is more bogus than Albert", "label": 0}
+{"premise": "Among Jane and Maria, the most foolhardy is Jane", "hypothesis": "Jane is more foolhardy than Maria", "label": 0}
+{"premise": "Among Betty and Laura, the most gracious is Betty", "hypothesis": "Betty is more gracious than Laura", "label": 0}
+{"premise": "Among Kathleen and Lucy, the grayest is Kathleen", "hypothesis": "Kathleen is grayer than Lucy", "label": 0}
+{"premise": "Among Kate and Nancy, the cleanest is Kate", "hypothesis": "Kate is cleaner than Nancy", "label": 0}
+{"premise": "Among Betty and Jim, the most determined is Betty", "hypothesis": "Betty is more determined than Jim", "label": 0}
+{"premise": "Among Samuel and Charles, the creamiest is Samuel", "hypothesis": "Samuel is creamier than Charles", "label": 0}
+{"premise": "Among Samuel and Edward, the most artistic is Samuel", "hypothesis": "Samuel is more artistic than Edward", "label": 0}
+{"premise": "Among Mike and Caroline, the most attentive is Mike", "hypothesis": "Mike is more attentive than Caroline", "label": 0}
+{"premise": "Among Francis and Sarah, the most dismal is Francis", "hypothesis": "Francis is more dismal than Sarah", "label": 0}
+{"premise": "Among Joseph and Alice, the most admired is Joseph", "hypothesis": "Joseph is more admired than Alice", "label": 0}
+{"premise": "Among Andrew and Emma, the most elastic is Andrew", "hypothesis": "Andrew is more elastic than Emma", "label": 0}
+{"premise": "Among Catherine and Chris, the burliest is Catherine", "hypothesis": "Catherine is burlier than Chris", "label": 0}
+{"premise": "Among Amy and Henry, the most actual is Amy", "hypothesis": "Amy is more actual than Henry", "label": 0}
+{"premise": "Among Louise and William, the most ethical is Louise", "hypothesis": "Louise is more ethical than William", "label": 0}
+{"premise": "Among Jack and Elizabeth, the gloomiest is Jack", "hypothesis": "Jack is gloomier than Elizabeth", "label": 0}
+{"premise": "Among Alan and Dorothy, the most animated is Alan", "hypothesis": "Alan is more animated than Dorothy", "label": 0}
+{"premise": "Among Christopher and Edward, the betterest is Christopher", "hypothesis": "Christopher is betterer than Edward", "label": 0}
+{"premise": "Among Patrick and Judith, the fondest is Patrick", "hypothesis": "Patrick is fonder than Judith", "label": 0}
+{"premise": "Among Michelle and Anthony, the most astonishing is Michelle", "hypothesis": "Michelle is more astonishing than Anthony", "label": 0}
+{"premise": "Among Kate and Mary, the awarest is Kate", "hypothesis": "Kate is awarer than Mary", "label": 0}
+{"premise": "Among Samuel and Laura, the most growing is Samuel", "hypothesis": "Samuel is more growing than Laura", "label": 0}
+{"premise": "Among Jessica and Betty, the most acrobatic is Jessica", "hypothesis": "Jessica is more acrobatic than Betty", "label": 0}
+{"premise": "Among Nancy and Sarah, the frayedest is Nancy", "hypothesis": "Nancy is frayeder than Sarah", "label": 0}
+{"premise": "Among Julie and Francis, the most dismal is Julie", "hypothesis": "Julie is more dismal than Francis", "label": 0}
+{"premise": "Among Anthony and Judith, the fullest is Anthony", "hypothesis": "Anthony is fuller than Judith", "label": 0}
+{"premise": "Among Lisa and Stephen, the gummiest is Lisa", "hypothesis": "Lisa is gummier than Stephen", "label": 0}
+{"premise": "Among Samuel and Anne, the fluidest is Samuel", "hypothesis": "Samuel is fluider than Anne", "label": 0}
+{"premise": "Among William and Richard, the most distorted is William", "hypothesis": "William is more distorted than Richard", "label": 0}
+{"premise": "Among Kathleen and Peter, the draftiest is Kathleen", "hypothesis": "Kathleen is draftier than Peter", "label": 0}
+{"premise": "Among Susan and Michael, the most faithful is Susan", "hypothesis": "Susan is more faithful than Michael", "label": 0}
+{"premise": "Among Sarah and George, the most everlasting is Sarah", "hypothesis": "Sarah is more everlasting than George", "label": 0}

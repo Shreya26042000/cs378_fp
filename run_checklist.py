@@ -140,13 +140,9 @@ def superlatives_comparitives():
   editor = Editor.Editor()
   editor.lexicons['adjective'] = adjectives[:500]
   editor.lexicons['name'] = editor.lexicons['first_name'][:100]
-  print("0")
-  out = editor.template('Among {name1}, {name2} and {name3}, the {adjective1[1]} is {name1};{name1} is {adjective1[0]} than {name2}')
-  print("1")
+  out = editor.template('Among {name1} and {name2}, the {adjective1[1]} is {name1};{name1} is {adjective1[0]} than {name2}')
   random.shuffle(out.data)
-  print("2")
   examples = out.data[:1000]
-  print("3")
   for row in examples:
     data = row.split(';')
     with open('checklist_data/superlatives_dataset.json', 'a', encoding='UTF8') as f:
