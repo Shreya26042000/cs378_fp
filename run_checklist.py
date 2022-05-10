@@ -28,7 +28,30 @@ def create_antonyms_list():
                       f.write(',\n')
                 count+=1
 
-def create_antonyms_dataset():
+def create_antonyms_dataset1():
+  editor = Editor.Editor()
+  editor.lexicons['antonym'] = antonyms_list
+  editor.lexicons['name'] = editor.lexicons['first_name']
+  out = editor.template('{name1} is {antonym1[0]},{name1} is {antonym1[1]}')
+
+  # editor.template creates a cross product of all choices for placeholders. Let's sample 10 examples from this
+  random.shuffle(out.data)
+  examples = out.data[:1000]
+
+  for row in examples:
+    data = row.split(',')
+    with open('checklist_data/antonyms_dataset1.json', 'a', encoding='UTF8') as f:
+        # write the data
+        data = {'premise': data[0],
+        'hypothesis': data[1],
+        'label': 2} 
+        # 0 for entailment
+        # 1 for neutral
+        # 2 for contradiction
+        s = json.dumps(data)
+        f.write(s + '\n')
+
+def create_antonyms_dataset2():
   editor = Editor.Editor()
   editor.lexicons['antonym'] = antonyms_list
   editor.lexicons['name'] = editor.lexicons['first_name']
