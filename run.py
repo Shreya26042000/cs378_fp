@@ -1,4 +1,5 @@
 import datasets
+from datasets import concatenate_datasets, load_dataset
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, \
     AutoModelForQuestionAnswering, Trainer, TrainingArguments, HfArgumentParser
 from helpers import prepare_dataset_nli, prepare_train_dataset_qa, \
@@ -7,7 +8,6 @@ import os
 import json
 
 NUM_PREPROCESSING_WORKERS = 2
-
 
 def main():
     argp = HfArgumentParser(TrainingArguments)
@@ -46,6 +46,8 @@ def main():
                       help='Limit the number of examples to train on.')
     argp.add_argument('--max_eval_samples', type=int, default=None,
                       help='Limit the number of examples to evaluate on.')
+    argp.add_argument('--augment_data', type=str, default=None,
+                      help='Select the json file to augment data based on')                  
 
     training_args, args = argp.parse_args_into_dataclasses()
 
@@ -67,9 +69,19 @@ def main():
         eval_split = 'validation_matched' if dataset_id == ('multi_nli',) else 'validation'
         # Load the raw data
         dataset = datasets.load_dataset(*dataset_id)
-        print(eval_split)
-        print(dataset)
-
+        
+        if args.augment_data:
+          augment_dataset_name = args.augment_data
+          labels = datasets.ClassLabel(names=['entailment', 'neutral', 'contradiction'])
+          augment_dataset = datasets.load_dataset('json', data_files=augment_dataset_name)
+          augment_dataset = augment_dataset.cast(dataset['train'].features)
+          if args.max_train_samples:
+            dataset['train'] = dataset['train'].select(range(args.max_train_samples))
+            # train_dataset = train_dataset.select(range(args.max_train_samples))
+          concat_dataset = concatenate_datasets([dataset['train'], augment_dataset['train']])
+          # final_dataset = {'train': concat_dataset}
+          dataset['train'] = concat_dataset
+          print("Total length of dataset:", len(dataset['train']))
     
     # NLI models need to have the output label count specified (label 0 is "entailed", 1 is "neutral", and 2 is "contradiction")
     task_kwargs = {'num_labels': 3} if args.task == 'nli' else {}
@@ -104,8 +116,9 @@ def main():
     eval_dataset_featurized = None
     if training_args.do_train:
         train_dataset = dataset['train']
-        if args.max_train_samples:
-            train_dataset = train_dataset.select(range(args.max_train_samples))
+        if not args.augment_data:
+          if args.max_train_samples:
+              train_dataset = train_dataset.select(range(args.max_train_samples))
         train_dataset_featurized = train_dataset.map(
             prepare_train_dataset,
             batched=True,
