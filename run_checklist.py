@@ -237,11 +237,11 @@ def temporal_reasoning2():
   examples = out.data[:1000]
   for row in examples:
     data = row.split(';')
-    with open('checklist_data/temporal_dataset3.json', 'a', encoding='UTF8') as f:
+    with open('checklist_data/temporal_dataset2.json', 'a', encoding='UTF8') as f:
         # write the data
         data = {'premise': data[0],
         'hypothesis': data[1],
-        'label': 0} 
+        'label': 2} 
         # 0 for entailment
         # 1 for neutral
         # 2 for contradiction
