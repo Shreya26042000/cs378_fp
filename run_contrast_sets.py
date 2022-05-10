@@ -8,6 +8,8 @@ import json
 import csv
 import spacy
 from nltk.corpus.reader.chasen import test  
+from transformers import *
+from parrot import Parrot
 
 editor = Editor.Editor()
 
@@ -129,8 +131,39 @@ def add_negation_hypothesis(test_dataset):
         except:
           pass
         
+def paraphrase_premise(test_dataset):
+  model = PegasusForConditionalGeneration.from_pretrained("tuner007/pegasus_paraphrase")
+  tokenizer = PegasusTokenizerFast.from_pretrained("tuner007/pegasus_paraphrase")
+  for row in test_dataset:
+    premise = row['premise']
+    # tokenize the text to be form of a list of token IDs
+    inputs = tokenizer([premise], truncation=True, padding="longest", return_tensors="pt")
+    # generate the paraphrased sentences
+    outputs = model.generate(
+      **inputs,
+      num_beams=5,
+      num_return_sequences=1,
+    )
+    # decode the generated sentences using the tokenizer to get them back to text
+    premise = tokenizer.batch_decode(outputs, skip_special_tokens=True)
+    print(premise)
 
-add_negation_hypothesis(test_dataset)
+def paraphrase_premise2(test_dataset):
+  parrot = Parrot()
+  for row in test_dataset:
+    premise = row['premise']
+    # tokenize the text to be form of a list of token IDs
+    paraphrases = parrot.augment(input_phrase=premise)
+    # for paraphrase in paraphrases:
+    #   print(paraphrase)
+    premise = next(iter(paraphrases))
+    print(premise)
+
+# Both seem pretty slow tbh, the first might be faster.
+# first was probably slightly faster
+
+paraphrase_premise2(test_dataset)
+# add_negation_hypothesis(test_dataset)
 # add_dataset(test_dataset)
 # add_typos_premise(test_dataset)
 # add_typos_hypothesis(test_dataset)

@@ -13,6 +13,7 @@ import json
 import csv  
 from pattern.en import comparative, superlative
 
+
 # default_datasets = {'qa': ('squad',), 'nli': ('snli',)}
 #         # dataset_id = tuple(args.dataset.split(':')) if args.dataset is not None else \
 #         #     default_datasets[args.task]

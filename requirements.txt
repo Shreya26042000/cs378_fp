@@ -6,3 +6,5 @@ tqdm
 checklist
 pattern
 countryinfo
+sentencepiece
+git+https://github.com/PrithivirajDamodaran/Parrot_Paraphraser.git
