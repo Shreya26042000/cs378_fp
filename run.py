@@ -81,7 +81,7 @@ def main():
           concat_dataset = concatenate_datasets([dataset['train'], augment_dataset['train']])
           # final_dataset = {'train': concat_dataset}
           dataset['train'] = concat_dataset
-          print("Total length of dataset:", len(dataset['train']))
+        dataset['train'] = dataset['train'].shuffle(seed=42)
     
     # NLI models need to have the output label count specified (label 0 is "entailed", 1 is "neutral", and 2 is "contradiction")
     task_kwargs = {'num_labels': 3} if args.task == 'nli' else {}
