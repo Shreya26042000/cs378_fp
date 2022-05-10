@@ -13,23 +13,7 @@ import json
 import csv  
 from pattern.en import comparative, superlative
 
-
-# default_datasets = {'qa': ('squad',), 'nli': ('snli',)}
-#         # dataset_id = tuple(args.dataset.split(':')) if args.dataset is not None else \
-#         #     default_datasets[args.task]
-# dataset_id = ('snli', )
-# # MNLI has two validation splits (one with matched domains and one with mismatched domains). Most datasets just have one "validation" split
-# print(dataset_id)
-# eval_split = 'validation_matched' if dataset_id == ('multi_nli',) else 'validation'
-# # Load the raw data
-# dataset = datasets.load_dataset(*dataset_id)
-
-# test_dataset = dataset['test']
-# # TODO: Can add training examples here
-# max_samples = 10
-# test_dataset = test_dataset.select(range(max_samples))
-
-def create_antonyms_lsit():
+def create_antonyms_list():
   ADJ, ADJ_SAT, ADV, NOUN, VERB = "a", "s", "r", "n", "v"
   count = 0
 
@@ -141,7 +125,7 @@ def superlatives_comparitives1():
 
   editor = Editor.Editor()
   random.shuffle(adjectives)
-  editor.lexicons['adjective'] = adjectives[:500]
+  editor.lexicons['adjective'] = adjectives
   editor.lexicons['name'] = editor.lexicons['first_name'][:100]
   out = editor.template('Among {name1} and {name2}, the {adjective1[1]} is {name1};{name1} is {adjective1[0]} than {name2}')
   random.shuffle(out.data)
@@ -168,7 +152,7 @@ def superlatives_comparitives2():
 
   editor = Editor.Editor()
   random.shuffle(adjectives)
-  editor.lexicons['adjective'] = adjectives[:500]
+  editor.lexicons['adjective'] = adjectives
   editor.lexicons['name'] = editor.lexicons['first_name'][:100]
   out = editor.template('Among {name1} and {name2}, the {adjective1[1]} is {name2};{name1} is {adjective1[0]} than {name2}')
   random.shuffle(out.data)
@@ -202,7 +186,7 @@ def generate_years():
 def temporal_reasoning1():
   editor = Editor.Editor()
   random.shuffle(years_list)
-  editor.lexicons['year'] = years_list[:500]
+  editor.lexicons['year'] = years_list
   editor.lexicons['name'] = editor.lexicons['first_name'][:100]
   out = editor.template('{name1} was born in {year1[0]} and {name2} was born in {year1[1]}.;{name1} was born earlier than {name2}')
   random.shuffle(out.data)
@@ -223,7 +207,7 @@ def temporal_reasoning1():
 def temporal_reasoning2():
   editor = Editor.Editor()
   random.shuffle(years_list)
-  editor.lexicons['year'] = years_list[:500]
+  editor.lexicons['year'] = years_list
   editor.lexicons['name'] = editor.lexicons['first_name'][:100]
   out = editor.template('{name1} was born in {year1[1]} and {name2} was born in {year1[0]}.;{name1} was born earlier than {name2}')
   random.shuffle(out.data)
@@ -303,13 +287,10 @@ def create_countries_dataset2():
 
 def create_neutral():
   editor = Editor.Editor()
-  # random.shuffle(synonyms_list)
-  print(editor.lexicons.keys())
-  # editor.lexicons['synonym'] = synonyms_list[:1000]
   editor.lexicons['name'] = editor.lexicons['first_name']
   out = editor.template('{name1} is {nationality1}.;{name2} is {nationality1}.')
 
-  # editor.template creates a cross product of all choices for placeholders. Let's sample 10 examples from this
+  # editor.template creates a cross product of all choices for placeholders.
   random.shuffle(out.data)
   examples = out.data[:1000]
 
