@@ -1,0 +1,20 @@
+{"premise": "Tan dog running through long grass ni a park-like setting.", "hypothesis": "A dog runs after a squirrel.", "label": 1}
+{"premise": "The man in hte white shirt holds up a playing card.", "hypothesis": "The man is holding up the Ace of Spades.", "label": 1}
+{"premise": "Violin soloists take the stage during th eorchestra's opening show at the theater.", "hypothesis": "People are playing the harmonica while standing on a roof.", "label": 2}
+{"premise": "A man in an orang ehat holds a ball.", "hypothesis": "A man in a blue hat drops the ball.", "label": 2}
+{"premise": "A man with a light blue t-shirt outside in the open wearin gred ear protection while firing a gun.", "hypothesis": "A man is signaling the start of a race.", "label": 1}
+{"premise": "A amn with a tattoo on his arm staring to the side with vehicles and buildings behind him.", "hypothesis": "A man is standing outside near a street.", "label": -1}
+{"premise": "Two men in costumes with fake carort noses, top hats, sunglasses and white fur coats that contain white electrical lights.", "hypothesis": "Nobody has a costume one", "label": 2}
+{"premise": "Childrne are playing in the street with a toy.", "hypothesis": "The children have a ball.", "label": 1}
+{"premise": "People sitting in chairs along a tree-lined sidewlak.", "hypothesis": "People are watching the flowers blossom", "label": 1}
+{"premise": "Two street people and a dog sitting on the ground and one is holding an \"out of luck\" sgin.", "hypothesis": "the people are swimming in the red sea", "label": -1}
+{"premise": "In a snowy residential environment, a man with a brown jacket and gray mustache and beard places a hand on a felled log while antoher man in a blue shirt is blurry on the right side of the photo.", "hypothesis": "The men have put out a fire.", "label": 2}
+{"premise": "A man in a blcak shirt working on a guitar.", "hypothesis": "A guy working on his instrument.", "label": 0}
+{"premise": "A man reads the pape rin a bar with green lighting.", "hypothesis": "The man is reading the sportspage.", "label": 1}
+{"premise": "A boy rollerskating in the street.", "hypothesis": "A boy is sleeping", "label": 2}
+{"premise": "A group of adults standing up wiht children in sports attire kneeling on the ground.", "hypothesis": "A group of adults and kids.", "label": 0}
+{"premise": "A black man in a knitted ,blue cap and green, collared shirt sit next to a stump slicing a coconut.", "hypothesis": "A man drinking coconut water.", "label": 2}
+{"premise": "A man standing in a cubicle with a chair that has a black Gionbili jersey on it.", "hypothesis": "A man is wearing a white sport jersey in his cubicle.", "label": 2}
+{"premise": "A woman, wearing a colorful bikini, resst laying down next to the blue water.", "hypothesis": "The woman is wearing a prom dress.", "label": 2}
+{"premise": "Toplses girl riding a red bike.", "hypothesis": "A woman is on a bike.", "label": 0}
+{"premise": "3 ladies with numbers on thier shirts running.", "hypothesis": "The ladies are riding bikes.", "label": 2}
