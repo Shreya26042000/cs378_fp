@@ -674,7 +674,7 @@
 {"premise": "One female and two male musicians holding musical equipment.", "hypothesis": "There is not one female", "label": 2}
 {"premise": "A group of children in African clothing.", "hypothesis": "Nobody is not here.", "label": 0}
 {"premise": "A man wearing a short-sleeved blue shirt and carrying a blue backpack while using snow walking sticks treks through the snow with a woman wearing a long-sleeved blue shirt and black pants also using snow walking sticks.", "hypothesis": "two men don't play with a snowman", "label": 0}
-{"premise": "A child dressed in purple clothing and a hat runs in splashing water while a man and a small boy walk nearby.", "hypothesis": "a child doesn't splash water", "label": -1}
+{"premise": "A child dressed in purple clothing and a hat runs in splashing water while a man and a small boy walk nearby.", "hypothesis": "a child doesn't splash water", "label": 1}
 {"premise": "A man leads the way in a race.", "hypothesis": "The man is not last place in the race.", "label": 0}
 {"premise": "A black and white dog jumps for a tennis ball.", "hypothesis": "A dog is not mid-air, jumping to catch a tennis ball.", "label": 2}
 {"premise": "A woman is seen from above applying red nail polish to her toes, as they rest on a leather seat.", "hypothesis": "The woman doesn't have red toenails.", "label": 2}
